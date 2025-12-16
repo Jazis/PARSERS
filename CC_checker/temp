@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+
+///if(screen.width>500){
+//	window.location.replace("bin-checker.php");
+//}
+</script>
+<title> Bin checker - Bank Bin number lookup Credit Card Bins binlist search </title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keywords" content="bin check,bin checker,bin lookup , bin search, bin find, find bin, check bin, search bin, bank identification number, bin,bin number lookup , bin list database , iin, issuer identification number, check iin, find iin, search iin, iin check, iin search, iin find, bank, card search, card check, card find, merchant bin, merchant, bin lookup, bin checker, bin list , bins, bins.pro, bins.pro new domain , bins checker, bins pro , bins pro new domain">
+<meta name="description" content="Best Credit Card Bin checker service. Bin search information lookup have over 340,000 unique BIN numbers in the database,binchecker service bins.pro 2019" />
+
+<meta name="google-site-verification" content="TtXGpiSSx_ir6EffMswPXvk36b9i4Z93y-0x8icQo3c" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("background.jpg");
+}
+.footer {
+   
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #323232;
+    color: white;
+    text-align: center;
+    font-family:'Open sans';
+    font-weight:14;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: right;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #2BA2DF;
+  color: black;
+}
+
+.active {
+  background-color: #1E1B24;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+.contennt{
+    position:relative;
+	border-radius : 10px;
+	border :  #CDCDCD;
+	border-radius: 8px;
+	font-family: calibri;
+	font-size: 18px;
+	text-align: left;
+	padding-left :10px;
+	width: 71%;
+	line-height:25px;
+	color: #585172;	
+	background: #EFEFEF;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.contennt:hover{
+	background:#EFEFFF;
+}
+.tabelmobile{
+	font-family: calibri;
+	font-size: 18px;
+	text-align: left;
+	padding-left :10px;
+	line-height:25px;
+	color: #585172;	
+	background: #EFEFEF;
+}
+.back{
+    position:relative;
+	border :  #CDCDCD;
+	border-radius : 10px;
+	margin-left : auto;
+	margin-right : auto;
+	margin-top: 10px;
+	margin-bottom : 10px;
+	width: 70%;
+	padding-bottom:50px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	
+}
+.back:hover{
+	
+	box-shadow: 0 0 3px #01637E;
+}
+img{
+        right: 20px;
+    }
+    img:hover{
+        right:30px;
+    }
+a {
+    color: #8DC7D4;
+}
+a:link {
+    text-decoration: none;
+
+</style>
+
+
+<script data-ad-client="ca-pub-4423558513229962" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+</head>
+<body>
+
+<div class="topnav" id="myTopnav">
+  <a href="index.php" class="active">Home</a>
+  <a href="advancedbinchecker.php">Advanced Bin Checker</a>
+  <a href="https://richcreditcards.com/credit-card-validator.html">Credit Card Validator</a>
+  
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
+
+
+
+
+
+
+<script>
+var x = "Total Width: " + screen.width + "px";
+//document.write(x);
+</script>
+
+
+<script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>
+<!---=============================================================================================================================================-->
+<style>
+input[type=text] {
+    width: 67%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #BF534F;
+    border-radius: 4px;
+	
+	font-size: 20px;
+	text-align : center;
+}
+#footer_sha{
+-webkit-box-shadow: -2px -12px 36px -13px rgba(0,0,0,0.75);
+-moz-box-shadow: -2px -12px 36px -13px rgba(0,0,0,0.75);
+box-shadow: -2px -12px 36px -13px rgba(0,0,0,0.75);
+}
+#foot_table{
+    color: #8DC7D4;
+    font-weight:16;
+    
+    border-bottom: 1px solid #323232;
+    width:50%;
+    
+}
+input[type=text]:hover {
+	box-shadow: 0 0 3px #FF0000;
+}
+.mobile{
+	width : 80%;
+}
+.web{
+	width : 50%;
+}
+
+
+.button {
+  border-radius: 4px;
+  background-color : #FAA9B0; 
+  border: 1px solid #E94345;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 20px;
+  padding: 8px;
+  width: 100px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+.button:hover{
+	background-color:#E94345;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+td {
+    border-bottom: 1px solid #ddd;
+	padding-right:20px;
+	
+	
+}th{
+	background-color : #E8E8FF;
+	border-radius: 8px;
+	padding :5px;
+	
+}
+table, tr{
+	text-align : left;
+	padding : 8px;
+	color: #001A53;
+	
+	
+}
+hr{ 
+  border: 0; 
+  height: 1px; 
+  background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0); 
+}
+input::placeholder {
+	font-style :italic;
+	opacity: 0.5;
+	font-family: georgia;
+}
+#cont{
+	
+	border-radius : 4px;
+	padding : 5px;
+	font-family : open sans;
+	color : #454D5D;
+	
+	}
+h1{
+    font-size:26px;
+    
+}
+}
+
+</style>
+<center>
+<!----------------------------------------------------ADS--------------------------------------------------------->
+<p style="position:absolute; left:0; width:15%; padding-top:20%;" id="firstad">
+
+<!-- AD 1 -->
+
+
+</p>
+<p style="position:absolute; right:0; width:15%; padding-top:20%;" id="secad">
+<!-- AD 2 -->
+
+
+</p>
+
+
+<!--------------------------------------------END OF ADS---------------------------------------->
+<script>
+if(screen.width<500){
+	document.write("<div class = 'mobile'>");
+}else{
+	document.write("<div class = 'back'>");
+	document.write("<div class = 'web'>");
+	
+}
+</script>
+<br>
+<h1>
+BIN checker - Bin Lookup</h1>
+<h4 id="cont">A bin lookup service of over 340,000 BIN numbers</h4>
+<form method="GET">
+    <script>
+function myFunction() {
+    var x= document.getElementById("binnn").value;
+    document.getElementById("binnn").value = x.trim();
+}
+</script>
+<input type="text" id="binnn" name="bins" placeholder="BIN or Card Number" onfocusout="myFunction()">
+</div>
+<button class="button" type="submit"><span>Check </span></button>
+</form>
+
+<html>
+<head>
+<title> Bin checker - Bin number lookup Credit Card Bins binlist search</title>
+<meta name="keywords" content="bin check,bin checker,bin lookup , bin search, bin find, find bin, check bin, search bin, bank identification number, bin,bin number lookup , bin list database , iin, issuer identification number, check iin, find iin, search iin, iin check, iin search, iin find, bank, card search, card check, card find, merchant bin, merchant, bin lookup, bin checker, bin list , bins, bins.pro, bins.pro new domain , bins checker, bins pro , bins pro new domain">
+<meta name="description" content="Best Bin checker , Bin lookup and Bin database search . We are Bins.pro new domain with biggest binlist bin checker . Our team providing  Free credit card generator , Free credit card checker and many more facilities.  Visit us to get best free tools. Our 
+bank identification number bin credit card database is best">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<meta name="google-site-verification" content="TtXGpiSSx_ir6EffMswPXvk36b9i4Z93y-0x8icQo3c" />
+<link rel="SHORTCUT ICON" href="favicon.ico"/>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-122828212-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-122828212-6');
+</script>
+
+
+</head><br><br><hr><br><table style=""><tr><th>BIN:&nbsp;&nbsp;</th><td>426684</td></tr>
+	<tr><th>Country:&nbsp;&nbsp;</th><td>US</td></tr>
+	<tr><th>Vendor:&nbsp;&nbsp;</th><td>VISA</td></tr>
+	<tr><th>Type:&nbsp;&nbsp;</th><td>CREDIT</td></tr>
+	<tr><th>Level:&nbsp;&nbsp;</th><td>GOLD</td></tr>
+	<tr><th>Bank:&nbsp;&nbsp;</th><td>CHASE BANK USA, N.A.</td></tr>
+	</table><center>
+            
+        </center>
+</div>
+</center>
+<script>
+//if(screen.width>500){a
+//	document.write('<a href="https://ccbins.pro/contact.php" target="_blank">');
+//	document.write('<img src= "images.jpeg" style="position: fixed;  bottom: 0; width: 10%; padding: 20px; right:20px;"></a>');
+}
+</script>
+
+</div>
+
+
+<table><tr><td>
+
+</td>
+<!--===============Content==========================-->
+<script>
+if(screen.width<500){
+	document.write("<td class='tablemobile'>");
+}else{
+	document.write('<td class="contennt">');
+}
+</script>
+
+<br>
+<h2><span>CREDIT CARD BIN LIST DATABASE</span></h2>
+<p>ccbins.pro bin checker is a credit card bin numbers database for credit card and debit card bin search information lookup.</p>
+<p><span style="background-color: #D1E8FF;">We currently have over 340,000 unique Credit Cards BIN numbers in the database. (final updated 2019 Feb.)</span></p>
+<p>&nbsp;</p>
+<h3>What is credit card bin number?</h3>
+credit card bin number is first six digit of its card number.
+For example, if the credit card number "400100999999999" the credit card bin number is "400100"
+you can find the credit card bin number belongs to which bank using <a href="http://ccbins.pro">bin checker</a>
+&nbsp;
+<h3><span >BIN/IIN SEARCH</span></h3>
+<p>Our Bank BIN database allows you to search the first 6 or 8 digits of a credit or debit card bin number. This is the Issuer Identification Number (IIN), which is commonly known and referred to as the Bank Identification Number (BIN).</p>
+<p>The BIN/IIN number allows you to identify the name of the bank which issued the card to the cardholder.</p>
+<p>&nbsp;</p>
+<h3><span >OUR BIN NUMBER SEARCH And Lookup DATA</span></h3>
+<p>Our engineers have spent a large amount of time and money compiling BIN numbers from as many sources as possible, filtering and refining the level of information and checking it for accuracy. The result is a very large Binbase database of BIN codes number information.</p>
+<p>Our database is very accurate, but it is not possible to maintain a 100% perfect list of IIN numbers because they change regularly. We continuously improve the list, removing old and inactive Credit card BIN numbers, and adding new BIN series numbers as they are released.</p>
+<p>&nbsp;</p>
+<h3><span >DOWNLOADING THE CC BIN DATA</span></h3>
+<p>Although our bin credit card numbers database and web bin lookup is accurate and online always, we want to make sure the binchecker search data is as comprehensive and accurate as possible before we offer it for download.</p>
+<h3><span >API ACCESS</span></h3>
+<p>We offer access to an API in order to perform BIN number lookup search. Many companies offer this service, but it can become expensive with large lookup numbers. You are also reliant on a third party provider for your BIN checker, which is not ideal when using a BIN check tool to verify the bank details of your customers.</p>
+<p>&nbsp;</p>
+<h3><span >Contact us CCBINS.PRO BIN CHECKER - BIN NUMBER LOOKUP SERVICE</span></h3>
+<p>Have any questions? Feedback? Need help?&nbsp;<a href="https://ccbins.pro/contact.php" target="_blank">Fill out the contact form</a>&nbsp;to get in touch.</p>
+&nbsp;
+<h3>Some more helpful sites :</h3>
+<a href="https://creditcardsgenerator.com">credit card generator</a>
+&nbsp;
+<a href="https://creditcardslover.com">Free credit card numbers</a>
+&nbsp;
+<p style="text-align: center;"><strong><span class="text-gray">&nbsp; &nbsp; Copyright &copy;&nbsp;2019 &middot; ccbins.pro</span></strong></p>
+</center>
+</td><td></td></tr></table>
+
+<div class="footer" id="footer_sha">
+  
+<center>
+<table border="0" style="margin-left:30px;
+    margin-right:30px;">
+    <tr><td id="foot_table"><a href="https://ccbins.pro/terms-of-service.php" target="_blank">Terms of Service</a></td><td id="foot_table"><a href="privacy-policy.php" target="_blank">Privacy Policy</a></td><td id="foot_table"><a href="https://ccbins.pro/contact.php" target="_blank">Contact</a></td></tr>
+</table>
+<br>
+</center>
+</div>
+
+</body>
+</html>

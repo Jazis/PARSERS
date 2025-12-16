@@ -1,0 +1,449 @@
+[0421/163241.844:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/163241.845:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/163241.845:ERROR:exception_snapshot_win.cc(98)] thread ID 2604 not found in process
+[0421/163241.848:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/163241.849:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/163241.849:ERROR:exception_snapshot_win.cc(98)] thread ID 2548 not found in process
+[0421/163241.858:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/163241.858:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/163241.858:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/163241.858:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/163241.858:ERROR:exception_snapshot_win.cc(98)] thread ID 9916 not found in process
+[0421/163635.490:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/163635.490:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/163635.491:ERROR:exception_snapshot_win.cc(98)] thread ID 9672 not found in process
+[0421/163635.505:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/163635.505:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/163635.505:ERROR:exception_snapshot_win.cc(98)] thread ID 5332 not found in process
+[0421/164147.603:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/164147.603:ERROR:exception_snapshot_win.cc(98)] thread ID 5424 not found in process
+[0421/164147.618:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/164147.618:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/164147.618:ERROR:exception_snapshot_win.cc(98)] thread ID 5212 not found in process
+[0421/165044.664:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/165044.664:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/165044.664:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/165044.665:ERROR:exception_snapshot_win.cc(98)] thread ID 2336 not found in process
+[0421/165044.674:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/165044.674:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/165044.674:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/165044.674:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/165044.675:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/165044.675:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/165044.675:ERROR:exception_snapshot_win.cc(98)] thread ID 9340 not found in process
+[0421/165454.422:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/165454.423:ERROR:exception_snapshot_win.cc(98)] thread ID 1896 not found in process
+[0421/165454.440:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/165454.440:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/165454.440:ERROR:exception_snapshot_win.cc(98)] thread ID 5696 not found in process
+[0421/170127.955:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/170127.955:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/170127.956:ERROR:exception_snapshot_win.cc(98)] thread ID 9184 not found in process
+[0421/170127.956:ERROR:exception_snapshot_win.cc(98)] thread ID 8236 not found in process
+[0421/170127.981:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/170127.981:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/170127.981:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/170127.981:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/170127.981:ERROR:exception_snapshot_win.cc(98)] thread ID 9136 not found in process
+[0421/170128.039:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/170128.039:ERROR:exception_snapshot_win.cc(98)] thread ID 6364 not found in process
+[0421/170453.345:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/170453.346:ERROR:exception_snapshot_win.cc(98)] thread ID 9032 not found in process
+[0421/170453.356:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/170453.356:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/170453.356:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/170453.356:ERROR:exception_snapshot_win.cc(98)] thread ID 7500 not found in process
+[0421/170835.448:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/170835.448:ERROR:exception_snapshot_win.cc(98)] thread ID 7216 not found in process
+[0421/170835.468:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/170835.468:ERROR:exception_snapshot_win.cc(98)] thread ID 1800 not found in process
+[0421/170934.527:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/170934.527:ERROR:exception_snapshot_win.cc(98)] thread ID 11348 not found in process
+[0421/170934.551:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/170934.551:ERROR:exception_snapshot_win.cc(98)] thread ID 9552 not found in process
+[0421/171554.889:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/171554.889:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/171554.890:ERROR:exception_snapshot_win.cc(98)] thread ID 10244 not found in process
+[0421/171554.912:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/171554.913:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/171554.913:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/171554.913:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/171554.913:ERROR:exception_snapshot_win.cc(98)] thread ID 5640 not found in process
+[0421/171844.739:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/171844.739:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/171844.739:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/171844.739:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/171844.739:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/171844.739:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/171844.739:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/171844.739:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/171844.739:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/171844.739:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/171844.739:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/171844.739:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/171844.740:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/171844.740:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/171844.740:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/171844.740:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/171844.739:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/171844.740:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/171844.740:ERROR:exception_snapshot_win.cc(98)] thread ID 8716 not found in process
+[0421/171844.740:ERROR:exception_snapshot_win.cc(98)] thread ID 11384 not found in process
+[0421/171844.739:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/171844.740:ERROR:exception_snapshot_win.cc(98)] thread ID 5288 not found in process
+[0421/171844.740:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/171844.740:ERROR:exception_snapshot_win.cc(98)] thread ID 2624 not found in process
+[0421/180617.806:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/180617.810:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/180617.838:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/180617.838:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/180617.822:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/180617.838:ERROR:exception_snapshot_win.cc(98)] thread ID 9828 not found in process
+[0421/180617.838:ERROR:exception_snapshot_win.cc(98)] thread ID 5816 not found in process
+[0421/180617.838:ERROR:exception_snapshot_win.cc(98)] thread ID 5320 not found in process
+[0421/182444.068:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/182444.069:ERROR:exception_snapshot_win.cc(98)] thread ID 9928 not found in process
+[0421/182444.100:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/182444.100:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/182444.100:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/182444.100:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/182444.100:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0421/182444.100:ERROR:exception_snapshot_win.cc(98)] thread ID 9860 not found in process
+[0510/000409.927:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/000410.004:ERROR:exception_snapshot_win.cc(98)] thread ID 2340 not found in process
+[0510/000410.101:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/000410.101:ERROR:exception_snapshot_win.cc(98)] thread ID 13096 not found in process
+[0510/003954.638:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/003954.669:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/003954.671:ERROR:exception_snapshot_win.cc(98)] thread ID 6792 not found in process
+[0510/003954.671:ERROR:exception_snapshot_win.cc(98)] thread ID 8180 not found in process
+[0510/004409.013:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/004409.013:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/004409.014:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/004409.014:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/004409.014:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/004409.015:ERROR:exception_snapshot_win.cc(98)] thread ID 3384 not found in process
+[0510/004409.014:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/004409.015:ERROR:exception_snapshot_win.cc(98)] thread ID 6908 not found in process
+[0510/004409.038:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/004409.038:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/004409.038:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/004409.038:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/004409.038:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/004409.038:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/004409.038:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/004409.039:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/004409.039:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/004409.039:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/004409.039:ERROR:exception_snapshot_win.cc(98)] thread ID 10560 not found in process
+[0510/004409.039:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/004409.039:ERROR:exception_snapshot_win.cc(98)] thread ID 5076 not found in process
+[0510/004607.148:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/004607.149:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/004607.149:ERROR:exception_snapshot_win.cc(98)] thread ID 9888 not found in process
+[0510/004607.169:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/004607.197:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/004607.197:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/004607.197:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/004607.197:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/004607.197:ERROR:exception_snapshot_win.cc(98)] thread ID 4492 not found in process
+[0510/004849.224:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/004849.225:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/004849.225:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/004849.225:ERROR:exception_snapshot_win.cc(98)] thread ID 8708 not found in process
+[0510/004849.241:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/004849.241:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/004849.241:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/004849.241:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/004849.241:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/004849.241:ERROR:exception_snapshot_win.cc(98)] thread ID 9892 not found in process
+[0510/005023.507:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/005023.507:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/005023.507:ERROR:exception_snapshot_win.cc(98)] thread ID 12248 not found in process
+[0510/005023.528:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/005023.528:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/005023.528:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/005023.528:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/005023.528:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/005023.528:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/005023.528:ERROR:exception_snapshot_win.cc(98)] thread ID 11796 not found in process
+[0510/005258.797:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/005258.798:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/005258.798:ERROR:exception_snapshot_win.cc(98)] thread ID 12928 not found in process
+[0510/005258.816:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/005258.816:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/005258.816:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/005258.816:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/005258.816:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/005258.816:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/005258.816:ERROR:exception_snapshot_win.cc(98)] thread ID 1696 not found in process
+[0510/010835.909:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/010835.910:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/010835.910:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/010835.911:ERROR:exception_snapshot_win.cc(98)] thread ID 12644 not found in process
+[0510/010835.949:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/010835.949:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/010835.949:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/010835.949:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/010835.949:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/010835.949:ERROR:exception_snapshot_win.cc(98)] thread ID 12940 not found in process
+[0510/011402.592:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/011402.593:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/011402.593:ERROR:exception_snapshot_win.cc(98)] thread ID 11200 not found in process
+[0510/011402.625:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/011402.625:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/011402.625:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/011402.625:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/011402.625:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/011402.625:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/011402.625:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/011402.625:ERROR:exception_snapshot_win.cc(98)] thread ID 7048 not found in process
+[0510/012148.800:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/012148.932:ERROR:exception_snapshot_win.cc(98)] thread ID 13884 not found in process
+[0510/012149.213:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/012149.213:ERROR:exception_snapshot_win.cc(98)] thread ID 4036 not found in process
+[0510/022003.905:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/022003.926:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/022003.926:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/022003.926:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/022003.893:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/022003.926:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/022004.030:ERROR:exception_snapshot_win.cc(98)] thread ID 7676 not found in process
+[0510/022004.030:ERROR:exception_snapshot_win.cc(98)] thread ID 4788 not found in process
+[0510/022007.878:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/022007.878:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/022007.878:ERROR:exception_snapshot_win.cc(98)] thread ID 1580 not found in process
+[0510/022016.197:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/022016.197:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/022016.197:ERROR:exception_snapshot_win.cc(98)] thread ID 14992 not found in process
+[0510/022016.214:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/022016.214:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/022016.214:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/022016.214:ERROR:exception_snapshot_win.cc(98)] thread ID 14860 not found in process
+[0510/022602.815:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/022602.816:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/022602.816:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/022602.816:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/022602.830:ERROR:exception_snapshot_win.cc(98)] thread ID 10412 not found in process
+[0510/022602.849:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/022602.849:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/022602.849:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/022602.849:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/022602.849:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/022602.849:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/022602.849:ERROR:exception_snapshot_win.cc(98)] thread ID 13524 not found in process
+[0510/022948.361:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/022948.362:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/022948.362:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/022948.362:ERROR:exception_snapshot_win.cc(98)] thread ID 6756 not found in process
+[0510/022948.389:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/022948.389:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/022948.389:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/022948.389:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/022948.389:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/022948.389:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/022948.389:ERROR:exception_snapshot_win.cc(98)] thread ID 1060 not found in process
+[0510/023151.920:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/023151.921:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/023151.921:ERROR:exception_snapshot_win.cc(98)] thread ID 7652 not found in process
+[0510/023151.944:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/023151.944:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/023151.944:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/023151.944:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/023151.944:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/023151.944:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/023151.944:ERROR:exception_snapshot_win.cc(98)] thread ID 12828 not found in process
+[0510/023408.069:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/023408.069:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/023408.069:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/023408.070:ERROR:exception_snapshot_win.cc(98)] thread ID 15268 not found in process
+[0510/023408.087:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/023408.088:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/023408.088:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/023408.088:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/023408.088:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/023408.088:ERROR:exception_snapshot_win.cc(98)] thread ID 5416 not found in process
+[0510/024211.334:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/024211.334:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/024211.334:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/024211.334:ERROR:exception_snapshot_win.cc(98)] thread ID 11916 not found in process
+[0510/024211.350:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/024211.350:ERROR:exception_snapshot_win.cc(98)] thread ID 3404 not found in process
+[0510/024636.366:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/024636.367:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/024636.367:ERROR:exception_snapshot_win.cc(98)] thread ID 8092 not found in process
+[0510/024636.386:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/024636.386:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/024636.386:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/024636.386:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/024636.386:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/024636.386:ERROR:exception_snapshot_win.cc(98)] thread ID 6332 not found in process
+[0510/024914.211:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/024914.211:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/024914.211:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/024914.212:ERROR:exception_snapshot_win.cc(98)] thread ID 6692 not found in process
+[0510/024914.230:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/024914.230:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/024914.230:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/024914.231:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/024914.231:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/024914.231:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/024914.231:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/024914.231:ERROR:exception_snapshot_win.cc(98)] thread ID 12796 not found in process
+[0510/025043.323:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025043.323:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/025043.324:ERROR:exception_snapshot_win.cc(98)] thread ID 9912 not found in process
+[0510/025043.344:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025043.344:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025043.344:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025043.344:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025043.345:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025043.345:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/025043.345:ERROR:exception_snapshot_win.cc(98)] thread ID 14180 not found in process
+[0510/025119.139:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025119.139:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025119.139:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025119.139:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/025119.140:ERROR:exception_snapshot_win.cc(98)] thread ID 8044 not found in process
+[0510/025119.168:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025119.168:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025119.168:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025119.168:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025119.168:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025119.168:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025119.168:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025119.168:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025119.168:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025119.169:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025119.169:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025119.169:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025119.169:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025119.169:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025119.169:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/025119.169:ERROR:exception_snapshot_win.cc(98)] thread ID 2724 not found in process
+[0510/025248.849:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025248.849:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025248.850:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/025248.850:ERROR:exception_snapshot_win.cc(98)] thread ID 10992 not found in process
+[0510/025248.865:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025248.865:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025248.865:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025248.865:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025248.865:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/025248.865:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/025248.865:ERROR:exception_snapshot_win.cc(98)] thread ID 7464 not found in process
+[0510/031601.444:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/031601.459:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/031601.474:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/031601.475:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/031601.475:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/031601.475:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/031601.475:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/031601.474:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/031601.524:ERROR:exception_snapshot_win.cc(98)] thread ID 12540 not found in process
+[0510/031601.524:ERROR:exception_snapshot_win.cc(98)] thread ID 1820 not found in process
+[0510/031913.870:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/031913.871:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/031913.871:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/031913.871:ERROR:exception_snapshot_win.cc(98)] thread ID 15764 not found in process
+[0510/031913.913:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/031913.913:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/031913.913:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/031913.913:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/031913.913:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/031913.913:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/031913.914:ERROR:exception_snapshot_win.cc(98)] thread ID 3120 not found in process
+[0510/033043.359:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/033043.360:ERROR:exception_snapshot_win.cc(98)] thread ID 7720 not found in process
+[0510/033043.371:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/033043.372:ERROR:exception_snapshot_win.cc(98)] thread ID 15892 not found in process
+[0510/033043.414:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/033043.414:ERROR:exception_snapshot_win.cc(98)] thread ID 15072 not found in process
+[0510/033043.453:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/033043.453:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/033043.453:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/033043.454:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/033043.454:ERROR:exception_snapshot_win.cc(98)] thread ID 14780 not found in process
+[0510/065157.185:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/065157.189:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/065157.201:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/065157.214:ERROR:exception_snapshot_win.cc(98)] thread ID 5184 not found in process
+[0510/065157.214:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/065157.214:ERROR:exception_snapshot_win.cc(98)] thread ID 1208 not found in process
+[0510/065157.215:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/065157.215:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/065157.215:ERROR:exception_snapshot_win.cc(98)] thread ID 11092 not found in process
+[0510/070157.273:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070157.275:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/070157.276:ERROR:exception_snapshot_win.cc(98)] thread ID 4840 not found in process
+[0510/070157.274:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070157.276:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070157.276:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/070157.277:ERROR:exception_snapshot_win.cc(98)] thread ID 4316 not found in process
+[0510/070157.300:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070157.300:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070157.300:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070157.300:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070157.300:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070157.300:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070157.300:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070157.300:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070157.300:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/070157.300:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070157.300:ERROR:exception_snapshot_win.cc(98)] thread ID 5624 not found in process
+[0510/070157.300:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/070157.300:ERROR:exception_snapshot_win.cc(98)] thread ID 8548 not found in process
+[0510/070654.382:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.384:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.384:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.383:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.384:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.384:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.384:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/070654.384:ERROR:exception_snapshot_win.cc(98)] thread ID 124 not found in process
+[0510/070654.384:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/070654.385:ERROR:exception_snapshot_win.cc(98)] thread ID 16296 not found in process
+[0510/070654.390:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.391:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.391:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.391:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.391:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.391:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.391:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.391:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.391:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.392:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.392:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.392:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/070654.392:ERROR:exception_snapshot_win.cc(98)] thread ID 2264 not found in process
+[0510/070654.410:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.410:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.410:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.410:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.410:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.410:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/070654.410:ERROR:exception_snapshot_win.cc(98)] thread ID 4028 not found in process
+[0510/070654.411:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.411:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.411:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.411:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.411:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.411:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/070654.411:ERROR:exception_snapshot_win.cc(98)] thread ID 15900 not found in process
+[0510/070654.416:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.416:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.416:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.416:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/070654.417:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/070654.417:ERROR:exception_snapshot_win.cc(98)] thread ID 9020 not found in process
+[0510/071651.974:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/071651.975:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/071651.975:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/071651.975:ERROR:exception_snapshot_win.cc(98)] thread ID 15864 not found in process
+[0510/071651.997:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/071651.997:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/071651.997:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/071651.998:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/071651.998:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0510/071651.998:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0510/071651.998:ERROR:exception_snapshot_win.cc(98)] thread ID 9212 not found in process

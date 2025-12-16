@@ -1,0 +1,3644 @@
+<!DOCTYPE html>
+<html lang="ru-RU" dir="ltr">
+	<head>
+		<title>Категории и разделы - Redage Forum</title></head>
+		
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-138889592-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-138889592-1');
+</script>
+
+		
+		<!--[if lt IE 9]>
+			<link rel="stylesheet" type="text/css" href="https://forum.redage.net/uploads/css_built_2/5e61784858ad3c11f00b5706d12afe52_ie8.css.ca382106f7894a208c04076cc5463272.css">
+		    <script src="//forum.redage.net/applications/core/interface/html5shiv/html5shiv.js"></script>
+		<![endif]-->
+		
+<meta charset="utf-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+	
+	
+
+
+	<meta name="twitter:card" content="summary" />
+
+
+
+	
+		
+			
+				<meta property="og:title" content="Redage Forum">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:type" content="website">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:url" content="https://forum.redage.net">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:site_name" content="Redage Forum">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:locale" content="ru_RU">
+			
+		
+	
+
+
+	
+		<link rel="canonical" href="https://forum.redage.net" />
+	
+
+
+
+
+<link rel="manifest" href="https://forum.redage.net/manifest.webmanifest/">
+<meta name="msapplication-config" content="https://forum.redage.net/browserconfig.xml/">
+<meta name="msapplication-starturl" content="/">
+<meta name="application-name" content="Redage Forum">
+<meta name="apple-mobile-web-app-title" content="Redage Forum">
+
+	<meta name="theme-color" content="#1e2026">
+
+
+
+
+
+
+		
+
+
+	
+		
+			
+				<link href="https://fonts.googleapis.com/css?family=Encode%20Sans:300,300i,400,400i,700,700i" rel="stylesheet" referrerpolicy="origin">
+			
+		
+	
+
+
+
+	<link rel='stylesheet' href='https://forum.redage.net/uploads/css_built_2/341e4a57816af3ba440d891ca87450ff_framework.css.402d59133a74b9b2a9f4d21effca7cbb.css?v=682a8da4c1' media='all'>
+
+	<link rel='stylesheet' href='https://forum.redage.net/uploads/css_built_2/05e81b71abe4f22d6eb8d1a929494829_responsive.css.e42dd39cf7d0b62617e6cba26d828d69.css?v=682a8da4c1' media='all'>
+
+	<link rel='stylesheet' href='https://forum.redage.net/uploads/css_built_2/20446cf2d164adcc029377cb04d43d17_flags.css.b26910e78fbdc373616fd26cd619eae8.css?v=682a8da4c1' media='all'>
+
+	<link rel='stylesheet' href='https://forum.redage.net/uploads/css_built_2/90eb5adf50a8c640f633d47fd7eb1778_core.css.60c7a211cd19eb81af3117ddf5ba9401.css?v=682a8da4c1' media='all'>
+
+	<link rel='stylesheet' href='https://forum.redage.net/uploads/css_built_2/5a0da001ccc2200dc5625c3f3934497d_core_responsive.css.c2481cd13ea89bb0015bbbf537d8c017.css?v=682a8da4c1' media='all'>
+
+	<link rel='stylesheet' href='https://forum.redage.net/uploads/css_built_2/62e269ced0fdab7e30e026f1d30ae516_forums.css.2ed04e5c189a9ccc305d8abd637348b5.css?v=682a8da4c1' media='all'>
+
+	<link rel='stylesheet' href='https://forum.redage.net/uploads/css_built_2/76e62c573090645fb99a15a363d8620e_forums_responsive.css.e1571b4474d69d54a0d6519d977e1e38.css?v=682a8da4c1' media='all'>
+
+
+
+
+<link rel='stylesheet' href='https://forum.redage.net/uploads/css_built_2/258adbb6e4f3e83cd3b355f84e3fa002_custom.css.825d9a9ad592536f38343db8ab23c4ff.css?v=682a8da4c1' media='all'>
+
+
+
+		
+		
+
+	
+	<body class='ipsApp ipsApp_front ipsJS_none ipsClearfix' data-controller='core.front.core.app' isset( output.inlineMessage )}}data-message="{expression=" data-pageApp='forums' data-pageLocation='front' data-pageModule='forums' data-pageController='index'>
+		<a href='#elContent' class='ipsHide' title='Перейти к основной публикации' accesskey='m'>Перейти к публикации</a>
+		
+		<div id='ipsLayout_header' class='ipsClearfix'>
+			
+
+
+
+
+
+			
+			
+<ul id='elMobileNav' class='ipsList_inline ipsResponsive_hideDesktop ipsResponsive_block' data-controller='core.front.core.mobileNav'>
+	
+	
+	
+	<li >
+		<a data-action="defaultStream" class='ipsType_light'  href='https://forum.redage.net/discover/'><i class='icon-newspaper'></i></a>
+	</li>
+
+	
+
+	
+		<li class='ipsJS_show'>
+			<a href='https://forum.redage.net/search/'><i class='fa fa-search'></i></a>
+		</li>
+	
+	<li data-ipsDrawer data-ipsDrawer-drawerElem='#elMobileDrawer'>
+		<a href='#'>
+			
+			
+				
+			
+			
+			
+			<i class='fa fa-navicon'></i>
+		</a>
+	</li>
+</ul>
+			<header>
+				<div>
+					<div class='ipsLayout_container'>
+						<div id="lkLogo">
+
+
+<a href='https://forum.redage.net/' id='elLogo' accesskey='1'><img src="https://forum.redage.net/uploads/monthly_2019_01/logo.png.925607903ca24032679a71f4cdcd671c.png" alt='Redage Forum'></a>
+</div>
+						
+
+	<nav class=' ipsResponsive_hideTablet ipsResponsive_hidePhone'>
+		<div class='ipsNavBar_primary lk_navWrapper  ipsClearfix'>
+			<ul data-role="primaryNavBar">
+				
+
+
+	
+		
+		
+		<li  id='elNavSecondary_36' data-role="navBarItem" data-navApp="core" data-navExt="CustomItem">
+			
+			
+				<a href="https://redage.net"  data-navItem-id="36" >
+					Главная
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+			
+		
+		<li class='ipsNavBar_active' data-active id='elNavSecondary_1' data-role="navBarItem" data-navApp="core" data-navExt="CustomItem">
+			
+			
+				<a href="https://forum.redage.net"  data-navItem-id="1" data-navDefault>
+					Сообщество
+				</a>
+			
+			
+				<ul class='ipsNavBar_secondary ' data-role='secondaryNavBar'>
+					
+
+
+	
+	
+
+	
+		
+		
+			
+		
+		<li class='ipsNavBar_active' data-active id='elNavSecondary_10' data-role="navBarItem" data-navApp="forums" data-navExt="Forums">
+			
+			
+				<a href="https://forum.redage.net"  data-navItem-id="10" data-navDefault>
+					Форум
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_32' data-role="navBarItem" data-navApp="core" data-navExt="Guidelines">
+			
+			
+				<a href="https://redage.net/user-agreement.pdf"  data-navItem-id="32" >
+					Правила
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_33' data-role="navBarItem" data-navApp="core" data-navExt="StaffDirectory">
+			
+			
+				<a href="https://forum.redage.net/staff/"  data-navItem-id="33" >
+					Наша команда
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_34' data-role="navBarItem" data-navApp="core" data-navExt="OnlineUsers">
+			
+			
+				<a href="https://forum.redage.net/online/"  data-navItem-id="34" >
+					Пользователи в сети
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_35' data-role="navBarItem" data-navApp="core" data-navExt="Leaderboard">
+			
+			
+				<a href="https://forum.redage.net/leaderboard/"  data-navItem-id="35" >
+					Таблица лидеров
+				</a>
+			
+			
+		</li>
+	
+	
+
+				</ul>
+			
+		</li>
+	
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_2' data-role="navBarItem" data-navApp="core" data-navExt="CustomItem">
+			
+			
+				<a href="https://forum.redage.net/discover/"  data-navItem-id="2" >
+					Активность
+				</a>
+			
+			
+				<ul class='ipsNavBar_secondary ipsHide' data-role='secondaryNavBar'>
+					
+
+
+	
+		
+		
+		<li  id='elNavSecondary_4' data-role="navBarItem" data-navApp="core" data-navExt="AllActivity">
+			
+			
+				<a href="https://forum.redage.net/discover/"  data-navItem-id="4" >
+					Вся активность
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_8' data-role="navBarItem" data-navApp="core" data-navExt="Search">
+			
+			
+				<a href="https://forum.redage.net/search/"  data-navItem-id="8" >
+					Поиск
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+	
+
+				</ul>
+			
+		</li>
+	
+	
+
+			</ul>
+			<ul class="lk_navMore_container">
+				<li>
+					<a>Больше</a>
+					<ul class="ipsNavBar_secondary lk_navMore" data-role="secondaryNavBar"></ul>
+				</li>
+			</ul>
+		</div>
+	</nav>
+
+					</div>
+				</div>
+				<div class='ipsLayout_container'>
+				
+					
+
+	<div id="elSearchWrapper">
+		<div id='elSearch' class='' data-controller='core.front.core.quickSearch'>
+			<form accept-charset='utf-8' action='//forum.redage.net/search/?do=quicksearch' method='post'>
+				<input type='search' id='elSearchField' placeholder='Поиск...' name='q'>
+				<button class='cSearchSubmit' type="submit"><i class="fa fa-search"></i></button>
+				<div id="elSearchExpanded" class="ipsMenu ipsMenu_bottomLeft">
+					<div class="ipsMenu_title">
+						Поиск в
+					</div>
+					<ul class="ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small ipsType_normal" data-ipsSideMenu data-ipsSideMenu-type="radio" data-ipsSideMenu-responsive="false" data-role="searchContexts">
+						<li>
+							<span class='ipsSideMenu_item ipsSideMenu_itemActive' data-ipsMenuValue='all'>
+								<input type="radio" name="type" value="all" checked id="elQuickSearchRadio_type_all">
+								<label for='elQuickSearchRadio_type_all' id='elQuickSearchRadio_type_all_label'>Везде</label>
+							</span>
+						</li>
+						
+						
+							<li>
+								<span class='ipsSideMenu_item' data-ipsMenuValue='forums_topic'>
+									<input type="radio" name="type" value="forums_topic" id="elQuickSearchRadio_type_forums_topic">
+									<label for='elQuickSearchRadio_type_forums_topic' id='elQuickSearchRadio_type_forums_topic_label'>Темы</label>
+								</span>
+							</li>
+						
+						
+						<li data-role="showMoreSearchContexts">
+							<span class='ipsSideMenu_item' data-action="showMoreSearchContexts" data-exclude="forums_topic">
+								Дополнительно...
+							</span>
+						</li>
+					</ul>
+					<div class="ipsMenu_title">
+						Искать результаты, содержащие...
+					</div>
+					<ul class='ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small ipsType_normal' role="radiogroup" data-ipsSideMenu data-ipsSideMenu-type="radio" data-ipsSideMenu-responsive="false" data-filterType='andOr'>
+						
+							<li>
+								<span class='ipsSideMenu_item ipsSideMenu_itemActive' data-ipsMenuValue='or'>
+									<input type="radio" name="search_and_or" value="or" checked id="elRadio_andOr_or">
+									<label for='elRadio_andOr_or' id='elField_andOr_label_or'><em>Любое</em> слово из моего запроса</label>
+								</span>
+							</li>
+						
+							<li>
+								<span class='ipsSideMenu_item ' data-ipsMenuValue='and'>
+									<input type="radio" name="search_and_or" value="and"  id="elRadio_andOr_and">
+									<label for='elRadio_andOr_and' id='elField_andOr_label_and'><em>Все</em> слова из моего запроса</label>
+								</span>
+							</li>
+						
+					</ul>
+					<div class="ipsMenu_title">
+						Искать результаты в...
+					</div>
+					<ul class='ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small ipsType_normal' role="radiogroup" data-ipsSideMenu data-ipsSideMenu-type="radio" data-ipsSideMenu-responsive="false" data-filterType='searchIn'>
+						<li>
+							<span class='ipsSideMenu_item ipsSideMenu_itemActive' data-ipsMenuValue='all'>
+								<input type="radio" name="search_in" value="all" checked id="elRadio_searchIn_and">
+								<label for='elRadio_searchIn_and' id='elField_searchIn_label_all'>Заголовках и содержании</label>
+							</span>
+						</li>
+						<li>
+							<span class='ipsSideMenu_item' data-ipsMenuValue='titles'>
+								<input type="radio" name="search_in" value="titles" id="elRadio_searchIn_titles">
+								<label for='elRadio_searchIn_titles' id='elField_searchIn_label_titles'>Только в заголовках</label>
+							</span>
+						</li>
+					</ul>
+				</div>
+			</form>
+		</div>
+	</div>
+
+					
+
+	<ul id='elUserNav' class='ipsList_inline cSignedOut ipsClearfix ipsResponsive_hidePhone ipsResponsive_block'>
+		
+		<li id='elSignInLink'>
+			<a href='https://forum.redage.net/login/' data-ipsMenu-closeOnClick="false" data-ipsMenu id='elUserSignIn'>
+				Уже зарегистрированы? Войти &nbsp;<i class='fa fa-caret-down'></i>
+			</a>
+			
+<div id='elUserSignIn_menu' class='ipsMenu ipsMenu_auto ipsHide'>
+	<form accept-charset='utf-8' method='post' action='https://forum.redage.net/login/' data-controller="core.global.core.login">
+		<input type="hidden" name="csrfKey" value="1738ac265fceb507c68808859e1e90ee">
+		<input type="hidden" name="ref" value="aHR0cHM6Ly9mb3J1bS5yZWRhZ2UubmV0Lw==">
+		<div data-role="loginForm">
+			
+			
+			
+				
+<div class="ipsPad ipsForm ipsForm_vertical">
+	<h4 class="ipsType_sectionHead">Войти</h4>
+	<br><br>
+	<ul class='ipsList_reset'>
+		<li class="ipsFieldRow ipsFieldRow_noLabel ipsFieldRow_fullWidth">
+			
+			
+				<input type="text" placeholder="Имя пользователя или email-адрес" name="auth">
+			
+		</li>
+		<li class="ipsFieldRow ipsFieldRow_noLabel ipsFieldRow_fullWidth">
+			<input type="password" placeholder="Пароль" name="password">
+		</li>
+		<li class="ipsFieldRow ipsFieldRow_checkbox ipsClearfix">
+			<span class="ipsCustomInput">
+				<input type="checkbox" name="remember_me" id="remember_me_checkbox" value="1" checked aria-checked="true">
+				<span></span>
+			</span>
+			<div class="ipsFieldRow_content">
+				<label class="ipsFieldRow_label" for="remember_me_checkbox">Запомнить меня</label>
+				<span class="ipsFieldRow_desc">Не рекомендуется на общедоступных компьютерах</span>
+			</div>
+		</li>
+		
+			<li class="ipsFieldRow ipsFieldRow_checkbox ipsClearfix">
+				<span class="ipsCustomInput">
+					<input type="checkbox" name="anonymous" id="anonymous_checkbox" value="1" aria-checked="false">
+					<span></span>
+				</span>
+				<div class="ipsFieldRow_content">
+					<label class="ipsFieldRow_label" for="anonymous_checkbox">Войти анонимно</label>
+				</div>
+			</li>
+		
+		<li class="ipsFieldRow ipsFieldRow_fullWidth">
+			<br>
+			<button type="submit" name="_processLogin" value="usernamepassword" class="ipsButton ipsButton_primary ipsButton_small" id="elSignIn_submit">Войти</button>
+			
+				<br>
+				<p class="ipsType_right ipsType_small">
+					
+						<a href='https://forum.redage.net/lostpassword/' data-ipsDialog data-ipsDialog-title='Забыли пароль?'>
+					
+					Забыли пароль?</a>
+				</p>
+			
+		</li>
+	</ul>
+</div>
+			
+		</div>
+	</form>
+</div>
+		</li>
+		
+			<li>
+				
+					<a href='https://forum.redage.net/register/' data-ipsDialog data-ipsDialog-size='narrow' data-ipsDialog-title='Регистрация' id='elRegisterButton' class='ipsButton ipsButton_normal ipsButton_primary'>Регистрация</a>
+				
+			</li>
+		
+	</ul>
+
+				
+				</div>
+			</header>
+			
+		</div>
+		
+
+	
+		
+			
+				
+					
+						
+					
+				
+			
+		
+	
+
+
+		<main id='ipsLayout_body' class='ipsLayout_container'>
+			<div id='ipsLayout_contentArea'>
+				<div id='ipsLayout_contentWrapper'>
+					
+<nav class='ipsBreadcrumb ipsBreadcrumb_top ipsFaded_withHover'>
+	
+
+	<ul class='ipsList_inline ipsPos_right'>
+		
+		<li >
+			<a data-action="defaultStream" class='ipsType_light '  href='https://forum.redage.net/discover/'><i class='icon-newspaper'></i> <span>Вся активность</span></a>
+		</li>
+		
+	</ul>
+
+	<ul data-role="breadcrumbList">
+		<li>
+			<a title="Главная" href='https://forum.redage.net/'>
+				<span><i class='fa fa-home'></i> Главная</span>
+			</a>
+		</li>
+		
+		
+	</ul>
+</nav>
+					
+					<div id='ipsLayout_mainArea'>
+						<a id='elContent'></a>
+						
+						
+						
+						
+
+	
+
+
+
+
+	<div class='cWidgetContainer '  data-role='widgetReceiver' data-orientation='horizontal' data-widgetArea='header'>
+		<ul class='ipsList_reset'>
+			
+				
+					
+					<li class='ipsWidget ipsWidget_horizontal ipsBox ' data-blockID='app_core_newsletter_fvpyycjtl' data-blockConfig="true" data-blockTitle="Подписка на рассылку" data-blockErrorMessage="Этот блок не будет отображён до тех пор, пока не будут установлены его настройки." data-controller='core.front.widgets.block'>
+<h3 class='ipsType_reset ipsWidget_title'>
+	Рассылка
+</h3>
+<div class='ipsWidget_inner ipsPad'>
+	<span class="ipsType ipsType_veryLarge ipsPos_right ipsPad"><i class="fa fa-envelope"></i></span>
+	
+
+
+
+<div class='ipsType_richText ipsType_reset ipsType_medium' data-controller='core.front.core.lightboxedImages' >
+<p>
+	Привет. Хочешь быть в курсе последних новостей?
+</p>
+
+<p>
+	Подпишись на нашу почтовую рассылку, с тебя всего <strong>один клик</strong>!
+</p>
+</div>
+
+	
+		<a class="ipsButton ipsButton_medium ipsButton_important ipsButton_fullWidth" href='https://forum.redage.net/register/?newsletter=1' data-ipsDialog data-ipsDialog-size='narrow' data-ipsDialog-title='Регистрация'>Подписаться</a>
+	
+</div></li>
+				
+			
+		</ul>
+	</div>
+
+						
+<div class='ipsPageHeader ipsClearfix ipsSpacer_bottom cForumHeader'>
+	
+		<ul class='ipsToolList ipsToolList_horizontal ipsClearfix ipsPos_right'>
+			<li class='ipsToolList_primaryAction ipsResponsive_hidePhone'>
+				<a class="ipsButton ipsButton_medium ipsButton_important" href="https://forum.redage.net/startTopic/" data-ipsDialog data-ipsDialog-size='narrow' data-ipsDialog-title='Выберите раздел'>Создать тему</a>
+			</li>
+			
+
+		</ul>
+	
+	<h1 class='ipsType_pageTitle'>
+		Категории и разделы
+	</h1>
+</div>
+
+
+<section>
+	<ol class='ipsList_reset cForumList' data-controller='core.global.core.table, forums.front.forum.forumList' data-baseURL=''>
+		
+			
+			<li data-categoryID='2' class='cForumRow ipsBox lkAreaCategory lkSpacer_bottom'>
+				<h2 class="ipsType_sectionTitle ipsType_reset cForumTitle">
+					<div class="lk_forum_icon"><i class="fa fa-comments"></i></div>
+					<a href='https://forum.redage.net/forum/2-redage/'>Redage</a>
+					<a href='#' class='ipsJS_show ipsType_noUnderline cForumToggle' data-action='toggleCategory' data-ipsTooltip title='Свернуть/развернуть категорию'></a>
+				</h2>
+				
+					<ol class="ipsDataList ipsDataList_large" data-role="forums">
+						
+							
+
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="3">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_redirect ' 
+
+
+
+>
+							<i class='fa fa-arrow-right'></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://forum.redage.net/forum/3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0/">Новости проекта</a>
+				
+				
+					&nbsp;&nbsp;<span class='ipsType_light ipsType_medium'>(14 966 переходов по ссылке)</span>
+				
+			</h4>
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsType_light ipsContained"></div>
+			
+			
+		</div>
+		
+		
+	</li>
+
+						
+							
+
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="411">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_redirect ' 
+
+
+
+>
+							<i class='fa fa-arrow-right'></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://forum.redage.net/forum/411-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8/">Новости разработки</a>
+				
+				
+					&nbsp;&nbsp;<span class='ipsType_light ipsType_medium'>(2 488 переходов по ссылке)</span>
+				
+			</h4>
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsType_light ipsContained"></div>
+			
+			
+		</div>
+		
+		
+	</li>
+
+						
+							
+
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="4">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read' 
+
+
+
+>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://forum.redage.net/forum/4-technical-section/">Технический раздел</a>
+				
+				
+			</h4>
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsType_light ipsContained"></div>
+			
+			
+				<ul class="ipsDataItem_subList ipsList_inline">
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/6-the-solution-of-technical-problems/">Решение технических проблем</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/107-%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%BE-%D0%B7%D0%B0%D0%BA%D1%80%D1%8B%D1%82%D0%BE/">Решено. Закрыто.</a>
+						</li>
+					
+				</ul>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">25 545</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> сообщений</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://forum.redage.net/profile/4563-maveril-price/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/4563-maveril-price/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Maveril Price">
+		<img src='https://forum.redage.net/uploads/monthly_2019_02/gQZwl5Sm8q4.thumb.jpg.e95a39daa8e707ef6478b628c02d0ea3.jpg' alt='Maveril Price'>
+	</a>
+</li>
+					<li><a href="https://forum.redage.net/topic/62299-%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D1%83%D1%8E-%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D1%83-white/?do=getNewComment" title='Заявление в техническую поддержку | White' class="ipsType_medium">Заявление в техническую по&hellip;</a></li>
+					<li class='ipsType_light lk_truncate'><span class="ipsResponsive_hidePhone ipsResponsive_hideTablet">Автор: 
+
+<a href='https://forum.redage.net/profile/4563-maveril-price/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/4563-maveril-price/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль Maveril Price" class="ipsType_break">Maveril Price</a>, </span>
+					
+						<a href='https://forum.redage.net/topic/62299-%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D1%83%D1%8E-%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D1%83-white/?do=getLastComment' title='К последнему сообщению' class='ipsType_blendLinks'><time datetime='2019-07-10T16:12:53Z' title='10.07.2019 16:12 ' data-short='15 мин'>15 минут назад</time></a>
+					
+					</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="10">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read' 
+
+
+
+>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://forum.redage.net/forum/10-faq/">F.A.Q.</a>
+				
+				
+			</h4>
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsType_light ipsContained"></div>
+			
+			
+				<ul class="ipsDataItem_subList ipsList_inline">
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/377-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B/">Вопросы</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/378-%D0%B4%D0%BE%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/">Доработка</a>
+						</li>
+					
+				</ul>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">88</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> сообщений</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://forum.redage.net/profile/26194-ilyyaas/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/26194-ilyyaas/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль iLyyaas">
+		<img src='data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c48162%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EI%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E' alt='iLyyaas'>
+	</a>
+</li>
+					<li><a href="https://forum.redage.net/topic/62520-%D0%BB%D0%BE%D1%81-%D1%81%D0%B0%D0%BD%D1%82%D0%BE%D1%81-%D0%BA%D0%B0%D1%81%D1%82%D0%BE%D0%BC%D1%81/?do=getNewComment" title='Лос сантос кастомс' class="ipsType_medium">Лос сантос кастомс</a></li>
+					<li class='ipsType_light lk_truncate'><span class="ipsResponsive_hidePhone ipsResponsive_hideTablet">Автор: 
+
+<a href='https://forum.redage.net/profile/26194-ilyyaas/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26194-ilyyaas/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль iLyyaas" class="ipsType_break">iLyyaas</a>, </span>
+					
+						<a href='https://forum.redage.net/topic/62520-%D0%BB%D0%BE%D1%81-%D1%81%D0%B0%D0%BD%D1%82%D0%BE%D1%81-%D0%BA%D0%B0%D1%81%D1%82%D0%BE%D0%BC%D1%81/?do=getLastComment' title='К последнему сообщению' class='ipsType_blendLinks'><time datetime='2019-07-10T10:46:56Z' title='10.07.2019 10:46 ' data-short='5 час'>5 часов назад</time></a>
+					
+					</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="11">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read' 
+
+
+
+>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://forum.redage.net/forum/11-suggestions-for-server-improvement/">Предложения по улучшению сервера</a>
+				
+				
+			</h4>
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsType_light ipsContained"></div>
+			
+			
+				<ul class="ipsDataItem_subList ipsList_inline">
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/23-realised/">Реализовано</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/22-made-by-the-management-as-good/">Передано в работу</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/21-denied/">Отказано</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/20-requiring-improvements/">Требующие доработки</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/376-%D0%BE%D1%82%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%BE/">Отложено</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/375-%D0%B7%D0%B0%D0%BA%D1%80%D1%8B%D1%82%D0%BE/">Закрыто</a>
+						</li>
+					
+				</ul>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">4 157</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> сообщений</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://forum.redage.net/profile/17607-waylander/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/17607-waylander/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Waylander">
+		<img src='https://forum.redage.net/uploads/monthly_2019_05/.thumb_slands-300.6e07f1017217aeda0748ca27de4fc949' alt='Waylander'>
+	</a>
+</li>
+					<li><a href="https://forum.redage.net/topic/62624-%D0%BD%D0%B0%D1%80%D1%83%D1%87%D0%BD%D0%B8%D0%BA%D0%B8/?do=getNewComment" title='Наручники' class="ipsType_medium">Наручники</a></li>
+					<li class='ipsType_light lk_truncate'><span class="ipsResponsive_hidePhone ipsResponsive_hideTablet">Автор: 
+
+<a href='https://forum.redage.net/profile/17607-waylander/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/17607-waylander/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль Waylander" class="ipsType_break">Waylander</a>, </span>
+					
+						<a href='https://forum.redage.net/topic/62624-%D0%BD%D0%B0%D1%80%D1%83%D1%87%D0%BD%D0%B8%D0%BA%D0%B8/?do=getLastComment' title='К последнему сообщению' class='ipsType_blendLinks'><time datetime='2019-07-10T15:38:30Z' title='10.07.2019 15:38 ' data-short='49 мин'>49 минут назад</time></a>
+					
+					</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="13">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read' 
+
+
+
+>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://forum.redage.net/forum/13-donate/">Донат</a>
+				
+				
+			</h4>
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsType_light ipsContained"><p>
+	В случае если у Вас есть проблемы с донатом, необходимо создать тему в данном разделе.
+</p></div>
+			
+			
+				<ul class="ipsDataItem_subList ipsList_inline">
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/261-closed/">Решено</a>
+						</li>
+					
+				</ul>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">3 244</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> сообщения</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://forum.redage.net/profile/26205-joee/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/26205-joee/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль joee">
+		<img src='data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23b1c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EJ%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E' alt='joee'>
+	</a>
+</li>
+					<li><a href="https://forum.redage.net/topic/62623-%D0%B7%D0%B0%D1%8F%D0%B2%D0%BA%D0%B0-2-black/?do=getNewComment" title='Заявка #2 (Black)' class="ipsType_medium">Заявка #2 (Black)</a></li>
+					<li class='ipsType_light lk_truncate'><span class="ipsResponsive_hidePhone ipsResponsive_hideTablet">Автор: 
+
+<a href='https://forum.redage.net/profile/26205-joee/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26205-joee/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль joee" class="ipsType_break">joee</a>, </span>
+					
+						<a href='https://forum.redage.net/topic/62623-%D0%B7%D0%B0%D1%8F%D0%B2%D0%BA%D0%B0-2-black/?do=getLastComment' title='К последнему сообщению' class='ipsType_blendLinks'><time datetime='2019-07-10T15:59:38Z' title='10.07.2019 15:59 ' data-short='28 мин'>28 минут назад</time></a>
+					
+					</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="420">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read' 
+
+
+
+>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://forum.redage.net/forum/420-%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D1%8B/">Конкурсы</a>
+				
+				
+			</h4>
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsType_light ipsContained"></div>
+			
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">10</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> сообщений</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://forum.redage.net/profile/26365-zhidkiy/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/26365-zhidkiy/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль zhidkiy">
+		<img src='https://forum.redage.net/uploads/monthly_2019_07/392566107_AvaZhidkiy.thumb.jpg.953054f5e29a3ea2ae358ff2840d01fd.jpg' alt='zhidkiy'>
+	</a>
+</li>
+					<li><a href="https://forum.redage.net/topic/58794-%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80-redage/?do=getNewComment" title='Лучший видеооператор REDAGE' class="ipsType_medium">Лучший видеооператор REDAG&hellip;</a></li>
+					<li class='ipsType_light lk_truncate'><span class="ipsResponsive_hidePhone ipsResponsive_hideTablet">Автор: 
+
+<a href='https://forum.redage.net/profile/26365-zhidkiy/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26365-zhidkiy/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль zhidkiy" class="ipsType_break">zhidkiy</a>, </span>
+					
+						<a href='https://forum.redage.net/topic/58794-%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80-redage/?do=getLastComment' title='К последнему сообщению' class='ipsType_blendLinks'><time datetime='2019-07-07T23:15:29Z' title='07.07.2019 23:15 ' data-short='2 дн'></time></a>
+					
+					</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="14">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_redirect ' 
+
+
+
+>
+							<i class='fa fa-arrow-right'></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://forum.redage.net/forum/14-%D0%BD%D0%B0%D1%88%D0%B0-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0-%D0%B2%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5/">Наша группа ВКонтакте</a>
+				
+				
+					&nbsp;&nbsp;<span class='ipsType_light ipsType_medium'>(8 059 переходов по ссылке)</span>
+				
+			</h4>
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsType_light ipsContained"><p>
+	Подпишитесь на нашу группу в ВК, чтобы первыми узнавать о самых свежих новостях из мира RedAge!
+</p></div>
+			
+			
+		</div>
+		
+		
+	</li>
+
+						
+							
+
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="15">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_redirect ' 
+
+
+
+>
+							<i class='fa fa-arrow-right'></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://forum.redage.net/forum/15-%D0%BD%D0%B0%D1%88-discord/">Наш Discord</a>
+				
+				
+					&nbsp;&nbsp;<span class='ipsType_light ipsType_medium'>(7 988 переходов по ссылке)</span>
+				
+			</h4>
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsType_light ipsContained"><p>
+	Вступайте в наш дискорд-канал, там можно общаться и следить за жизнью каждого из серверов. Очень советуем!
+</p></div>
+			
+			
+		</div>
+		
+		
+	</li>
+
+						
+					</ol>
+				
+			</li>
+			
+		
+			
+			<li data-categoryID='17' class='cForumRow ipsBox lkAreaCategory lkSpacer_bottom'>
+				<h2 class="ipsType_sectionTitle ipsType_reset cForumTitle">
+					<div class="lk_forum_icon"><i class="fa fa-comments"></i></div>
+					<a href='https://forum.redage.net/forum/17-game-servers/'>Игровые сервера</a>
+					<a href='#' class='ipsJS_show ipsType_noUnderline cForumToggle' data-action='toggleCategory' data-ipsTooltip title='Свернуть/развернуть категорию'></a>
+				</h2>
+				
+					<ol class="ipsDataList ipsDataList_large" data-role="forums">
+						
+							
+
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="18">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read' 
+
+
+
+>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://forum.redage.net/forum/18-server-black/">Сервер Black</a>
+				
+				
+			</h4>
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsType_light ipsContained"></div>
+			
+			
+				<ul class="ipsDataItem_subList ipsList_inline">
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/32-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0-black/">Правила Сервера Black</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/75-%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F-%D0%B8-%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D1%8B/">Мероприятия и конкурсы</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/26-complaints/">Жалобы</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/28-rp-%D1%81%D0%B8%D1%82%D1%83%D0%B0%D1%86%D0%B8%D0%B8/">RP ситуации</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/29-rp-biographies/">RP Биографии</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/30-government-organizations/">Государственные организации</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/36-%D0%BA%D1%80%D0%B8%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/">Криминальные организации</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/35-%D0%BD%D0%B5%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-rp-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/">Неофициальные RP организации</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/219-%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F/">Игровые обсуждения</a>
+						</li>
+					
+				</ul>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">57 868</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> сообщений</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://forum.redage.net/profile/22765-zumbel/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/22765-zumbel/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль zumbel">
+		<img src='data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362a9c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EZ%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E' alt='zumbel'>
+	</a>
+</li>
+					<li><a href="https://forum.redage.net/topic/62637-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1%D0%B0-%D0%BD%D0%B5-%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80/?do=getNewComment" title='#Жалоба. Не известный администратор.' class="ipsType_medium">#Жалоба. Не известный адми&hellip;</a></li>
+					<li class='ipsType_light lk_truncate'><span class="ipsResponsive_hidePhone ipsResponsive_hideTablet">Автор: 
+
+<a href='https://forum.redage.net/profile/22765-zumbel/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/22765-zumbel/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль zumbel" class="ipsType_break">zumbel</a>, </span>
+					
+						<a href='https://forum.redage.net/topic/62637-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1%D0%B0-%D0%BD%D0%B5-%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80/?do=getLastComment' title='К последнему сообщению' class='ipsType_blendLinks'><time datetime='2019-07-10T16:25:05Z' title='10.07.2019 16:25 ' data-short='3 мин'>3 минуты назад</time></a>
+					
+					</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="123">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read' 
+
+
+
+>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://forum.redage.net/forum/123-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80-white/">Сервер White</a>
+				
+				
+			</h4>
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsType_light ipsContained"></div>
+			
+			
+				<ul class="ipsDataItem_subList ipsList_inline">
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/127-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0-white/">Правила Сервера White</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/295-%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F-%D0%B8-%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D1%8B/">Мероприятия и конкурсы</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/126-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1%D1%8B/">Жалобы</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/129-rp-situations/">RP ситуации</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/130-rp-biographies/">RP Биографии</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/131-government-organizations/">Государственные организации</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/132-%D0%BA%D1%80%D0%B8%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/">Криминальные организации</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/133-%D0%BD%D0%B5%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%80%D0%BF-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/">Неофициальные РП организации</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/134-%D0%B7%D0%B0%D1%8F%D0%B2%D0%BA%D0%B8-%D0%BD%D0%B0-%D1%81%D0%BC%D0%B5%D0%BD%D1%83-%D0%BD%D0%BE%D0%BD%D1%80%D0%BF-%D0%BD%D0%B8%D0%BA%D0%B0/">Заявки на смену нонРП ника</a>
+						</li>
+					
+				</ul>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">45 346</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> сообщений</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://forum.redage.net/profile/12022-dionis_brando/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/12022-dionis_brando/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Dionis_Brando">
+		<img src='data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46292%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ED%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E' alt='Dionis_Brando'>
+	</a>
+</li>
+					<li><a href="https://forum.redage.net/topic/20474-%D0%BF%D0%BE%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8-%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D1%8B-%D0%B2%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC-%D0%BF%D1%80%D0%BE%D0%BA%D1%83%D1%80%D0%BE%D1%80%D0%BE%D0%BC-%D0%B2-%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BF%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82/?do=getNewComment" title='Поправки / законы, внесенные Генеральным прокурором в государственный парламент.' class="ipsType_medium">Поправки / законы, внесенн&hellip;</a></li>
+					<li class='ipsType_light lk_truncate'><span class="ipsResponsive_hidePhone ipsResponsive_hideTablet">Автор: 
+
+<a href='https://forum.redage.net/profile/12022-dionis_brando/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/12022-dionis_brando/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль Dionis_Brando" class="ipsType_break">Dionis_Brando</a>, </span>
+					
+						<a href='https://forum.redage.net/topic/20474-%D0%BF%D0%BE%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8-%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D1%8B-%D0%B2%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC-%D0%BF%D1%80%D0%BE%D0%BA%D1%83%D1%80%D0%BE%D1%80%D0%BE%D0%BC-%D0%B2-%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BF%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82/?do=getLastComment' title='К последнему сообщению' class='ipsType_blendLinks'><time datetime='2019-07-10T16:26:28Z' title='10.07.2019 16:26 ' data-short='1 мин'>1 минуту назад</time></a>
+					
+					</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="305">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read' 
+
+
+
+>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://forum.redage.net/forum/305-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80-red/">Сервер Red</a>
+				
+				
+			</h4>
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsType_light ipsContained"></div>
+			
+			
+				<ul class="ipsDataItem_subList ipsList_inline">
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/307-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0-red/">Правила Сервера Red</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/312-%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F-%D0%B8-%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D1%8B/">Мероприятия и конкурсы</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/313-%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1%D1%8B/">Жалобы</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/321-rp-%D1%81%D0%B8%D1%82%D1%83%D0%B0%D1%86%D0%B8%D0%B8/">RP ситуации</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/326-rp-%D0%B1%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8/">RP Биографии</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/328-%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/">Государственные организации</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/336-%D0%BA%D1%80%D0%B8%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/">Криминальные организации</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/348-%D0%BD%D0%B5%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-rp-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/">Неофициальные RP организации</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/351-%D0%B7%D0%B0%D1%8F%D0%B2%D0%BA%D0%B8-%D0%BD%D0%B0-%D1%81%D0%BC%D0%B5%D0%BD%D1%83-nonrp-%D0%BD%D0%B8%D0%BA%D0%B0/">Заявки на смену nonRP ника</a>
+						</li>
+					
+						<li class="">
+							<a href="https://forum.redage.net/forum/353-%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F/">Игровые обсуждения</a>
+						</li>
+					
+				</ul>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">6 423</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> сообщения</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://forum.redage.net/profile/23715-evox/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/23715-evox/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль EVOX">
+		<img src='https://forum.redage.net/uploads/monthly_2019_07/ivgp_GpnXac.thumb.jpg.cf055c63c3ad3a35970ea6886c791aae.jpg' alt='EVOX'>
+	</a>
+</li>
+					<li><a href="https://forum.redage.net/topic/49561-ng-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D1%8B-ang/?do=getNewComment" title='[NG] Отчеты ANG' class="ipsType_medium">[NG] Отчеты ANG</a></li>
+					<li class='ipsType_light lk_truncate'><span class="ipsResponsive_hidePhone ipsResponsive_hideTablet">Автор: 
+
+<a href='https://forum.redage.net/profile/23715-evox/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/23715-evox/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль EVOX" class="ipsType_break">EVOX</a>, </span>
+					
+						<a href='https://forum.redage.net/topic/49561-ng-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D1%8B-ang/?do=getLastComment' title='К последнему сообщению' class='ipsType_blendLinks'><time datetime='2019-07-10T16:27:32Z' title='10.07.2019 16:27 ' data-short='1 мин'>Только что</time></a>
+					
+					</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+					</ol>
+				
+			</li>
+			
+		
+			
+			<li data-categoryID='33' class='cForumRow ipsBox lkAreaCategory lkSpacer_bottom'>
+				<h2 class="ipsType_sectionTitle ipsType_reset cForumTitle">
+					<div class="lk_forum_icon"><i class="fa fa-comments"></i></div>
+					<a href='https://forum.redage.net/forum/33-%D0%BE%D0%B1%D1%89%D0%B8%D0%B9/'>Общий</a>
+					<a href='#' class='ipsJS_show ipsType_noUnderline cForumToggle' data-action='toggleCategory' data-ipsTooltip title='Свернуть/развернуть категорию'></a>
+				</h2>
+				
+					<ol class="ipsDataList ipsDataList_large" data-role="forums">
+						
+							
+
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="300">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read' 
+
+
+
+>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://forum.redage.net/forum/300-design-studios/"> Design studios</a>
+				
+				
+			</h4>
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsType_light ipsContained"></div>
+			
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">68</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> сообщений</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://forum.redage.net/profile/26208-ramon-diaz/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/26208-ramon-diaz/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Ramon Diaz">
+		<img src='https://forum.redage.net/uploads/monthly_2019_07/nz3OR1hI190.thumb.jpg.8424cd1fec16bc1814dcc8f68d1d8778.jpg' alt='Ramon Diaz'>
+	</a>
+</li>
+					<li><a href="https://forum.redage.net/topic/61311-%EF%BD%92%EF%BD%81%EF%BD%8D%EF%BD%8F%EF%BD%8E-%EF%BD%84%EF%BD%85%EF%BD%93%EF%BD%89%EF%BD%87%EF%BD%8E-honey-price/?do=getNewComment" title='ＲＡＭＯＮ ＤＥＳＩＧＮ | honey price' class="ipsType_medium">ＲＡＭＯＮ ＤＥＳＩＧＮ | honey price</a></li>
+					<li class='ipsType_light lk_truncate'><span class="ipsResponsive_hidePhone ipsResponsive_hideTablet">Автор: 
+
+<a href='https://forum.redage.net/profile/26208-ramon-diaz/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26208-ramon-diaz/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль Ramon Diaz" class="ipsType_break">Ramon Diaz</a>, </span>
+					
+						<a href='https://forum.redage.net/topic/61311-%EF%BD%92%EF%BD%81%EF%BD%8D%EF%BD%8F%EF%BD%8E-%EF%BD%84%EF%BD%85%EF%BD%93%EF%BD%89%EF%BD%87%EF%BD%8E-honey-price/?do=getLastComment' title='К последнему сообщению' class='ipsType_blendLinks'><time datetime='2019-07-07T08:35:02Z' title='07.07.2019 08:35 ' data-short='3 дн'></time></a>
+					
+					</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="38">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read' 
+
+
+
+>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://forum.redage.net/forum/38-%D0%B7%D0%B0%D1%8F%D0%B2%D0%BA%D0%B8-%D0%BD%D0%B0-%D1%81%D0%BC%D0%B5%D0%BD%D1%83-%D1%84%D0%BE%D1%80%D1%83%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BD%D0%B8%D0%BA%D0%B0/">Заявки на смену форумного ника</a>
+				
+				
+			</h4>
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsType_light ipsContained"></div>
+			
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">634</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> сообщения</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://forum.redage.net/profile/4200-ricardo-legend/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/4200-ricardo-legend/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Ricardo Legend">
+		<img src='https://forum.redage.net/uploads/monthly_2019_03/h6rHp7hUJjs.thumb.jpg.f3388a8fd6e6afa00a553ca70f95c64d.jpg' alt='Ricardo Legend'>
+	</a>
+</li>
+					<li><a href="https://forum.redage.net/topic/62621-%D0%B7%D0%B0%D1%8F%D0%B2%D0%BA%D0%B0-%D0%BD%D0%B0-%D1%81%D0%BC%D0%B5%D0%BD%D1%83-%D1%84%D0%BE%D1%80%D1%83%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BD%D0%B8%D0%BA%D0%B0/?do=getNewComment" title='Заявка на смену форумного ника' class="ipsType_medium">Заявка на смену форумного &hellip;</a></li>
+					<li class='ipsType_light lk_truncate'><span class="ipsResponsive_hidePhone ipsResponsive_hideTablet">Автор: 
+
+<a href='https://forum.redage.net/profile/4200-ricardo-legend/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/4200-ricardo-legend/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль Ricardo Legend" class="ipsType_break">Ricardo Legend</a>, </span>
+					
+						<a href='https://forum.redage.net/topic/62621-%D0%B7%D0%B0%D1%8F%D0%B2%D0%BA%D0%B0-%D0%BD%D0%B0-%D1%81%D0%BC%D0%B5%D0%BD%D1%83-%D1%84%D0%BE%D1%80%D1%83%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BD%D0%B8%D0%BA%D0%B0/?do=getLastComment' title='К последнему сообщению' class='ipsType_blendLinks'><time datetime='2019-07-10T15:27:17Z' title='10.07.2019 15:27 ' data-short='1 час'>1 час назад</time></a>
+					
+					</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="34">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read' 
+
+
+
+>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://forum.redage.net/forum/34-%D0%BA%D1%83%D1%80%D0%B8%D0%BB%D0%BA%D0%B0/">Курилка</a>
+				
+				
+			</h4>
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsType_light ipsContained"></div>
+			
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">945</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> сообщений</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://forum.redage.net/profile/11215-ezra-makarison/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/11215-ezra-makarison/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Ezra Makarison">
+		<img src='https://forum.redage.net/uploads/monthly_2019_06/ezgif.com-crop.thumb.gif.f944e963d904273a294c8593a5c2ee59.gif' alt='Ezra Makarison'>
+	</a>
+</li>
+					
+					<li class='ipsType_light lk_truncate'><span class="ipsResponsive_hidePhone ipsResponsive_hideTablet">Автор: 
+
+<a href='https://forum.redage.net/profile/11215-ezra-makarison/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/11215-ezra-makarison/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль Ezra Makarison" class="ipsType_break">Ezra Makarison</a>, </span>
+					
+						<span><time datetime='2019-07-10T07:07:16Z' title='10.07.2019 07:07 ' data-short='9 час'>9 часов назад</time></span>
+					
+					</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+					</ol>
+				
+			</li>
+			
+		
+		
+	</ol>
+</section>
+						
+
+
+	<div class='cWidgetContainer '  data-role='widgetReceiver' data-orientation='horizontal' data-widgetArea='footer'>
+		<ul class='ipsList_reset'>
+			
+				
+					
+					<li class='ipsWidget ipsWidget_horizontal ipsBox ' data-blockID='app_core_whosOnline_74vgwlxtu' data-blockConfig="true" data-blockTitle="Сейчас в сети" data-blockErrorMessage="Этот блок не будет отображён до тех пор, пока не будут установлены его настройки." data-controller='core.front.widgets.block'>
+<h3 class='ipsType_reset ipsWidget_title'>
+	Сейчас в сети
+	
+		&nbsp;&nbsp;<span class='ipsType_light ipsType_unbold ipsType_medium'>208 пользователей, 36 анонимных, 151 гость</span>
+	
+	<span class='ipsType_medium ipsType_light ipsType_unbold ipsType_blendLinks'><a href='https://forum.redage.net/online/'>(Полный список)</a></span>
+</h3>
+<div class='ipsWidget_inner ipsPad'>
+	
+		<ul class='ipsList_inline ipsList_csv ipsList_noSpacing ipsType_normal'>
+			
+				<li>
+<a href='https://forum.redage.net/profile/24715-miguel_ruedo/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/24715-miguel_ruedo/?do=hovercard' title="Перейти в профиль Miguel_Ruedo" class="ipsType_break">Miguel_Ruedo</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/21496-olivares/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/21496-olivares/?do=hovercard' title="Перейти в профиль Olivares" class="ipsType_break">Olivares</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25251-mikhailfreedom/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25251-mikhailfreedom/?do=hovercard' title="Перейти в профиль MikhailFreedom" class="ipsType_break">MikhailFreedom</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/24254-fatboyamigo/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/24254-fatboyamigo/?do=hovercard' title="Перейти в профиль Fatboyamigo" class="ipsType_break">Fatboyamigo</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/8483-rudy-hardeyson/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/8483-rudy-hardeyson/?do=hovercard' title="Перейти в профиль Rudy Hardeyson" class="ipsType_break">Rudy Hardeyson</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/24847-sakuraiyuto/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/24847-sakuraiyuto/?do=hovercard' title="Перейти в профиль SakuraiYuto" class="ipsType_break">SakuraiYuto</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/23807-puntaric/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/23807-puntaric/?do=hovercard' title="Перейти в профиль PuntariC" class="ipsType_break">PuntariC</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/4918-krissfrom/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/4918-krissfrom/?do=hovercard' title="Перейти в профиль krissfrom" class="ipsType_break">krissfrom</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/13411-robert-muller/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/13411-robert-muller/?do=hovercard' title="Перейти в профиль Robert Muller" class="ipsType_break">Robert Muller</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/8434-jonatanpak/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/8434-jonatanpak/?do=hovercard' title="Перейти в профиль JonatanPak" class="ipsType_break">JonatanPak</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25598-pilulkin/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25598-pilulkin/?do=hovercard' title="Перейти в профиль Pilulkin" class="ipsType_break">Pilulkin</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26709-dominic-william/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26709-dominic-william/?do=hovercard' title="Перейти в профиль Dominic William" class="ipsType_break">Dominic William</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26144-nikita123412/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26144-nikita123412/?do=hovercard' title="Перейти в профиль nikita123412" class="ipsType_break">nikita123412</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/6880-akiyama%EF%BB%BF-%EF%BB%BFhid%EF%BB%BF%EF%BB%BFe%EF%BB%BFk%EF%BB%BFi%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/6880-akiyama%EF%BB%BF-%EF%BB%BFhid%EF%BB%BF%EF%BB%BFe%EF%BB%BFk%EF%BB%BFi%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF/?do=hovercard' title="Перейти в профиль Akiyama﻿ ﻿Hid﻿﻿e﻿k﻿i﻿﻿﻿﻿﻿" class="ipsType_break">Akiyama﻿ ﻿Hid﻿﻿e﻿k﻿i﻿﻿﻿﻿﻿</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/5927-mrtwilightyt/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/5927-mrtwilightyt/?do=hovercard' title="Перейти в профиль MrTwilightYT" class="ipsType_break">MrTwilightYT</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25443-vsevolod999/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25443-vsevolod999/?do=hovercard' title="Перейти в профиль Vsevolod999" class="ipsType_break">Vsevolod999</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/20148-sacredslipper/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/20148-sacredslipper/?do=hovercard' title="Перейти в профиль SacredSlipper" class="ipsType_break">SacredSlipper</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25229-kuyssss/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25229-kuyssss/?do=hovercard' title="Перейти в профиль Kuyssss" class="ipsType_break">Kuyssss</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/21092-qkiker/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/21092-qkiker/?do=hovercard' title="Перейти в профиль qkiker" class="ipsType_break">qkiker</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/20313-oriteman/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/20313-oriteman/?do=hovercard' title="Перейти в профиль oriteman" class="ipsType_break">oriteman</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25612-will-evans/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25612-will-evans/?do=hovercard' title="Перейти в профиль Will Evans" class="ipsType_break">Will Evans</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/934-daniel-kruck/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/934-daniel-kruck/?do=hovercard' title="Перейти в профиль Daniel Kruck" class="ipsType_break">Daniel Kruck</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/22277-gianni/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/22277-gianni/?do=hovercard' title="Перейти в профиль Gianni &lt;3" class="ipsType_break">Gianni &lt;3</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/14032-skylightdie31/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/14032-skylightdie31/?do=hovercard' title="Перейти в профиль Skylightdie31" class="ipsType_break">Skylightdie31</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/23470-leon-mclaren/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/23470-leon-mclaren/?do=hovercard' title="Перейти в профиль Leon McLaren" class="ipsType_break">Leon McLaren</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25347-timon228/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25347-timon228/?do=hovercard' title="Перейти в профиль Timon228" class="ipsType_break">Timon228</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/13388-svyatoha/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/13388-svyatoha/?do=hovercard' title="Перейти в профиль Svyatoha" class="ipsType_break">Svyatoha</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/19232-%D0%B0%D0%B9%D1%85%D0%B0%D0%BD/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/19232-%D0%B0%D0%B9%D1%85%D0%B0%D0%BD/?do=hovercard' title="Перейти в профиль Айхан" class="ipsType_break">Айхан</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/15149-caesar-shelby/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/15149-caesar-shelby/?do=hovercard' title="Перейти в профиль Caesar Shelby" class="ipsType_break">Caesar Shelby</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26209-fodeen/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26209-fodeen/?do=hovercard' title="Перейти в профиль fodeeN" class="ipsType_break">fodeeN</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/20352-kljarik/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/20352-kljarik/?do=hovercard' title="Перейти в профиль kljarik" class="ipsType_break">kljarik</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/21300-andr1mon/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/21300-andr1mon/?do=hovercard' title="Перейти в профиль andr1mon" class="ipsType_break">andr1mon</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25021-arey/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25021-arey/?do=hovercard' title="Перейти в профиль Arey" class="ipsType_break">Arey</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25366-valdau/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25366-valdau/?do=hovercard' title="Перейти в профиль Valdau" class="ipsType_break">Valdau</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/172-timich/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/172-timich/?do=hovercard' title="Перейти в профиль Timich" class="ipsType_break">Timich</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26182-soul666/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26182-soul666/?do=hovercard' title="Перейти в профиль SouL666" class="ipsType_break">SouL666</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25330-jabez_johnson/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25330-jabez_johnson/?do=hovercard' title="Перейти в профиль Jabez_Johnson" class="ipsType_break">Jabez_Johnson</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/20501-daniil_washington/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/20501-daniil_washington/?do=hovercard' title="Перейти в профиль Daniil_Washington" class="ipsType_break">Daniil_Washington</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/8363-eric-morello/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/8363-eric-morello/?do=hovercard' title="Перейти в профиль Eric Morello" class="ipsType_break">Eric Morello</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/18380-jennadarsi/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/18380-jennadarsi/?do=hovercard' title="Перейти в профиль jennadarsi" class="ipsType_break">jennadarsi</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/16992-rinkovoi/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/16992-rinkovoi/?do=hovercard' title="Перейти в профиль rinkovoi" class="ipsType_break">rinkovoi</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/19426-hattab001/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/19426-hattab001/?do=hovercard' title="Перейти в профиль hattab001" class="ipsType_break">hattab001</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/21330-saengars/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/21330-saengars/?do=hovercard' title="Перейти в профиль saengars" class="ipsType_break">saengars</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/22765-zumbel/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/22765-zumbel/?do=hovercard' title="Перейти в профиль zumbel" class="ipsType_break">zumbel</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/16596-raysharni/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/16596-raysharni/?do=hovercard' title="Перейти в профиль ray.sharni" class="ipsType_break">ray.sharni</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/23312-mrsvir/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/23312-mrsvir/?do=hovercard' title="Перейти в профиль mrsvir" class="ipsType_break">mrsvir</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/22451-kate-corleone/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/22451-kate-corleone/?do=hovercard' title="Перейти в профиль Kate Corleone" class="ipsType_break">Kate Corleone</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/23594-vrolwel/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/23594-vrolwel/?do=hovercard' title="Перейти в профиль Vrolwel" class="ipsType_break">Vrolwel</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26561-nigga777/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26561-nigga777/?do=hovercard' title="Перейти в профиль Nigga777" class="ipsType_break">Nigga777</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/21766-happy-end/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/21766-happy-end/?do=hovercard' title="Перейти в профиль Happy End" class="ipsType_break">Happy End</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/1769-8mapta/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/1769-8mapta/?do=hovercard' title="Перейти в профиль 8MAPTA" class="ipsType_break">8MAPTA</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26309-redestroyder/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26309-redestroyder/?do=hovercard' title="Перейти в профиль ReDestroyDeR" class="ipsType_break">ReDestroyDeR</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/16203-dexter/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/16203-dexter/?do=hovercard' title="Перейти в профиль Dexter" class="ipsType_break">Dexter</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/19673-thomas_hard/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/19673-thomas_hard/?do=hovercard' title="Перейти в профиль Thomas_Hard" class="ipsType_break">Thomas_Hard</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/3043-tomas-nelson/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/3043-tomas-nelson/?do=hovercard' title="Перейти в профиль Tomas Nelson" class="ipsType_break">Tomas Nelson</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/23006-nicholas-castle/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/23006-nicholas-castle/?do=hovercard' title="Перейти в профиль Nicholas Castle" class="ipsType_break">Nicholas Castle</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/65-anthony-derossi/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/65-anthony-derossi/?do=hovercard' title="Перейти в профиль Anthony DeRossi" class="ipsType_break">Anthony DeRossi</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/17221-shon-colombo/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/17221-shon-colombo/?do=hovercard' title="Перейти в профиль Shon Colombo" class="ipsType_break">Shon Colombo</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/3376-nikon-recklezz%EF%BB%BF/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/3376-nikon-recklezz%EF%BB%BF/?do=hovercard' title="Перейти в профиль Nikon Recklezz﻿" class="ipsType_break">Nikon Recklezz﻿</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/22574-sacrifaze/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/22574-sacrifaze/?do=hovercard' title="Перейти в профиль SacriFaZe" class="ipsType_break">SacriFaZe</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/23150-knyazpritona/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/23150-knyazpritona/?do=hovercard' title="Перейти в профиль KnyazPritona" class="ipsType_break">KnyazPritona</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/23851-ginspire/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/23851-ginspire/?do=hovercard' title="Перейти в профиль Ginspire" class="ipsType_break">Ginspire</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/22825-kesapen/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/22825-kesapen/?do=hovercard' title="Перейти в профиль kesapen" class="ipsType_break">kesapen</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/24449-kirito/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/24449-kirito/?do=hovercard' title="Перейти в профиль Kirito" class="ipsType_break">Kirito</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/13511-yamba/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/13511-yamba/?do=hovercard' title="Перейти в профиль Yamba" class="ipsType_break">Yamba</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/12341-nioneon/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/12341-nioneon/?do=hovercard' title="Перейти в профиль NioNeon" class="ipsType_break">NioNeon</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/22626-unit337/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/22626-unit337/?do=hovercard' title="Перейти в профиль Unit337" class="ipsType_break">Unit337</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/6381-payne-morra/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/6381-payne-morra/?do=hovercard' title="Перейти в профиль Payne Morra" class="ipsType_break">Payne Morra</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/20449-tranquillizer/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/20449-tranquillizer/?do=hovercard' title="Перейти в профиль Tranquillizer" class="ipsType_break">Tranquillizer</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/20214-panda30rus/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/20214-panda30rus/?do=hovercard' title="Перейти в профиль Panda30rus" class="ipsType_break">Panda30rus</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/6333-rockabyes/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/6333-rockabyes/?do=hovercard' title="Перейти в профиль rockabyes" class="ipsType_break">rockabyes</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/2681-kizya/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/2681-kizya/?do=hovercard' title="Перейти в профиль Kizya" class="ipsType_break">Kizya</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/7716-avgust-malice/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/7716-avgust-malice/?do=hovercard' title="Перейти в профиль Avgust Malice" class="ipsType_break">Avgust Malice</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/16073-de_1orean/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/16073-de_1orean/?do=hovercard' title="Перейти в профиль de_1orean" class="ipsType_break">de_1orean</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/8633-pozer/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/8633-pozer/?do=hovercard' title="Перейти в профиль pozer" class="ipsType_break">pozer</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/21021-chariton-mendez/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/21021-chariton-mendez/?do=hovercard' title="Перейти в профиль Chariton Mendez" class="ipsType_break">Chariton Mendez</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/24351-yamato_miyamoto/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/24351-yamato_miyamoto/?do=hovercard' title="Перейти в профиль Yamato_Miyamoto" class="ipsType_break">Yamato_Miyamoto</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/7401-midori-nagakawa/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/7401-midori-nagakawa/?do=hovercard' title="Перейти в профиль Midori Nagakawa" class="ipsType_break">Midori Nagakawa</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25542-maksos/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25542-maksos/?do=hovercard' title="Перейти в профиль maksos" class="ipsType_break">maksos</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25675-gogi/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25675-gogi/?do=hovercard' title="Перейти в профиль gogi" class="ipsType_break">gogi</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25449-w4nt1r/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25449-w4nt1r/?do=hovercard' title="Перейти в профиль W4nt1r" class="ipsType_break">W4nt1r</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/13773-fred_winchester/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/13773-fred_winchester/?do=hovercard' title="Перейти в профиль Fred_Winchester" class="ipsType_break">Fred_Winchester</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/10532-deutscher/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/10532-deutscher/?do=hovercard' title="Перейти в профиль Deutscher" class="ipsType_break">Deutscher</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25486-woody-vinchester/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25486-woody-vinchester/?do=hovercard' title="Перейти в профиль Woody Vinchester" class="ipsType_break">Woody Vinchester</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/2092-herom-garsia/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/2092-herom-garsia/?do=hovercard' title="Перейти в профиль Herom Garsia" class="ipsType_break">Herom Garsia</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/9816-alexkeks125/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/9816-alexkeks125/?do=hovercard' title="Перейти в профиль alexkeks125" class="ipsType_break">alexkeks125</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/8595-springflash/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/8595-springflash/?do=hovercard' title="Перейти в профиль SpringFlash" class="ipsType_break">SpringFlash</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/10919-moonlightez/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/10919-moonlightez/?do=hovercard' title="Перейти в профиль Moonlightez" class="ipsType_break">Moonlightez</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26710-milegin/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26710-milegin/?do=hovercard' title="Перейти в профиль Milegin" class="ipsType_break">Milegin</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/6615-kuskin/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/6615-kuskin/?do=hovercard' title="Перейти в профиль KUSKIN" class="ipsType_break">KUSKIN</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/1267-roman-petrenko/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/1267-roman-petrenko/?do=hovercard' title="Перейти в профиль Roman Petrenko" class="ipsType_break">Roman Petrenko</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26019-boris_grobovoi/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26019-boris_grobovoi/?do=hovercard' title="Перейти в профиль Boris_Grobovoi" class="ipsType_break">Boris_Grobovoi</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26503-keron/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26503-keron/?do=hovercard' title="Перейти в профиль keron" class="ipsType_break">keron</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/14637-hekst/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/14637-hekst/?do=hovercard' title="Перейти в профиль HeKsT" class="ipsType_break">HeKsT</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/7690-roberto-richi/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/7690-roberto-richi/?do=hovercard' title="Перейти в профиль Roberto Richi" class="ipsType_break">Roberto Richi</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/15078-iigarageii/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/15078-iigarageii/?do=hovercard' title="Перейти в профиль IIGaRaGeII" class="ipsType_break">IIGaRaGeII</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/21560-manro/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/21560-manro/?do=hovercard' title="Перейти в профиль Manro" class="ipsType_break">Manro</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/12481-jake-harvey/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/12481-jake-harvey/?do=hovercard' title="Перейти в профиль Jake Harvey" class="ipsType_break">Jake Harvey</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/2362-hypesquad/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/2362-hypesquad/?do=hovercard' title="Перейти в профиль HypeSquad" class="ipsType_break">HypeSquad</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/23313-argonorak/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/23313-argonorak/?do=hovercard' title="Перейти в профиль Argonorak" class="ipsType_break">Argonorak</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26474-skezz32/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26474-skezz32/?do=hovercard' title="Перейти в профиль Skezz32" class="ipsType_break">Skezz32</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25303-quinto/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25303-quinto/?do=hovercard' title="Перейти в профиль Quinto" class="ipsType_break">Quinto</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26635-anthony-muerte/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26635-anthony-muerte/?do=hovercard' title="Перейти в профиль Anthony Muerte" class="ipsType_break">Anthony Muerte</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25923-forestangel/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25923-forestangel/?do=hovercard' title="Перейти в профиль ForestAngel" class="ipsType_break">ForestAngel</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/22670-kovitz/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/22670-kovitz/?do=hovercard' title="Перейти в профиль Kovitz" class="ipsType_break">Kovitz</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/3648-kirill-zelenov/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/3648-kirill-zelenov/?do=hovercard' title="Перейти в профиль Kirill Zelenov" class="ipsType_break">Kirill Zelenov</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/14151-dbipka1337/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/14151-dbipka1337/?do=hovercard' title="Перейти в профиль DbIpka1337" class="ipsType_break">DbIpka1337</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/20384-pavel-maksimov/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/20384-pavel-maksimov/?do=hovercard' title="Перейти в профиль Pavel Maksimov" class="ipsType_break">Pavel Maksimov</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26713-romka1488/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26713-romka1488/?do=hovercard' title="Перейти в профиль romka1488" class="ipsType_break">romka1488</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/11085-valerii-navoznii/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/11085-valerii-navoznii/?do=hovercard' title="Перейти в профиль Valerii Navoznii" class="ipsType_break">Valerii Navoznii</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/23210-crewfield/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/23210-crewfield/?do=hovercard' title="Перейти в профиль crewfield" class="ipsType_break">crewfield</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/1626-gregorroister/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/1626-gregorroister/?do=hovercard' title="Перейти в профиль GregorRoister" class="ipsType_break">GregorRoister</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/13871-adam-curry/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/13871-adam-curry/?do=hovercard' title="Перейти в профиль Adam Curry" class="ipsType_break">Adam Curry</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/22986-good1978/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/22986-good1978/?do=hovercard' title="Перейти в профиль Good1978" class="ipsType_break">Good1978</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25957-djaneel/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25957-djaneel/?do=hovercard' title="Перейти в профиль Djaneel" class="ipsType_break">Djaneel</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/6604-billshifr/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/6604-billshifr/?do=hovercard' title="Перейти в профиль billshifr" class="ipsType_break">billshifr</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/23472-kreg/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/23472-kreg/?do=hovercard' title="Перейти в профиль kreg" class="ipsType_break">kreg</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/2545-ryan-steamer/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/2545-ryan-steamer/?do=hovercard' title="Перейти в профиль Ryan Steamer" class="ipsType_break">Ryan Steamer</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/20125-aegon-stevens/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/20125-aegon-stevens/?do=hovercard' title="Перейти в профиль Aegon Stevens" class="ipsType_break">Aegon Stevens</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/3915-tortik999/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/3915-tortik999/?do=hovercard' title="Перейти в профиль Tortik999" class="ipsType_break">Tortik999</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25022-easystonick/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25022-easystonick/?do=hovercard' title="Перейти в профиль EasyStonick" class="ipsType_break">EasyStonick</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25256-frank-lorenso/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25256-frank-lorenso/?do=hovercard' title="Перейти в профиль Frank Lorenso" class="ipsType_break">Frank Lorenso</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/4001-kuertov/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/4001-kuertov/?do=hovercard' title="Перейти в профиль Kuertov" class="ipsType_break">Kuertov</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/20466-emissary/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/20466-emissary/?do=hovercard' title="Перейти в профиль emissary" class="ipsType_break">emissary</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/19765-smyrff/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/19765-smyrff/?do=hovercard' title="Перейти в профиль SmyrFF" class="ipsType_break">SmyrFF</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/18728-drakemerc/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/18728-drakemerc/?do=hovercard' title="Перейти в профиль drakemerc" class="ipsType_break">drakemerc</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26196-nika-cox/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26196-nika-cox/?do=hovercard' title="Перейти в профиль Nika Cox" class="ipsType_break">Nika Cox</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/24711-crespiks33/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/24711-crespiks33/?do=hovercard' title="Перейти в профиль Crespiks33" class="ipsType_break">Crespiks33</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25259-boba_fed/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25259-boba_fed/?do=hovercard' title="Перейти в профиль Boba_fed" class="ipsType_break">Boba_fed</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/24225-temiwe/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/24225-temiwe/?do=hovercard' title="Перейти в профиль Temiwe" class="ipsType_break">Temiwe</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/16544-alon-garsia/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/16544-alon-garsia/?do=hovercard' title="Перейти в профиль Alon Garsia" class="ipsType_break">Alon Garsia</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/10763-3kolrotv/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/10763-3kolrotv/?do=hovercard' title="Перейти в профиль 3kolrotv" class="ipsType_break">3kolrotv</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26494-jjordizzle/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26494-jjordizzle/?do=hovercard' title="Перейти в профиль JJordizzle" class="ipsType_break">JJordizzle</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/23411-greka/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/23411-greka/?do=hovercard' title="Перейти в профиль Greka" class="ipsType_break">Greka</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25246-auslander/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25246-auslander/?do=hovercard' title="Перейти в профиль Auslander" class="ipsType_break">Auslander</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/23270-damian_gato/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/23270-damian_gato/?do=hovercard' title="Перейти в профиль Damian_Gato" class="ipsType_break">Damian_Gato</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26575-aisha/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26575-aisha/?do=hovercard' title="Перейти в профиль Aisha" class="ipsType_break">Aisha</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25763-serj-matesha/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25763-serj-matesha/?do=hovercard' title="Перейти в профиль Serj Matesha" class="ipsType_break">Serj Matesha</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/23347-ketrin_dear/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/23347-ketrin_dear/?do=hovercard' title="Перейти в профиль Ketrin_Dear" class="ipsType_break">Ketrin_Dear</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/22487-xcomjs/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/22487-xcomjs/?do=hovercard' title="Перейти в профиль Xcom.js" class="ipsType_break">Xcom.js</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/4563-maveril-price/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/4563-maveril-price/?do=hovercard' title="Перейти в профиль Maveril Price" class="ipsType_break"><span style='color:#ff5d52'>Maveril Price</span></a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/1555-bernando-garsia/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/1555-bernando-garsia/?do=hovercard' title="Перейти в профиль Bernando Garsia" class="ipsType_break">Bernando Garsia</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/23715-evox/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/23715-evox/?do=hovercard' title="Перейти в профиль EVOX" class="ipsType_break">EVOX</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26712-georgiy-bichovskiy/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26712-georgiy-bichovskiy/?do=hovercard' title="Перейти в профиль Georgiy Bichovskiy" class="ipsType_break">Georgiy Bichovskiy</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/22358-xam666/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/22358-xam666/?do=hovercard' title="Перейти в профиль XAM666" class="ipsType_break">XAM666</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26622-luka_white/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26622-luka_white/?do=hovercard' title="Перейти в профиль Luka_White" class="ipsType_break">Luka_White</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/24284-syksovski/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/24284-syksovski/?do=hovercard' title="Перейти в профиль Syksovski" class="ipsType_break">Syksovski</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/15356-skylex/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/15356-skylex/?do=hovercard' title="Перейти в профиль Skylex" class="ipsType_break">Skylex</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/17520-melkiy352/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/17520-melkiy352/?do=hovercard' title="Перейти в профиль Melkiy352" class="ipsType_break">Melkiy352</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25939-james_shelby/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25939-james_shelby/?do=hovercard' title="Перейти в профиль James_Shelby" class="ipsType_break">James_Shelby</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/23208-pro100viking3/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/23208-pro100viking3/?do=hovercard' title="Перейти в профиль PRO100VIKING3" class="ipsType_break">PRO100VIKING3</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25655-nickclarke/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25655-nickclarke/?do=hovercard' title="Перейти в профиль NickClarke" class="ipsType_break">NickClarke</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/20198-holpel/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/20198-holpel/?do=hovercard' title="Перейти в профиль Holpel" class="ipsType_break">Holpel</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/20897-idoutra/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/20897-idoutra/?do=hovercard' title="Перейти в профиль idoutra" class="ipsType_break">idoutra</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/22488-igor_vihrow/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/22488-igor_vihrow/?do=hovercard' title="Перейти в профиль Igor_Vihrow" class="ipsType_break">Igor_Vihrow</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/14710-vills/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/14710-vills/?do=hovercard' title="Перейти в профиль Vills" class="ipsType_break">Vills</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/12628-polina-black%EF%BB%BF/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/12628-polina-black%EF%BB%BF/?do=hovercard' title="Перейти в профиль Polina Black﻿" class="ipsType_break">Polina Black﻿</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/15560-emilia_rise/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/15560-emilia_rise/?do=hovercard' title="Перейти в профиль Emilia_Rise" class="ipsType_break">Emilia_Rise</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/24612-lenfo/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/24612-lenfo/?do=hovercard' title="Перейти в профиль LENFO" class="ipsType_break">LENFO</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/17467-mafioznik/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/17467-mafioznik/?do=hovercard' title="Перейти в профиль Mafioznik" class="ipsType_break">Mafioznik</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/23734-starboyonntwitch/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/23734-starboyonntwitch/?do=hovercard' title="Перейти в профиль starboyonntwitch" class="ipsType_break">starboyonntwitch</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/9637-joruto/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/9637-joruto/?do=hovercard' title="Перейти в профиль Joruto" class="ipsType_break">Joruto</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25035-samvinci/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25035-samvinci/?do=hovercard' title="Перейти в профиль SAMVINCI" class="ipsType_break">SAMVINCI</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/6340-deez-brown/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/6340-deez-brown/?do=hovercard' title="Перейти в профиль Deez Brown" class="ipsType_break">Deez Brown</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26651-wayvee/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26651-wayvee/?do=hovercard' title="Перейти в профиль Wayvee" class="ipsType_break">Wayvee</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/20774-vladimir67/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/20774-vladimir67/?do=hovercard' title="Перейти в профиль Vladimir67" class="ipsType_break">Vladimir67</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/15362-aleksandr775577/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/15362-aleksandr775577/?do=hovercard' title="Перейти в профиль AleksandR775577" class="ipsType_break">AleksandR775577</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/832-bernardo-delatorre/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/832-bernardo-delatorre/?do=hovercard' title="Перейти в профиль Bernardo Delatorre" class="ipsType_break">Bernardo Delatorre</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25651-lervisp_kroll/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25651-lervisp_kroll/?do=hovercard' title="Перейти в профиль Lervisp_Kroll" class="ipsType_break">Lervisp_Kroll</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/1378-alonzo_guerra/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/1378-alonzo_guerra/?do=hovercard' title="Перейти в профиль Alonzo_Guerra" class="ipsType_break">Alonzo_Guerra</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26126-kittycat/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26126-kittycat/?do=hovercard' title="Перейти в профиль KittyCat" class="ipsType_break">KittyCat</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25168-mozay/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25168-mozay/?do=hovercard' title="Перейти в профиль Mozay" class="ipsType_break">Mozay</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/23818-mrvendeta/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/23818-mrvendeta/?do=hovercard' title="Перейти в профиль MrVendeta" class="ipsType_break">MrVendeta</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/7965-ogrocket%EF%BB%BF/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/7965-ogrocket%EF%BB%BF/?do=hovercard' title="Перейти в профиль OgRocket﻿" class="ipsType_break">OgRocket﻿</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26308-asker73/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26308-asker73/?do=hovercard' title="Перейти в профиль Asker73" class="ipsType_break">Asker73</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26685-gleb_minski/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26685-gleb_minski/?do=hovercard' title="Перейти в профиль Gleb_Minski" class="ipsType_break">Gleb_Minski</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/22409-herobrine998/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/22409-herobrine998/?do=hovercard' title="Перейти в профиль Herobrine998" class="ipsType_break">Herobrine998</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26200-alplay/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26200-alplay/?do=hovercard' title="Перейти в профиль alplay" class="ipsType_break">alplay</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26046-safeid/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26046-safeid/?do=hovercard' title="Перейти в профиль safeid" class="ipsType_break">safeid</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/22467-morrigan/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/22467-morrigan/?do=hovercard' title="Перейти в профиль Morrigan" class="ipsType_break">Morrigan</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/8701-greem/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/8701-greem/?do=hovercard' title="Перейти в профиль GreeM" class="ipsType_break">GreeM</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/24559-mgames221/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/24559-mgames221/?do=hovercard' title="Перейти в профиль mgames221" class="ipsType_break">mgames221</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26318-%D1%8F-%D0%BF%D0%B0%D0%BD%D0%BA-%D0%BD%D0%B0%D1%85%D0%BE%D0%B9/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26318-%D1%8F-%D0%BF%D0%B0%D0%BD%D0%BA-%D0%BD%D0%B0%D1%85%D0%BE%D0%B9/?do=hovercard' title="Перейти в профиль я панк наХой" class="ipsType_break">я панк наХой</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/21875-pooh/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/21875-pooh/?do=hovercard' title="Перейти в профиль Pooh" class="ipsType_break">Pooh</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/19932-tuwkan/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/19932-tuwkan/?do=hovercard' title="Перейти в профиль Tuwkan" class="ipsType_break">Tuwkan</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/17244-yahamba/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/17244-yahamba/?do=hovercard' title="Перейти в профиль Yahamba" class="ipsType_break">Yahamba</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/12675-tarasvasilevich/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/12675-tarasvasilevich/?do=hovercard' title="Перейти в профиль tarasvasilevich" class="ipsType_break">tarasvasilevich</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26345-chpy67/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26345-chpy67/?do=hovercard' title="Перейти в профиль chpy67" class="ipsType_break">chpy67</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26711-sidoy/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26711-sidoy/?do=hovercard' title="Перейти в профиль sidoy" class="ipsType_break">sidoy</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25450-helloween/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25450-helloween/?do=hovercard' title="Перейти в профиль Helloween" class="ipsType_break">Helloween</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/24239-tim_johnson/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/24239-tim_johnson/?do=hovercard' title="Перейти в профиль Tim_Johnson" class="ipsType_break">Tim_Johnson</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25411-tom-ellis/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25411-tom-ellis/?do=hovercard' title="Перейти в профиль Tom Ellis" class="ipsType_break">Tom Ellis</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26170-thomas-rider/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26170-thomas-rider/?do=hovercard' title="Перейти в профиль Thomas Rider" class="ipsType_break">Thomas Rider</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/21484-ben_sleeps/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/21484-ben_sleeps/?do=hovercard' title="Перейти в профиль Ben_Sleeps" class="ipsType_break">Ben_Sleeps</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/16131-raivant/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/16131-raivant/?do=hovercard' title="Перейти в профиль Raivant" class="ipsType_break">Raivant</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/20309-mashnaysh/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/20309-mashnaysh/?do=hovercard' title="Перейти в профиль mashnaysh" class="ipsType_break">mashnaysh</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/21099-brase/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/21099-brase/?do=hovercard' title="Перейти в профиль Brase" class="ipsType_break">Brase</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/8600-natashaivanova/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/8600-natashaivanova/?do=hovercard' title="Перейти в профиль NatashaIvanova" class="ipsType_break">NatashaIvanova</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/25508-banan47/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25508-banan47/?do=hovercard' title="Перейти в профиль banan47" class="ipsType_break">banan47</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/24321-takeds/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/24321-takeds/?do=hovercard' title="Перейти в профиль Takeds" class="ipsType_break">Takeds</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/20957-joseph-price/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/20957-joseph-price/?do=hovercard' title="Перейти в профиль Joseph Price" class="ipsType_break">Joseph Price</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/26428-temageyden/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26428-temageyden/?do=hovercard' title="Перейти в профиль temageyden" class="ipsType_break">temageyden</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/20031-art700/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/20031-art700/?do=hovercard' title="Перейти в профиль art700" class="ipsType_break">art700</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/22648-xsonezx/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/22648-xsonezx/?do=hovercard' title="Перейти в профиль xsonezx" class="ipsType_break">xsonezx</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/18883-jonnybravo/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/18883-jonnybravo/?do=hovercard' title="Перейти в профиль JonnyBravo" class="ipsType_break">JonnyBravo</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/5262-joji-kudo/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/5262-joji-kudo/?do=hovercard' title="Перейти в профиль Joji Kudo" class="ipsType_break">Joji Kudo</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/10935-strannlk/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/10935-strannlk/?do=hovercard' title="Перейти в профиль StRaNnlk" class="ipsType_break">StRaNnlk</a></li>
+			
+				<li>
+<a href='https://forum.redage.net/profile/21949-%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%BA%D0%B0%D0%B7%D0%B0%D0%BA%D0%BE%D0%B2/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/21949-%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%BA%D0%B0%D0%B7%D0%B0%D0%BA%D0%BE%D0%B2/?do=hovercard' title="Перейти в профиль Сергей_Казаков" class="ipsType_break">Сергей_Казаков</a></li>
+			
+		</ul>
+		
+	
+</div></li>
+				
+			
+		</ul>
+	</div>
+
+					</div>
+					
+
+
+	<div id='ipsLayout_sidebar' class='ipsLayout_sidebarright ' data-controller='core.front.widgets.sidebar'>
+		
+		
+		
+		
+
+
+	<div class='cWidgetContainer '  data-role='widgetReceiver' data-orientation='vertical' data-widgetArea='sidebar'>
+		<ul class='ipsList_reset'>
+			
+				
+					
+					<li class='ipsWidget ipsWidget_vertical ipsBox ' data-blockID='app_core_topContributors_apw7anjif' data-blockConfig="true" data-blockTitle="Лучшие авторы" data-blockErrorMessage="Этот блок не будет отображён до тех пор, пока не будут установлены его настройки." data-controller='core.front.widgets.block'>
+<h3 class='ipsType_reset ipsWidget_title'>Лучшие авторы</h3>
+<div class='ipsTabs ipsTabs_small ipsTabs_stretch ipsClearfix' id='elTopContributors' data-ipsTabBar data-ipsTabBar-updateURL='false' data-ipsTabBar-contentArea='#elTopContributors_content'>
+	<a href='#elTopContributors' data-action='expandTabs'><i class='fa fa-caret-down'></i></a>
+	<ul role="tablist" class='ipsList_reset'>
+		<li>
+			<a href='#ipsTabs_elTopContributors_el_topContributorsWeek_panel' id='el_topContributorsWeek' class='ipsTabs_item ipsTabs_activeItem' role="tab" aria-selected='true'>Неделя</a>
+		</li>
+		<li>
+			<a href='https://forum.redage.net/index.php?app=core&amp;module=system&amp;controller=ajax&amp;do=topContributors&amp;time=month&amp;limit=7&amp;orientation=vertical' id='el_topContributorsMonth' class='ipsTabs_item' role="tab" aria-selected='false'>Месяц</a>
+		</li>		
+		<li>
+			<a href='https://forum.redage.net/index.php?app=core&amp;module=system&amp;controller=ajax&amp;do=topContributors&amp;time=year&amp;limit=7&amp;orientation=vertical' id='el_topContributorsYear' class='ipsTabs_item' role="tab" aria-selected='false'>Год</a>
+		</li>
+		<li>
+			<a href='https://forum.redage.net/index.php?app=core&amp;module=system&amp;controller=ajax&amp;do=topContributors&amp;time=all&amp;limit=7&amp;orientation=vertical' id='el_topContributorsAll' class='ipsTabs_item' role="tab" aria-selected='false'>Все</a>
+		</li>
+	</ul>
+</div>
+
+<section id='elTopContributors_content' class='ipsWidget_inner ipsPad_half'>
+	<div id="ipsTabs_elTopContributors_el_topContributorsWeek_panel" class='ipsTabs_panel'>
+		
+
+	
+		<ol class='ipsDataList ipsDataList_reducedSpacing cTopContributors'>
+			
+			
+				
+				<li class='ipsDataItem'>
+					<div class='ipsDataItem_icon ipsPos_middle ipsType_center ipsType_large ipsType_light'><strong>1</strong></div>
+					<div class='ipsDataItem_main ipsPhotoPanel ipsPhotoPanel_tiny'>
+						
+
+
+	<a href="https://forum.redage.net/profile/296-danial-aldridge/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/296-danial-aldridge/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Danial Aldridge">
+		<img src='https://forum.redage.net/uploads/monthly_2019_02/npYqu9sCxsc.thumb.jpg.9e8244d37585be82fe4009e74bec9bbf.jpg' alt='Danial Aldridge'>
+	</a>
+
+						<div>
+							
+
+<a href='https://forum.redage.net/profile/296-danial-aldridge/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/296-danial-aldridge/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль Danial Aldridge" class="ipsType_break">Danial Aldridge</a>
+							<br>
+							
+								<span title="Репутация пользователя за этот период" data-ipsTooltip class='ipsRepBadge ipsRepBadge_positive'><i class='fa fa-plus-circle'></i> 1 050</span>
+							
+						</div>
+					</div>
+				</li>
+			
+				
+				<li class='ipsDataItem'>
+					<div class='ipsDataItem_icon ipsPos_middle ipsType_center ipsType_large ipsType_light'><strong>2</strong></div>
+					<div class='ipsDataItem_main ipsPhotoPanel ipsPhotoPanel_tiny'>
+						
+
+
+	<a href="https://forum.redage.net/profile/16544-alon-garsia/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/16544-alon-garsia/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Alon Garsia">
+		<img src='https://forum.redage.net/uploads/monthly_2019_06/1896700242_--5.thumb.gif.be19ff412bbb1ba0b2b473a568fd958b.gif' alt='Alon Garsia'>
+	</a>
+
+						<div>
+							
+
+<a href='https://forum.redage.net/profile/16544-alon-garsia/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/16544-alon-garsia/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль Alon Garsia" class="ipsType_break">Alon Garsia</a>
+							<br>
+							
+								<span title="Репутация пользователя за этот период" data-ipsTooltip class='ipsRepBadge ipsRepBadge_positive'><i class='fa fa-plus-circle'></i> 858</span>
+							
+						</div>
+					</div>
+				</li>
+			
+				
+				<li class='ipsDataItem'>
+					<div class='ipsDataItem_icon ipsPos_middle ipsType_center ipsType_large ipsType_light'><strong>3</strong></div>
+					<div class='ipsDataItem_main ipsPhotoPanel ipsPhotoPanel_tiny'>
+						
+
+
+	<a href="https://forum.redage.net/profile/2092-herom-garsia/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/2092-herom-garsia/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Herom Garsia">
+		<img src='https://forum.redage.net/uploads/monthly_2019_07/9nUizRlFjWM.thumb.jpg.adc97ce81cdcbfa23d0c6a8b1d42990d.jpg' alt='Herom Garsia'>
+	</a>
+
+						<div>
+							
+
+<a href='https://forum.redage.net/profile/2092-herom-garsia/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/2092-herom-garsia/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль Herom Garsia" class="ipsType_break">Herom Garsia</a>
+							<br>
+							
+								<span title="Репутация пользователя за этот период" data-ipsTooltip class='ipsRepBadge ipsRepBadge_positive'><i class='fa fa-plus-circle'></i> 174</span>
+							
+						</div>
+					</div>
+				</li>
+			
+				
+				<li class='ipsDataItem'>
+					<div class='ipsDataItem_icon ipsPos_middle ipsType_center ipsType_large ipsType_light'><strong>4</strong></div>
+					<div class='ipsDataItem_main ipsPhotoPanel ipsPhotoPanel_tiny'>
+						
+
+
+	<a href="https://forum.redage.net/profile/167-surtiwe-desire/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/167-surtiwe-desire/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Surtiwe Desire">
+		<img src='https://forum.redage.net/uploads/monthly_2019_07/100261122.thumb.jpg.7b58abd0b6c1bb2b44aaa1c4d6aadb64.jpg' alt='Surtiwe Desire'>
+	</a>
+
+						<div>
+							
+
+<a href='https://forum.redage.net/profile/167-surtiwe-desire/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/167-surtiwe-desire/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль Surtiwe Desire" class="ipsType_break">Surtiwe Desire</a>
+							<br>
+							
+								<span title="Репутация пользователя за этот период" data-ipsTooltip class='ipsRepBadge ipsRepBadge_positive'><i class='fa fa-plus-circle'></i> 150</span>
+							
+						</div>
+					</div>
+				</li>
+			
+				
+				<li class='ipsDataItem'>
+					<div class='ipsDataItem_icon ipsPos_middle ipsType_center ipsType_large ipsType_light'><strong>5</strong></div>
+					<div class='ipsDataItem_main ipsPhotoPanel ipsPhotoPanel_tiny'>
+						
+
+
+	<a href="https://forum.redage.net/profile/22632-obitoo/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/22632-obitoo/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль obitoo">
+		<img src='https://forum.redage.net/uploads/monthly_2019_06/12.thumb.gif.e0287a506f6e2bc6035cb50757413831.gif' alt='obitoo'>
+	</a>
+
+						<div>
+							
+
+<a href='https://forum.redage.net/profile/22632-obitoo/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/22632-obitoo/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль obitoo" class="ipsType_break">obitoo</a>
+							<br>
+							
+								<span title="Репутация пользователя за этот период" data-ipsTooltip class='ipsRepBadge ipsRepBadge_positive'><i class='fa fa-plus-circle'></i> 80</span>
+							
+						</div>
+					</div>
+				</li>
+			
+				
+				<li class='ipsDataItem'>
+					<div class='ipsDataItem_icon ipsPos_middle ipsType_center ipsType_large ipsType_light'><strong>6</strong></div>
+					<div class='ipsDataItem_main ipsPhotoPanel ipsPhotoPanel_tiny'>
+						
+
+
+	<a href="https://forum.redage.net/profile/18894-northerngraves/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/18894-northerngraves/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль northerngraves">
+		<img src='https://forum.redage.net/uploads/monthly_2019_07/999248180_.thumb.png.3a60d93b69e973eae4a747a0c3e2e350.png' alt='northerngraves'>
+	</a>
+
+						<div>
+							
+
+<a href='https://forum.redage.net/profile/18894-northerngraves/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/18894-northerngraves/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль northerngraves" class="ipsType_break">northerngraves</a>
+							<br>
+							
+								<span title="Репутация пользователя за этот период" data-ipsTooltip class='ipsRepBadge ipsRepBadge_positive'><i class='fa fa-plus-circle'></i> 57</span>
+							
+						</div>
+					</div>
+				</li>
+			
+				
+				<li class='ipsDataItem'>
+					<div class='ipsDataItem_icon ipsPos_middle ipsType_center ipsType_large ipsType_light'><strong>7</strong></div>
+					<div class='ipsDataItem_main ipsPhotoPanel ipsPhotoPanel_tiny'>
+						
+
+
+	<a href="https://forum.redage.net/profile/11077-logan-fletcher/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/11077-logan-fletcher/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Logan Fletcher">
+		<img src='https://forum.redage.net/uploads/monthly_2019_04/133802362_.thumb.jpg.a9443d0ef9c6e7bd42f0bc8e61db57d6.jpg' alt='Logan Fletcher'>
+	</a>
+
+						<div>
+							
+
+<a href='https://forum.redage.net/profile/11077-logan-fletcher/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/11077-logan-fletcher/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль Logan Fletcher" class="ipsType_break">Logan Fletcher</a>
+							<br>
+							
+								<span title="Репутация пользователя за этот период" data-ipsTooltip class='ipsRepBadge ipsRepBadge_positive'><i class='fa fa-plus-circle'></i> 29</span>
+							
+						</div>
+					</div>
+				</li>
+			
+		</ol>
+		
+			<div class="ipsPad_half ipsType_center ipsAreaBackground_light">
+				
+				<a href="https://forum.redage.net/leaderboard/?time=week">Показать больше</a>
+			</div>
+		
+	
+
+	</div>
+</section></li>
+				
+					
+					<li class='ipsWidget ipsWidget_vertical ipsBox ' data-blockID='app_forums_topicFeed_6mzkfkvg2' data-blockConfig="true" data-blockTitle="Лента тем" data-blockErrorMessage="Этот блок не будет отображён до тех пор, пока не будут установлены его настройки." data-controller='core.front.widgets.block'>
+
+	<h3 class='ipsWidget_title ipsType_reset'>Темы</h3>
+
+	
+		<div class='ipsPad ipsWidget_inner'>
+			<ul class='ipsDataList ipsDataList_reducedSpacing'>
+				
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_icon ipsPos_top'>
+							
+
+
+	<a href="https://forum.redage.net/profile/23286-merchik/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/23286-merchik/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Merchik">
+		<img src='data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c48762%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E' alt='Merchik'>
+	</a>
+
+						</div>
+						<div class='ipsDataItem_main cWidgetComments'>
+							<div class="ipsCommentCount ipsPos_right " data-ipsTooltip title='1 ответ'>1</div>
+							
+							<div class='ipsType_break ipsContained'>
+															
+								<a href="https://forum.redage.net/topic/62624-%D0%BD%D0%B0%D1%80%D1%83%D1%87%D0%BD%D0%B8%D0%BA%D0%B8/?do=getNewComment" title='Просмотреть тему Наручники' class='ipsDataItem_title'>Наручники</a>
+							</div>
+							<p class='ipsType_reset ipsType_medium ipsType_blendLinks ipsContained'>
+								<span>Автор: 
+
+<a href='https://forum.redage.net/profile/23286-merchik/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/23286-merchik/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль Merchik" class="ipsType_break">Merchik</a></span><br>
+								<span class='ipsType_light'>Создана <time datetime='2019-07-10T15:32:12Z' title='10.07.2019 19:32 ' data-short='52 мин'>52 минуты назад</time></span>
+							</p>
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_icon ipsPos_top'>
+							
+
+
+	<a href="https://forum.redage.net/profile/18757-nqshka/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/18757-nqshka/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль nqshka">
+		<img src='data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23ae62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EN%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E' alt='nqshka'>
+	</a>
+
+						</div>
+						<div class='ipsDataItem_main cWidgetComments'>
+							<div class="ipsCommentCount ipsPos_right " data-ipsTooltip title='35 ответов'>35</div>
+							
+							<div class='ipsType_break ipsContained'>
+															
+								<a href="https://forum.redage.net/topic/61851-2-%D0%B1%D1%80%D0%BE%D0%BD%D0%B5%D0%B6%D0%B8%D0%BB%D0%B5%D1%82%D0%B0-%D0%B4%D0%BB%D1%8F-fib-%D0%B8-lspd/?do=getNewComment" title='Просмотреть тему 2 Бронежилета для FIB и LSPD' class='ipsDataItem_title'>2 Бронежилета для FIB и LSPD</a>
+							</div>
+							<p class='ipsType_reset ipsType_medium ipsType_blendLinks ipsContained'>
+								<span>Автор: 
+
+<a href='https://forum.redage.net/profile/18757-nqshka/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/18757-nqshka/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль nqshka" class="ipsType_break">nqshka</a></span><br>
+								<span class='ipsType_light'>Создана <time datetime='2019-07-08T14:56:46Z' title='08.07.2019 18:56 ' data-short='2 дн'></time></span>
+							</p>
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_icon ipsPos_top'>
+							
+
+
+	<a href="https://forum.redage.net/profile/26194-ilyyaas/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/26194-ilyyaas/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль iLyyaas">
+		<img src='data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c48162%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EI%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E' alt='iLyyaas'>
+	</a>
+
+						</div>
+						<div class='ipsDataItem_main cWidgetComments'>
+							<div class="ipsCommentCount ipsPos_right ipsFaded" data-ipsTooltip title='0 ответов'>0</div>
+							
+							<div class='ipsType_break ipsContained'>
+															
+								<a href="https://forum.redage.net/topic/62599-los-santos-castoms/?do=getNewComment" title='Просмотреть тему Los santos castoms' class='ipsDataItem_title'>Los santos castoms</a>
+							</div>
+							<p class='ipsType_reset ipsType_medium ipsType_blendLinks ipsContained'>
+								<span>Автор: 
+
+<a href='https://forum.redage.net/profile/26194-ilyyaas/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26194-ilyyaas/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль iLyyaas" class="ipsType_break">iLyyaas</a></span><br>
+								<span class='ipsType_light'>Создана <time datetime='2019-07-10T14:18:40Z' title='10.07.2019 18:18 ' data-short='2 час'>2 часа назад</time></span>
+							</p>
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_icon ipsPos_top'>
+							
+
+
+	<a href="https://forum.redage.net/profile/24321-takeds/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/24321-takeds/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Takeds">
+		<img src='https://forum.redage.net/uploads/monthly_2019_07/merryweather_security_logo_by_jvanover-d9ouef0.thumb.png.efb704e4166b0ef0ea4ba0a8564ec354.thumb.png.440a45c626534f06e2cfc9eaec7bf218.png' alt='Takeds'>
+	</a>
+
+						</div>
+						<div class='ipsDataItem_main cWidgetComments'>
+							<div class="ipsCommentCount ipsPos_right " data-ipsTooltip title='6 ответов'>6</div>
+							
+							<div class='ipsType_break ipsContained'>
+															
+								<a href="https://forum.redage.net/topic/60159-%D1%80%D0%BF-%D1%81%D0%B8%D1%82%D1%83%D0%B0%D1%86%D0%B8%D1%8F-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8-merryweather-security/?do=getNewComment" title='Просмотреть тему [РП ситуация] Создание организации Merryweather Security' class='ipsDataItem_title'>[РП ситуация] Создание организации Merryweather Security</a>
+							</div>
+							<p class='ipsType_reset ipsType_medium ipsType_blendLinks ipsContained'>
+								<span>Автор: 
+
+<a href='https://forum.redage.net/profile/24321-takeds/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/24321-takeds/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль Takeds" class="ipsType_break">Takeds</a></span><br>
+								<span class='ipsType_light'>Создана <time datetime='2019-07-04T15:42:58Z' title='04.07.2019 19:42 ' data-short='4 июл'>4 июля</time></span>
+							</p>
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_icon ipsPos_top'>
+							
+
+
+	<a href="https://forum.redage.net/profile/22825-kesapen/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/22825-kesapen/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль kesapen">
+		<img src='data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%238ec462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EK%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E' alt='kesapen'>
+	</a>
+
+						</div>
+						<div class='ipsDataItem_main cWidgetComments'>
+							<div class="ipsCommentCount ipsPos_right " data-ipsTooltip title='11 ответов'>11</div>
+							
+							<div class='ipsType_break ipsContained'>
+															
+								<a href="https://forum.redage.net/topic/62109-%D0%B4%D0%BE%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%82%D1%8C-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%83-%D0%BF%D0%BE%D1%85%D0%B8%D1%89%D0%B5%D0%BD%D0%B8%D0%B9-%D1%8D%D1%82%D0%BE-%D0%B2%D0%B0%D0%B6%D0%BD%D0%BE/?do=getNewComment" title='Просмотреть тему Доработать систему похищений. это ВАЖНО!' class='ipsDataItem_title'>Доработать систему похищений. это ВАЖНО!</a>
+							</div>
+							<p class='ipsType_reset ipsType_medium ipsType_blendLinks ipsContained'>
+								<span>Автор: 
+
+<a href='https://forum.redage.net/profile/22825-kesapen/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/22825-kesapen/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль kesapen" class="ipsType_break">kesapen</a></span><br>
+								<span class='ipsType_light'>Создана <time datetime='2019-07-09T08:13:10Z' title='09.07.2019 12:13 ' data-short='1 дн'>Вчера в 12:13</time></span>
+							</p>
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_icon ipsPos_top'>
+							
+
+
+	<a href="https://forum.redage.net/profile/22825-kesapen/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/22825-kesapen/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль kesapen">
+		<img src='data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%238ec462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EK%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E' alt='kesapen'>
+	</a>
+
+						</div>
+						<div class='ipsDataItem_main cWidgetComments'>
+							<div class="ipsCommentCount ipsPos_right " data-ipsTooltip title='7 ответов'>7</div>
+							
+							<div class='ipsType_break ipsContained'>
+															
+								<a href="https://forum.redage.net/topic/62113-%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F-%D1%84%D1%80%D0%B0%D0%BA%D1%86%D0%B8%D1%8F-%D0%BE%D0%BF%D0%B3/?do=getNewComment" title='Просмотреть тему Новая фракция - ОПГ' class='ipsDataItem_title'>Новая фракция - ОПГ</a>
+							</div>
+							<p class='ipsType_reset ipsType_medium ipsType_blendLinks ipsContained'>
+								<span>Автор: 
+
+<a href='https://forum.redage.net/profile/22825-kesapen/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/22825-kesapen/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль kesapen" class="ipsType_break">kesapen</a></span><br>
+								<span class='ipsType_light'>Создана <time datetime='2019-07-09T08:30:18Z' title='09.07.2019 12:30 ' data-short='1 дн'>Вчера в 12:30</time></span>
+							</p>
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_icon ipsPos_top'>
+							
+
+
+	<a href="https://forum.redage.net/profile/7181-henderson/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/7181-henderson/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Henderson">
+		<img src='data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4b762%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EH%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E' alt='Henderson'>
+	</a>
+
+						</div>
+						<div class='ipsDataItem_main cWidgetComments'>
+							<div class="ipsCommentCount ipsPos_right " data-ipsTooltip title='1 ответ'>1</div>
+							
+							<div class='ipsType_break ipsContained'>
+															
+								<a href="https://forum.redage.net/topic/62576-%D0%B1%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F-alexey-makarov/?do=getNewComment" title='Просмотреть тему Биография | Alexey Makarov' class='ipsDataItem_title'>Биография | Alexey Makarov</a>
+							</div>
+							<p class='ipsType_reset ipsType_medium ipsType_blendLinks ipsContained'>
+								<span>Автор: 
+
+<a href='https://forum.redage.net/profile/7181-henderson/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/7181-henderson/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль Henderson" class="ipsType_break">Henderson</a></span><br>
+								<span class='ipsType_light'>Создана <time datetime='2019-07-10T12:59:18Z' title='10.07.2019 16:59 ' data-short='3 час'>3 часа назад</time></span>
+							</p>
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_icon ipsPos_top'>
+							
+
+
+	<a href="https://forum.redage.net/profile/25484-0001/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/25484-0001/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль 0001">
+		<img src='https://forum.redage.net/uploads/monthly_2019_07/2054141265_giphy(2).thumb.gif.303126f17a536b7321ac9d32f3532248.gif' alt='0001'>
+	</a>
+
+						</div>
+						<div class='ipsDataItem_main cWidgetComments'>
+							<div class="ipsCommentCount ipsPos_right ipsFaded" data-ipsTooltip title='0 ответов'>0</div>
+							
+							<div class='ipsType_break ipsContained'>
+															
+								<a href="https://forum.redage.net/topic/62577-1-%D0%BF%D1%83%D0%BB%D1%8F-%D0%B2-%D1%81%D0%BD%D0%B0%D0%B9%D0%BF%D0%B5%D1%80%D0%BA%D0%B5/?do=getNewComment" title='Просмотреть тему 1 пуля в снайперке' class='ipsDataItem_title'>1 пуля в снайперке</a>
+							</div>
+							<p class='ipsType_reset ipsType_medium ipsType_blendLinks ipsContained'>
+								<span>Автор: 
+
+<a href='https://forum.redage.net/profile/25484-0001/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/25484-0001/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль 0001" class="ipsType_break">0001</a></span><br>
+								<span class='ipsType_light'>Создана <time datetime='2019-07-10T13:00:21Z' title='10.07.2019 17:00 ' data-short='3 час'>3 часа назад</time></span>
+							</p>
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_icon ipsPos_top'>
+							
+
+
+	<a href="https://forum.redage.net/profile/4200-ricardo-legend/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/4200-ricardo-legend/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Ricardo Legend">
+		<img src='https://forum.redage.net/uploads/monthly_2019_03/h6rHp7hUJjs.thumb.jpg.f3388a8fd6e6afa00a553ca70f95c64d.jpg' alt='Ricardo Legend'>
+	</a>
+
+						</div>
+						<div class='ipsDataItem_main cWidgetComments'>
+							<div class="ipsCommentCount ipsPos_right " data-ipsTooltip title='1 ответ'>1</div>
+							
+							<div class='ipsType_break ipsContained'>
+															
+								<a href="https://forum.redage.net/topic/62447-%D0%BA%D0%BB%D1%8F%D0%BF%D1%8B/?do=getNewComment" title='Просмотреть тему Кляпы' class='ipsDataItem_title'>Кляпы</a>
+							</div>
+							<p class='ipsType_reset ipsType_medium ipsType_blendLinks ipsContained'>
+								<span>Автор: 
+
+<a href='https://forum.redage.net/profile/4200-ricardo-legend/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/4200-ricardo-legend/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль Ricardo Legend" class="ipsType_break">Ricardo Legend</a></span><br>
+								<span class='ipsType_light'>Создана <time datetime='2019-07-10T02:45:14Z' title='10.07.2019 06:45 ' data-short='13 час'>13 часов назад</time></span>
+							</p>
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_icon ipsPos_top'>
+							
+
+
+	<a href="https://forum.redage.net/profile/4200-ricardo-legend/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/4200-ricardo-legend/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Ricardo Legend">
+		<img src='https://forum.redage.net/uploads/monthly_2019_03/h6rHp7hUJjs.thumb.jpg.f3388a8fd6e6afa00a553ca70f95c64d.jpg' alt='Ricardo Legend'>
+	</a>
+
+						</div>
+						<div class='ipsDataItem_main cWidgetComments'>
+							<div class="ipsCommentCount ipsPos_right " data-ipsTooltip title='2 ответа'>2</div>
+							
+							<div class='ipsType_break ipsContained'>
+															
+								<a href="https://forum.redage.net/topic/62445-%D1%80%D1%8E%D0%BA%D0%B7%D0%B0%D0%BA%D0%B8/?do=getNewComment" title='Просмотреть тему Рюкзаки' class='ipsDataItem_title'>Рюкзаки</a>
+							</div>
+							<p class='ipsType_reset ipsType_medium ipsType_blendLinks ipsContained'>
+								<span>Автор: 
+
+<a href='https://forum.redage.net/profile/4200-ricardo-legend/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/4200-ricardo-legend/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль Ricardo Legend" class="ipsType_break">Ricardo Legend</a></span><br>
+								<span class='ipsType_light'>Создана <time datetime='2019-07-10T02:34:23Z' title='10.07.2019 06:34 ' data-short='13 час'>13 часов назад</time></span>
+							</p>
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_icon ipsPos_top'>
+							
+
+
+	<a href="https://forum.redage.net/profile/26345-chpy67/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/26345-chpy67/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль chpy67">
+		<img src='data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23627ec4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EC%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E' alt='chpy67'>
+	</a>
+
+						</div>
+						<div class='ipsDataItem_main cWidgetComments'>
+							<div class="ipsCommentCount ipsPos_right ipsFaded" data-ipsTooltip title='0 ответов'>0</div>
+							
+							<div class='ipsType_break ipsContained'>
+															
+								<a href="https://forum.redage.net/topic/62545-%D1%83%D0%B2%D0%B5%D0%BB%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0-%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%BE%D0%B2-%D0%B2-%D1%82%D0%B5%D1%85-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B5/?do=getNewComment" title='Просмотреть тему Увеличение количества Специалистов в Тех. Блоке' class='ipsDataItem_title'>Увеличение количества Специалистов в Тех. Блоке</a>
+							</div>
+							<p class='ipsType_reset ipsType_medium ipsType_blendLinks ipsContained'>
+								<span>Автор: 
+
+<a href='https://forum.redage.net/profile/26345-chpy67/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26345-chpy67/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль chpy67" class="ipsType_break">chpy67</a></span><br>
+								<span class='ipsType_light'>Создана <time datetime='2019-07-10T11:44:36Z' title='10.07.2019 15:44 ' data-short='4 час'>4 часа назад</time></span>
+							</p>
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_icon ipsPos_top'>
+							
+
+
+	<a href="https://forum.redage.net/profile/22986-good1978/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/22986-good1978/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Good1978">
+		<img src='data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%236281c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EG%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E' alt='Good1978'>
+	</a>
+
+						</div>
+						<div class='ipsDataItem_main cWidgetComments'>
+							<div class="ipsCommentCount ipsPos_right ipsFaded" data-ipsTooltip title='0 ответов'>0</div>
+							
+							<div class='ipsType_break ipsContained'>
+															
+								<a href="https://forum.redage.net/topic/62463-%D0%BF%D1%80%D0%B5%D0%B2%D0%B5%D0%BE%D0%B4-%D0%B2-%D1%84%D0%B8%D0%B1-%D0%B8%D0%B7-%D0%B3%D0%BE%D1%81%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B9/?do=getNewComment" title='Просмотреть тему Превеод в ФИБ из гос.организаций' class='ipsDataItem_title'>Превеод в ФИБ из гос.организаций</a>
+							</div>
+							<p class='ipsType_reset ipsType_medium ipsType_blendLinks ipsContained'>
+								<span>Автор: 
+
+<a href='https://forum.redage.net/profile/22986-good1978/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/22986-good1978/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль Good1978" class="ipsType_break">Good1978</a></span><br>
+								<span class='ipsType_light'>Создана <time datetime='2019-07-10T06:48:50Z' title='10.07.2019 10:48 ' data-short='9 час'>9 часов назад</time></span>
+							</p>
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_icon ipsPos_top'>
+							
+
+
+	<a href="https://forum.redage.net/profile/2970-disaster666%EF%BB%BF6/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/2970-disaster666%EF%BB%BF6/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Disaster#666﻿6">
+		<img src='https://forum.redage.net/uploads/monthly_2019_07/1324545545_-1.thumb.jpg.7faf606ce9a0e85552ae6d295ac13e2f.jpg' alt='Disaster#666﻿6'>
+	</a>
+
+						</div>
+						<div class='ipsDataItem_main cWidgetComments'>
+							<div class="ipsCommentCount ipsPos_right " data-ipsTooltip title='1 ответ'>1</div>
+							
+							<div class='ipsType_break ipsContained'>
+															
+								<a href="https://forum.redage.net/topic/61942-%D1%80%D0%BF-%D1%81%D0%B8%D1%82%D1%83%D0%B0%D1%86%D0%B8%D1%8F-%D0%BB%D0%BE%D0%B2%D1%83%D1%88%D0%BA%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%BA%D1%80%D1%8B%D1%81/?do=getNewComment" title='Просмотреть тему [РП ситуация] Ловушка для крыс.' class='ipsDataItem_title'>[РП ситуация] Ловушка для крыс.</a>
+							</div>
+							<p class='ipsType_reset ipsType_medium ipsType_blendLinks ipsContained'>
+								<span>Автор: 
+
+<a href='https://forum.redage.net/profile/2970-disaster666%EF%BB%BF6/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/2970-disaster666%EF%BB%BF6/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль Disaster#666﻿6" class="ipsType_break">Disaster#666﻿6</a></span><br>
+								<span class='ipsType_light'>Создана <time datetime='2019-07-08T19:04:51Z' title='08.07.2019 23:04 ' data-short='1 дн'></time></span>
+							</p>
+						</div>
+					</li>
+				
+			</ul>
+		</div>
+	
+</li>
+				
+					
+					<li class='ipsWidget ipsWidget_vertical ipsBox ' data-blockID='app_forums_forumStatistics_qfeceif68' data-blockConfig="true" data-blockTitle="Статистика форума" data-blockErrorMessage="Этот блок не будет отображён до тех пор, пока не будут установлены его настройки." data-controller='core.front.widgets.block'>
+<h3 class='ipsType_reset ipsWidget_title'>Статистика форума</h3>
+<div class='ipsWidget_inner'>
+	
+		<div class='ipsPad_half'>
+			<ul class='ipsDataList'>
+				<li class='ipsDataItem'>
+					<div class='ipsDataItem_main ipsPos_middle'>
+						<strong>Всего тем</strong>
+					</div>
+					<div class='ipsDataItem_stats ipsDataItem_statsLarge'>
+						<span class='ipsDataItem_stats_number'>57 221</span>
+					</div>
+				</li>
+				<li class='ipsDataItem'>
+					<div class='ipsDataItem_main ipsPos_middle'>
+						<strong>Всего сообщений</strong>
+					</div>
+					<div class='ipsDataItem_stats ipsDataItem_statsLarge'>
+						<span class='ipsDataItem_stats_number'>160 879</span>
+					</div>
+				</li>
+			</ul>
+		</div>
+	
+</div></li>
+				
+					
+					<li class='ipsWidget ipsWidget_vertical ipsBox ' data-blockID='app_core_stats_tfxi8p6mx' data-blockConfig="true" data-blockTitle="Статистика пользователей" data-blockErrorMessage="Этот блок не будет отображён до тех пор, пока не будут установлены его настройки." data-controller='core.front.widgets.block'>
+<h3 class='ipsType_reset ipsWidget_title'>Статистика пользователей</h3>
+<div class='ipsWidget_inner'>
+	
+		<div class='ipsPad_half'>
+			<ul class="ipsDataList">
+				<li class="ipsDataItem">
+					<div class="ipsDataItem_main ipsPos_middle">
+						<strong>Всего пользователей</strong>
+					</div>
+					<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+						<span class="ipsDataItem_stats_number">25 590</span>
+					</div>
+				</li>
+				<li class="ipsDataItem">
+					<div class="ipsDataItem_main ipsPos_middle">
+						<strong>Рекорд онлайна</strong>
+					</div>
+					<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+						<span class="ipsDataItem_stats_number">2 588</span><br>
+						<span class="ipsType_light ipsType_small"><time datetime='2019-05-31T18:32:57Z' title='31.05.2019 18:32 ' data-short='31 мая'>31 мая</time></span>
+					</div>
+				</li>
+			</ul>
+			<hr class='ipsHr'>
+			
+				<div class='ipsClearfix ipsPad_bottom'>
+					<div class='ipsPos_left ipsType_center cNewestMember'>
+						
+
+
+	<a href="https://forum.redage.net/profile/26713-romka1488/" data-ipsHover data-ipsHover-target="https://forum.redage.net/profile/26713-romka1488/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_small" title="Перейти в профиль romka1488">
+		<img src='data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462a9%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ER%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E' alt='romka1488'>
+	</a>
+
+					</div>
+					<div class='ipsWidget_latestItem'>
+						<strong class='ipsType_minorHeading'>Новый пользователь</strong><br>
+						<span class='ipsType_normal'>
+
+<a href='https://forum.redage.net/profile/26713-romka1488/' data-ipsHover data-ipsHover-target='https://forum.redage.net/profile/26713-romka1488/?do=hovercard&amp;referrer=https%253A%252F%252Fforum.redage.net%252F' title="Перейти в профиль romka1488" class="ipsType_break">romka1488</a></span><br>
+						<span class='ipsType_medium ipsType_light'>Регистрация <time datetime='2019-07-10T16:15:27Z' title='10.07.2019 16:15 ' data-short='13 мин'>13 минут назад</time></span>
+					</div>
+				</div>
+			
+		</div>
+	
+</div></li>
+				
+			
+		</ul>
+	</div>
+
+	</div>
+
+					
+<nav class='ipsBreadcrumb ipsBreadcrumb_bottom ipsFaded_withHover'>
+	
+		
+
+
+	
+
+	<ul class='ipsList_inline ipsPos_right'>
+		
+		<li >
+			<a data-action="defaultStream" class='ipsType_light '  href='https://forum.redage.net/discover/'><i class='icon-newspaper'></i> <span>Вся активность</span></a>
+		</li>
+		
+	</ul>
+
+	<ul data-role="breadcrumbList">
+		<li>
+			<a title="Главная" href='https://forum.redage.net/'>
+				<span><i class='fa fa-home'></i> Главная</span>
+			</a>
+		</li>
+		
+		
+	</ul>
+</nav>
+				</div>
+			</div>
+			
+		</main>
+		
+		<footer id='ipsLayout_footer' class='ipsLayout_container ipsClearfix'>
+				
+				
+
+<ul class='ipsList_inline ipsType_center' id="elFooterLinks">
+	
+	
+		<li>
+			<a href='#elNavLang_menu' id='elNavLang' data-ipsMenu data-ipsMenu-above>Язык <i class='fa fa-caret-down'></i></a>
+			<ul id='elNavLang_menu' class='ipsMenu ipsMenu_selectable ipsHide'>
+			
+				<li class='ipsMenu_item ipsMenu_itemChecked'>
+					<form action="//forum.redage.net/language/?csrfKey=1738ac265fceb507c68808859e1e90ee" method="post">
+					<button type='submit' name='id' value='2' class='ipsButton ipsButton_link ipsButton_link_secondary'><i class='ipsFlag ipsFlag-ru'></i> Русский (RU) (По умолчанию)</button>
+					</form>
+				</li>
+			
+				<li class='ipsMenu_item'>
+					<form action="//forum.redage.net/language/?csrfKey=1738ac265fceb507c68808859e1e90ee" method="post">
+					<button type='submit' name='id' value='1' class='ipsButton ipsButton_link ipsButton_link_secondary'><i class='ipsFlag ipsFlag-us'></i> English (USA) </button>
+					</form>
+				</li>
+			
+			</ul>
+		</li>
+	
+	
+	
+		<li>
+			<a href='#elNavTheme_menu' id='elNavTheme' data-ipsMenu data-ipsMenu-above>Стиль <i class='fa fa-caret-down'></i></a>
+			<ul id='elNavTheme_menu' class='ipsMenu ipsMenu_selectable ipsHide'>
+			
+				
+					<li class='ipsMenu_item'>
+						<form action="//forum.redage.net/theme/?csrfKey=1738ac265fceb507c68808859e1e90ee" method="post">
+						<button type='submit' name='id' value='1' class='ipsButton ipsButton_link ipsButton_link_secondary'>Default </button>
+						</form>
+					</li>
+				
+			
+				
+					<li class='ipsMenu_item ipsMenu_itemChecked'>
+						<form action="//forum.redage.net/theme/?csrfKey=1738ac265fceb507c68808859e1e90ee" method="post">
+						<button type='submit' name='id' value='2' class='ipsButton ipsButton_link ipsButton_link_secondary'>Redage (По умолчанию)</button>
+						</form>
+					</li>
+				
+			
+			</ul>
+		</li>
+	
+	
+		<li><a href='https://redage.net/privacy-statement.pdf'>Политика конфиденциальности</a></li>
+	
+	
+		<li><a rel="nofollow" href='https://forum.redage.net/contact/' >Обратная связь</a></li>
+	
+</ul>	
+
+
+<p id='elCopyright'>
+	<span id='elCopyright_userLine'></span>
+	<a rel='nofollow' title='Invision Community' href='https://www.invisioncommunity.com/'>Powered by Invision Community</a>
+</p>
+		</footer>
+		
+<div id='elMobileDrawer' class='ipsDrawer ipsHide'>
+	<a href='#' class='ipsDrawer_close' data-action='close'><span>&times;</span></a>
+	<div class='ipsDrawer_menu'>
+		<div class='ipsDrawer_content'>
+			
+
+			<div class='ipsSpacer_bottom ipsPad'>
+				<ul class='ipsToolList ipsToolList_vertical'>
+					
+						<li>
+							<a href='https://forum.redage.net/login/' class='ipsButton ipsButton_light ipsButton_small ipsButton_fullWidth'>Уже зарегистрированы? Войти</a>
+						</li>
+						
+							<li>
+								
+									<a href='https://forum.redage.net/register/' data-ipsDialog data-ipsDialog-size='narrow' data-ipsDialog-title='Регистрация' data-ipsDialog-fixed='true' id='elRegisterButton_mobile' class='ipsButton ipsButton_small ipsButton_fullWidth ipsButton_important'>Регистрация</a>
+								
+							</li>
+						
+					
+
+					
+				</ul>
+			</div>
+
+			<ul class='ipsDrawer_list'>
+				
+
+				
+				
+				
+				
+					
+						
+						
+							<li><a href='https://redage.net' >Главная</a></li>
+						
+					
+				
+					
+						
+						
+							<li class='ipsDrawer_itemParent'>
+								<h4 class='ipsDrawer_title'><a href='#'>Сообщество</a></h4>
+								<ul class='ipsDrawer_list'>
+									<li data-action="back"><a href='#'>Назад</a></li>
+									
+										<li><a href='https://forum.redage.net'>Сообщество</a></li>
+									
+									
+									
+										
+
+
+	
+
+	
+		
+			<li>
+				<a href='https://forum.redage.net' >
+					Форум
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://redage.net/user-agreement.pdf' >
+					Правила
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://forum.redage.net/staff/' >
+					Наша команда
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://forum.redage.net/online/' >
+					Пользователи в сети
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://forum.redage.net/leaderboard/' >
+					Таблица лидеров
+				</a>
+			</li>
+		
+	
+
+										
+								</ul>
+							</li>
+						
+					
+				
+					
+						
+						
+							<li class='ipsDrawer_itemParent'>
+								<h4 class='ipsDrawer_title'><a href='#'>Активность</a></h4>
+								<ul class='ipsDrawer_list'>
+									<li data-action="back"><a href='#'>Назад</a></li>
+									
+										<li><a href='https://forum.redage.net/discover/'>Активность</a></li>
+									
+									
+									
+										
+
+
+	
+		
+			<li>
+				<a href='https://forum.redage.net/discover/' >
+					Вся активность
+				</a>
+			</li>
+		
+	
+
+	
+
+	
+
+	
+
+	
+		
+			<li>
+				<a href='https://forum.redage.net/search/' >
+					Поиск
+				</a>
+			</li>
+		
+	
+
+	
+
+										
+								</ul>
+							</li>
+						
+					
+				
+			</ul>
+		</div>
+	</div>
+</div>
+
+<div id='elMobileCreateMenuDrawer' class='ipsDrawer ipsHide'>
+	<a href='#' class='ipsDrawer_close' data-action='close'><span>&times;</span></a>
+	<div class='ipsDrawer_menu'>
+		<div class='ipsDrawer_content ipsSpacer_bottom ipsPad'>
+			<ul class='ipsDrawer_list'>
+				<li class="ipsDrawer_listTitle ipsType_reset">Создать...</li>
+				
+			</ul>
+		</div>
+	</div>
+</div>
+		
+		
+
+	<script type='text/javascript'>
+		var ipsDebug = false;		
+	
+		var CKEDITOR_BASEPATH = '//forum.redage.net/applications/core/interface/ckeditor/ckeditor/';
+	
+		var ipsSettings = {
+			
+			
+			cookie_path: "/",
+			
+			cookie_prefix: "ips4_",
+			
+			
+			cookie_ssl: true,
+			
+			upload_imgURL: "",
+			message_imgURL: "",
+			notification_imgURL: "",
+			baseURL: "//forum.redage.net/",
+			jsURL: "//forum.redage.net/applications/core/interface/js/js.php",
+			csrfKey: "1738ac265fceb507c68808859e1e90ee",
+			antiCache: "682a8da4c1",
+			disableNotificationSounds: false,
+			useCompiledFiles: true,
+			links_external: true,
+			memberID: 0,
+			lazyLoadEnabled: false,
+			blankImg: "//forum.redage.net/applications/core/interface/js/spacer.png",
+			analyticsProvider: "ga",
+			viewProfiles: true,
+			mapProvider: 'none',
+			mapApiKey: '',
+			
+		};
+	</script>
+
+
+
+
+
+<script type='text/javascript' src='//forum.redage.net/applications/core/interface/howler/howler.core.min.js?v=682a8da4c1' data-ips></script>
+
+
+<script type='text/javascript' src='https://forum.redage.net/uploads/javascript_global/root_library.js.5461e8886278007cb7aad4b9f09e246e.js?v=682a8da4c1' data-ips></script>
+
+
+<script type='text/javascript' src='https://forum.redage.net/uploads/javascript_global/root_js_lang_2.js.9f8eee7b3aa4be7c420017acddb06673.js?v=682a8da4c1' data-ips></script>
+
+
+<script type='text/javascript' src='https://forum.redage.net/uploads/javascript_global/root_framework.js.6c8616ddd87af9597c88b0be08b05c14.js?v=682a8da4c1' data-ips></script>
+
+
+<script type='text/javascript' src='https://forum.redage.net/uploads/javascript_core/global_global_core.js.7d95924d65706dbd142e92c60c003bba.js?v=682a8da4c1' data-ips></script>
+
+
+<script type='text/javascript' src='https://forum.redage.net/uploads/javascript_global/root_front.js.72d4756c5b823380cc305cfb3742a3bc.js?v=682a8da4c1' data-ips></script>
+
+
+<script type='text/javascript' src='https://forum.redage.net/uploads/javascript_gallery/front_front_browse.js.501dd13c5153c6c600283338f5a84022.js?v=682a8da4c1' data-ips></script>
+
+
+<script type='text/javascript' src='https://forum.redage.net/uploads/javascript_forums/front_front_forum.js.7c662000180da92ff591127aa826de33.js?v=682a8da4c1' data-ips></script>
+
+
+<script type='text/javascript' src='https://forum.redage.net/uploads/javascript_global/root_map.js.f2f43d47173b58cd3c3c465262e32cc4.js?v=682a8da4c1' data-ips></script>
+
+
+
+	<script type='text/javascript'>
+		
+			ips.setSetting( 'date_format', jQuery.parseJSON('"dd.mm.yy"') );
+		
+			ips.setSetting( 'date_first_day', jQuery.parseJSON('0') );
+		
+			ips.setSetting( 'remote_image_proxy', jQuery.parseJSON('0') );
+		
+			ips.setSetting( 'ipb_url_filter_option', jQuery.parseJSON('"none"') );
+		
+			ips.setSetting( 'url_filter_any_action', jQuery.parseJSON('"allow"') );
+		
+			ips.setSetting( 'bypass_profanity', jQuery.parseJSON('0') );
+		
+			ips.setSetting( 'emoji_style', jQuery.parseJSON('"twemoji"') );
+		
+			ips.setSetting( 'emoji_shortcodes', jQuery.parseJSON('"1"') );
+		
+			ips.setSetting( 'emoji_ascii', jQuery.parseJSON('"1"') );
+		
+			ips.setSetting( 'emoji_cache', jQuery.parseJSON('"1560639204"') );
+		
+		
+	</script>
+
+
+
+<script type='application/ld+json'>
+{
+    "@context": "http://www.schema.org",
+    "publisher": "https://forum.redage.net/#organization",
+    "@type": "WebSite",
+    "@id": "https://forum.redage.net/#website",
+    "mainEntityOfPage": "https://forum.redage.net/",
+    "name": "Redage Forum",
+    "url": "https://forum.redage.net/",
+    "potentialAction": {
+        "type": "SearchAction",
+        "query-input": "required name=query",
+        "target": "https://forum.redage.net/search/?q={query}"
+    },
+    "inLanguage": [
+        {
+            "@type": "Language",
+            "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 (RU)",
+            "alternateName": "ru-RU"
+        },
+        {
+            "@type": "Language",
+            "name": "English (USA)",
+            "alternateName": "en-US"
+        }
+    ]
+}	
+</script>
+
+<script type='application/ld+json'>
+{
+    "@context": "http://www.schema.org",
+    "@type": "Organization",
+    "@id": "https://forum.redage.net/#organization",
+    "mainEntityOfPage": "https://forum.redage.net/",
+    "name": "Redage Forum",
+    "url": "https://forum.redage.net/",
+    "logo": {
+        "@type": "ImageObject",
+        "@id": "https://forum.redage.net/#logo",
+        "url": "https://forum.redage.net/uploads/monthly_2019_01/logo.png.925607903ca24032679a71f4cdcd671c.png"
+    },
+    "sameAs": [
+        "http://vk.com/redage",
+        "https://www.youtube.com/channel/UCCa454TgDkTw8VsS7MTBJIQ"
+    ]
+}	
+</script>
+
+<script type='application/ld+json'>
+{
+    "@context": "http://schema.org",
+    "@type": "ContactPage",
+    "url": "https://forum.redage.net/contact/"
+}	
+</script>
+
+
+		
+
+	<script type='text/javascript' src='https://forum.redage.net/uploads/set_resources_2/d0e70b4cbb9ab8afb1bc1065a3f8487a_swiper.min.js'></script>
+	<script type="text/javascript">
+		 var swiperliskoduje = new Swiper('.swiper-liskoduje', {
+			 effect: 'fade',
+			 
+				
+				
+			 
+			});
+	</script>
+
+
+		<script type="text/javascript">
+			/*!
+				GreedyNav.js - http://lukejacksonn.com/actuate
+				Licensed under the MIT license - http://opensource.org/licenses/MIT
+				Copyright (c) 2015 Luke Jackson
+			*/
+
+				$( function () {
+
+					var nav = $( '.lk_navWrapper' );
+					var btn = $( '.lk_navWrapper .lk_navMore_container' );
+					var vlinks = $( '.lk_navWrapper [data-role="primaryNavBar"]' );
+					var hlinks = $( '.lk_navWrapper .lk_navMore' );
+
+					var numOfItems = 0;
+					var totalSpace = 0;
+					var breakWidths = [];
+
+					// Get initial state
+
+					vlinks.children().outerWidth( function ( i, w ) {
+						totalSpace += w;
+						numOfItems += 1;
+						breakWidths.push( totalSpace );
+					} );
+
+					var availableSpace, numOfVisibleItems, requiredSpace;
+
+					function check() {
+
+						// Get instant state
+						availableSpace = vlinks.width() - 10;
+						numOfVisibleItems = vlinks.children().length;
+						requiredSpace = breakWidths[ numOfVisibleItems - 1 ];
+
+						// There is not enought space
+						if ( requiredSpace > availableSpace ) {
+							vlinks.children().last().prependTo( hlinks );
+							numOfVisibleItems -= 1;
+							check();
+							// There is more than enough space
+						} else if ( availableSpace > breakWidths[ numOfVisibleItems ] ) {
+							hlinks.children().first().appendTo( vlinks );
+							numOfVisibleItems += 1;
+						}
+						// Update the button accordingly
+						btn.attr( "count", numOfItems - numOfVisibleItems );
+						if ( numOfVisibleItems === numOfItems ) {
+							btn.addClass( 'hidden' );
+						} else btn.removeClass( 'hidden' );
+
+						var countnavlk = hlinks.children().length;
+					}
+
+					// Window listeners
+					$( window ).resize( function () {
+						check();
+					} );
+
+					check();
+
+				} );
+
+
+			$( '.ipsNavBar_primary ul > li' ).hover( function ( e ) {
+				var elem = $( this );
+				var offset = elem.offset();
+				var position = offset.left;
+				var btnHeight = elem.width();
+				var dropMenu = elem.children( 'ul' );
+				var menuHeight = dropMenu.outerWidth();
+				var winHeight = $( window ).width();
+				console.log( winHeight );
+				if ( position > menuHeight && winHeight - position < btnHeight + menuHeight ) {
+					elem.addClass( 'lk_navLeft' );
+				} else {
+					elem.removeClass( 'lk_navLeft' );
+				}
+				e.stopPropagation();
+			} );
+		</script>
+		
+		
+		<!--ipsQueryLog-->
+		<!--ipsCachingLog-->
+		
+		
+	</body>
+</html>

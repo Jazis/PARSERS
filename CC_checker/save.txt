@@ -1,0 +1,39 @@
+522660
+	BIN:522660
+	Country:http://www.handelsbanken.se
+	Vendor:MASTERCARD
+	Type:STANDARD
+	Level:SWEDEN
+	Bank:SVENSKA HANDELSBANKEN AB
+___________________________________
+379648
+	BIN:379648
+	Country:US
+	Vendor:AMERICAN EXPRESS
+	Type:CREDIT
+	Level:
+	Bank:AMERICAN EXPRESS COMPANY
+___________________________________
+426684
+	BIN:426684
+	Country:US
+	Vendor:VISA
+	Type:CREDIT
+	Level:GOLD
+	Bank:CHASE BANK USA, N.A.
+___________________________________
+552433
+	BIN:552433
+	Country:http://www.bankofamerica.com
+	Vendor:MASTERCARD
+	Type:WORLD
+	Level:UNITED STATES
+	Bank:BANK OF AMERICA, N.A.
+___________________________________
+4266841525647465	BIN:426684
+	Country:US
+	Vendor:VISA
+	Type:CREDIT
+	Level:GOLD
+	Bank:CHASE BANK USA, N.A.
+___________________________________

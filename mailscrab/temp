@@ -1,0 +1,751 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:o="urn:schemas-microsoft-com:office:office" __expr-val-dir="ltr" lang="ru-ru" dir="ltr">
+<head><meta http-equiv="X-UA-Compatible" content="IE=8" /><meta name="GENERATOR" content="Microsoft SharePoint" /><meta name="progid" content="SharePoint.WebPartPage.Document" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Expires" content="0" /><title>
+	
+	Ректор
+
+</title><link rel="stylesheet" type="text/css" href="/Style%20Library/ru-RU/Themable/Core%20Styles/controls.css"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/1049/styles/menu-21.css?rev=KUxwM6DpWmPgZ8boWWv9lQ%3D%3D"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/ru-RU/Core%20Styles/page-layouts-21.css"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/ru-RU/Core%20Styles/rca.css"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/1049/styles/Themable/search.css?rev=6GjM38EHbZL%2F5Zzh2HrV5w%3D%3D"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/1049/styles/Themable/corev4.css?rev=CG9LW8tje4N1QBx0iBBttQ%3D%3D"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/FA2012Branding/CustomCSSFiles/style1.css"/>
+
+	<script type="text/javascript">
+	var _fV4UI = true;
+	</script>
+	<script type="text/javascript">
+// <![CDATA[
+document.write('<script type="text/javascript" src="/_layouts/1049/init.js?rev=xTIizxXB6qpjvYdwbvaH8w%3D%3D"></' + 'script>');
+document.write('<script type="text/javascript" src="/ScriptResource.axd?d=SjGsSwXuhCQy9hM-bKRCqU4GRTkU85-PRChAQLhefwUmQABrIuKUsrF3pa1BhUGq5ivNPTbN7zopuBoQXBnSoqlw_K9IN8Qr2tVlQ32IFAMaguoWV3XVw0-4XjIS9dSkV4ms5NvCRZoK-ZfAVTHiZf5ildc1&amp;t=2e2045e2"></' + 'script>');
+document.write('<script type="text/javascript" src="/_layouts/blank.js?rev=QGOYAJlouiWgFRlhHVlMKA%3D%3D"></' + 'script>');
+// ]]>
+</script>
+<link type="text/xml" rel="alternate" href="/university/rectorate/_vti_bin/spsdisco.aspx" />
+	
+	
+			
+			
+		
+	
+	
+<link rel="shortcut icon" href="/_layouts/images/favicon.ico" type="image/vnd.microsoft.icon" /></head>
+<body scroll="no" onload="if (typeof(_spBodyOnLoadWrapper) != 'undefined') _spBodyOnLoadWrapper();" class="v4master">
+  <form name="aspnetForm" method="post" action="rector.aspx" id="aspnetForm">
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" />
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" />
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" />
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="InvalidFormDigest" />
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false" />
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" />
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" />
+<input type="hidden" name="_wpSelected" id="_wpSelected" value="" />
+<input type="hidden" name="_wzSelected" id="_wzSelected" value="" />
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
+<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgIBD2QWBAIBD2QWBAIGD2QWAmYPZBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAg8PZBYCAgcPFgIfAAsrBAFkAgMPZBYMAhEPZBYCAgEPZBYEZg9kFgICAQ8WAh4HVmlzaWJsZWgWAmYPZBYEAgIPZBYGAgEPFgIfAWhkAgMPFggeE0NsaWVudE9uQ2xpY2tTY3JpcHQFigFqYXZhU2NyaXB0OkNvcmVJbnZva2UoJ1Rha2VPZmZsaW5lVG9DbGllbnRSZWFsJywxLCA5OTk5MSwgJ2h0dHA6XHUwMDJmXHUwMDJmd3d3Lm9sZC5mYS5ydVx1MDAyZnVuaXZlcnNpdHlcdTAwMmZyZWN0b3JhdGUnLCAtMSwgLTEsICcnLCAnJykeGENsaWVudE9uQ2xpY2tOYXZpZ2F0ZVVybGQeKENsaWVudE9uQ2xpY2tTY3JpcHRDb250YWluaW5nUHJlZml4ZWRVcmxkHgxIaWRkZW5TY3JpcHQFJVRha2VPZmZsaW5lRGlzYWJsZWQoMSwgOTk5OTEsIC0xLCAtMSlkAgUPFgIfAWhkAgMPDxYKHglBY2Nlc3NLZXkFAS8eD0Fycm93SW1hZ2VXaWR0aAIFHhBBcnJvd0ltYWdlSGVpZ2h0AgMeEUFycm93SW1hZ2VPZmZzZXRYZh4RQXJyb3dJbWFnZU9mZnNldFkC6wNkZAIBD2QWBAICD2QWAgIBDxAWAh8BaGQUKwEAZAIED2QWAmYPZBYCZg8UKwADZGRkZAIbD2QWAgIBD2QWAmYPZBYCAgEPZBYCZg8PZBYGHgVjbGFzcwUibXMtc2J0YWJsZSBtcy1zYnRhYmxlLWV4IHM0LXNlYXJjaB4LY2VsbHBhZGRpbmcFATAeC2NlbGxzcGFjaW5nBQEwZAIzD2QWAgIBD2QWBmYPDxYCHwFoZGQCAg8PFgIfAWhkZAIEDw8WAh8BaGRkAjUPZBYCAgEPZBYCAgsPZBYCAgEPDxYCHwFoZBYCAgIPZBYCZg9kFgICAw9kFgICBQ8PFgQeBkhlaWdodBsAAAAAAAB5QAEAAAAeBF8hU0ICgAFkFgICAQ88KwAJAQAPFgQeDVBhdGhTZXBhcmF0b3IECB4NTmV2ZXJFeHBhbmRlZGdkZAI7D2QWAgIDD2QWAgIBDxYCHwALKwQBZAJPD2QWAgICD2QWAgIDD2QWAgIFDxYCHwALKwQBZBgBBUljdGwwMCRQbGFjZUhvbGRlckxlZnRDb2x1bW4kUGxhY2VIb2xkZXJMZWZ0TmF2QmFyJGN0bDA1JFY0UXVpY2tMYXVuY2hNZW51Dw9kBUrQpNCw0LrRg9C70YzRgtC10YLRiywg0LTQtdC/0LDRgNGC0LDQvNC10L3RgtGLLCDQv9C+0LTRgNCw0LfQtNC10LvQtdC90LjRj2QRN2bhK88akVtn19i80x3Q4TsusA==" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+var MSOWebPartPageFormName = 'aspnetForm';
+var g_presenceEnabled = true;
+var g_wsaEnabled = false;
+var g_wsaLCID = 1049;
+var g_wsaSiteTemplateId = 'FAWEB#0';
+var g_wsaListTemplateId = 850;
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002funiversity\u002frectorate", webLanguage: 1049, currentLanguage: 1049, webUIVersion:4,pageListId:"{2aeff2be-7c44-41ad-994c-4face9b83415}",pageItemId:2, alertsEnabled:true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True'};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var dlc_fvsi = {"DefaultViews":[],"ViewUrls":[],"WebUrl":"\/university\/rectorate"};//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContext, type) {
+    CoreInvoke('ProcessDefaultNavigateHierarchy', nodeDiv, dataSourceId, dataPath, url, listInContext, type, document.forms.aspnetForm, "", "\u002funiversity\u002frectorate\u002fPages\u002frector.aspx");
+
+}
+//]]>
+</script>
+<script src="/_layouts/blank.js?rev=QGOYAJlouiWgFRlhHVlMKA%3D%3D" type="text/javascript"></script>
+<script src="/_layouts/FA2012Branding/CustomJavaScripts/jquery-latest.js" type="text/javascript"></script>
+<script src="/_layouts/FA2012Branding/CustomJavaScripts/slideshow.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BAB98CB3" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLSgYZgAo6NyYwKPFB45jA5XW3eLETdRFNjkaqbttk=" />
+  
+	
+<noscript><div class='noindex'>Возможно, вы пытаетесь обратиться к этому сайту из защищенного браузера на сервере. Включите скрипты и перезагрузите данную страницу.</div></noscript>
+<div id="TurnOnAccessibility" style="display:none" class="s4-notdlg noindex">
+	<a id="linkTurnOnAcc" href="#" class="ms-TurnOnAcc" onclick="SetIsAccessibilityFeatureEnabled(true);UpdateAccessibilityUI();document.getElementById('linkTurnOffAcc').focus();return false;">
+	Включить специальные возможности</a>
+</div>
+<div id="TurnOffAccessibility" style="display:none" class="s4-notdlg noindex">
+	<a id="linkTurnOffAcc" href="#" class="ms-TurnOffAcc" onclick="SetIsAccessibilityFeatureEnabled(false);UpdateAccessibilityUI();document.getElementById('linkTurnOnAcc').focus();return false;">
+	Выключить специальные возможности</a>
+</div>
+<div class="s4-notdlg s4-skipribbonshortcut noindex">
+	<a href="javascript:;" onclick="javascript:this.href='#startNavigation';" class="ms-SkiptoNavigation" accesskey="Y">
+	Пропустить команды ленты</a>
+</div>
+<div class="s4-notdlg noindex">
+	<a href="javascript:;" onclick="javascript:this.href='#mainContent';" class="ms-SkiptoMainContent" accesskey="X">
+	Пропустить до основного контента</a>
+</div>
+<a id="HiddenAnchor" href="javascript:;" style="display:none;"></a>
+
+<div id="s4-ribbonrow" class="s4-pr s4-ribbonrowhidetitle">
+	
+	
+	
+	<div id="s4-ribboncont">
+	
+		<!-- -->
+	</div>
+	
+	
+	<div id="notificationArea" class="s4-noti">
+	</div>
+	
+			
+<span id="ctl00_SPNavigation_ctl00_publishingConsoleV4_publishingRibbon"></span>
+
+
+
+	
+	<div id="WebPartAdderUpdatePanelContainer">
+		<div id="ctl00_WebPartAdderUpdatePanel">
+	
+				<span id="ctl00_WebPartAdder"></span>
+			
+</div>
+	</div>
+</div>
+
+	
+
+
+<!--  WORKSPACE // -->
+<div id="s4-workspace"  class="s4-nosetwidth">
+		<div id="s4-bodyContainer">
+		 <div id="second-background">
+
+<div id="s4-statusbarcontainer">
+	<div id="pageStatusBar" class="s4-status-s1"></div>
+</div>
+
+			<div id="s4-titlerow" class="s4-pr s4-notdlg s4-titlerowhidetitle">
+				<div class="s4-title s4-lp">
+					<div class="s4-title-inner">
+					
+					
+					<div id="s4-titletable">
+					<div id="fa-version-eng"><a href="http://international.fa.ru">English version</a></div>
+					
+			
+					<div id="s4-titletext">
+						<a id="ctl00_onetidProjectPropertyTitleGraphic" href="http://www.fa.ru"><img alt="Логотип Финуниверситета" id="ufrf-logo" src="/images/ufrf_logo.png"/> </a>
+						<div id="fa-socialdata-notif">
+							</div>
+					</div> <!-- eof titletext -->
+		<div id="fa-big-logo"><div id="fa-big-logo-container"></div></div>
+		
+		<div id="fa-searcharea" class="s4-search s4-rp">
+						
+							
+<div class="search">
+	<table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td valign="top"><div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ1" width="100%" OnlyForMePart="true" allowDelete="false" style="" ><div id="SRSB"> <div id="ctl00_PlaceHolderSearchArea_ctl01_g_c6cf5ad7_dee9_4ad5_a7c7_b79bf828147a">
+			<table class="ms-sbtable ms-sbtable-ex s4-search" cellpadding="0" cellspacing="0" border="0">
+				<tr class="ms-sbrow">
+					<td class="ms-sbcell"><input name="ctl00$PlaceHolderSearchArea$ctl01$g_c6cf5ad7_dee9_4ad5_a7c7_b79bf828147a$S501D001A_InputKeywords" type="text" maxlength="200" id="ctl00_PlaceHolderSearchArea_ctl01_g_c6cf5ad7_dee9_4ad5_a7c7_b79bf828147a_S501D001A_InputKeywords" accesskey="S" title="Поиск..." class="ms-sbplain" alt="Поиск..." onkeypress="javascript: return S501D001A_OSBEK(event);" style="width:170px;" /></td><td class="ms-sbgo ms-sbcell"><a id="ctl00_PlaceHolderSearchArea_ctl01_g_c6cf5ad7_dee9_4ad5_a7c7_b79bf828147a_S501D001A_go" title="Найти" href="javascript:S501D001A_Submit()"><img title="Найти" onmouseover="this.src='\u002f_layouts\u002fimages\u002fgosearchhover15.png'" onmouseout="this.src='\u002f_layouts\u002fimages\u002fgosearch15.png'" class="srch-gosearchimg" alt="Найти" src="/_layouts/images/gosearch15.png" border="0" /></a></td><td class="ms-sbLastcell"></td>
+				</tr>
+			</table>
+		</div></div></div></td>
+	</tr>
+</table>
+</div>	
+
+						
+						
+		</div> <!-- eof fa-searcharea -->
+
+<!--<span class="s4-help">
+								<span style="height:17px;width:17px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust"><a href="../../../_catalogs/masterpage/#" id="ctl00_TopHelpLink" style="height:17px;width:17px;display:inline-block;" onclick="TopHelpButtonClick('HelpHome');return false" accesskey="6" title="Справка (в новом окне)"><img src="/_layouts/images/fgimg.png" style="left:-0px !important;top:-309px !important;position:absolute;" align="absmiddle" border="0" alt="Справка (в новом окне)" /></a></span>
+						</span>-->
+
+<div id="fa-userwelcome">
+
+<a id="ctl00_IdWelcome_ExplicitLogin" class="s4-signInLink" href="http://www.old.fa.ru/university/rectorate/_layouts/Authenticate.aspx?Source=%2Funiversity%2Frectorate%2FPages%2Frector%2Easpx" style="display:inline;">Вход</a>
+
+</div>
+
+			
+				<div id="s4-topheader2" class="s4-pr s4-notdlg">
+					<a name="startNavigation"></a>
+					<div class="s4-rp s4-app">
+					</div>
+
+					<div class="s4-lp s4-toplinks">
+					
+						
+						<h2 class="ms-hidden" style="width: 14px; height: 14px">
+						Верхняя панель ссылок</h2>
+								
+<div id="zz1_TopNavigationMenuV4" class="s4-tn">
+	<div class="menu horizontal menu-horizontal">
+		<ul class="root static">
+			<li class="static dynamic-children"><a class="static dynamic-children menu-item" href="/university/Pages/default.aspx" accesskey="1"><span class="additional-background"><span class="menu-item-text">Наш университет</span></span></a><ul class="dynamic">
+				<li class="dynamic"><a class="dynamic menu-item" href="/university/common/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Общие сведения, факты и рейтинги</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/UNIVERSITY/MAINDATA/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Сведения об образовательной организации</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="/university/regulations/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Единая правовая база Финуниверситета</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="/university/Pages/Strategiya%20i%20programma%20razvitiya%20universiteta%20na%202010-2015%20gg.aspx"><span class="additional-background"><span class="menu-item-text">Стратегия и программа развития на 2013-2020 гг</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="/university/rectorate/Pages/structure.aspx"><span class="additional-background"><span class="menu-item-text">Руководство университета</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="/university/Pages/Gimn%20Finansovogo%20universiteta.aspx"><span class="additional-background"><span class="menu-item-text">Гимн Финансового университета</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/dep/sovet"><span class="additional-background"><span class="menu-item-text">Ученый совет</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/dep/umo"><span class="additional-background"><span class="menu-item-text">Учебно-методическое объединение</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/dep/ms"><span class="additional-background"><span class="menu-item-text">Учебно-методический совет</span></span></a></li><li class="dynamic"><a class="dynamic menu-item new-window" href="http://maofeo.ru/" target="_blank"><span class="additional-background"><span class="menu-item-text">Международная ассоциация (МАОФЭО)</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/dep/ic"><span class="additional-background"><span class="menu-item-text">Международное сотрудничество</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/university/rectorate/Pages/structure.aspx"><span class="additional-background"><span class="menu-item-text">Факультеты, департаменты, подразделения</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/university/Pages/filials.aspx"><span class="additional-background"><span class="menu-item-text">Филиалы и колледжи</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://go.fa.ru/lib"><span class="additional-background"><span class="menu-item-text">Библиотека</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/dep/museum"><span class="additional-background"><span class="menu-item-text">Музей финансов</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/projects/finansist/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Журнал Финансист</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/university/departments/Pages/lecture-hall.aspx"><span class="additional-background"><span class="menu-item-text">Лекторий Финуниверситета</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/dep/scijournal/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Редакция научных журналов</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/dep/press/about-us/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Пресса о нас</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/dep/press/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Пресс-служба</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="/university/Pages/calendar.aspx"><span class="additional-background"><span class="menu-item-text">Календарь событий</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/sites/lake"><span class="additional-background"><span class="menu-item-text">УОК Лесное озеро</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/university/anticorruption"><span class="additional-background"><span class="menu-item-text">Противодействие коррупции</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/university/webcontacts/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Электронные обращения</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/university/persons"><span class="additional-background"><span class="menu-item-text">Личные кабинеты</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="/university/Pages/contacts.aspx"><span class="additional-background"><span class="menu-item-text">Контакты и банковские реквизиты</span></span></a></li>
+			</ul></li><li class="static dynamic-children"><a class="static dynamic-children menu-item" href="http://bit.ly/29HVujD"><span class="additional-background"><span class="menu-item-text">Поступающим</span></span></a><ul class="dynamic">
+				<li class="dynamic"><a class="dynamic menu-item" href="http://bit.ly/29PvUeS"><span class="additional-background"><span class="menu-item-text">Бакалавриат</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://bit.ly/29OzFzO"><span class="additional-background"><span class="menu-item-text">Магистратура</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://bit.ly/2a35mXd"><span class="additional-background"><span class="menu-item-text">Заочное обучение</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/priemka/asp/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Аспирантура</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://bit.ly/29JcuoP"><span class="additional-background"><span class="menu-item-text">Докторантура</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://bit.ly/29OxjoS"><span class="additional-background"><span class="menu-item-text">Подготовительные курсы</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/dep/prof/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Профориентация</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://bit.ly/29Gzjhu"><span class="additional-background"><span class="menu-item-text">Международные проекты</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/faculty/riu/coming/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Иностранным поступающим</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://bit.ly/29HZLUu"><span class="additional-background"><span class="menu-item-text">Обучение за рубежом</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://bit.ly/29GAAVG"><span class="additional-background"><span class="menu-item-text">Второе высшее образование</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://bit.ly/2a4wdVE"><span class="additional-background"><span class="menu-item-text">Среднее профессиональное образование</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://go.fa.ru/bg"><span class="additional-background"><span class="menu-item-text">Филиалы и колледжи</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://bit.ly/2a1HuEu"><span class="additional-background"><span class="menu-item-text">Переводы и восстановления</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/dep/olimpcenter/olympics/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Олимпиады и конкурсы</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/priemka/Statistics/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Статистика приема</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://bit.ly/2aabShl"><span class="additional-background"><span class="menu-item-text">Общежития</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://bit.ly/29SKQtG"><span class="additional-background"><span class="menu-item-text">Вопросы и ответы</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://bit.ly/29SKP9p"><span class="additional-background"><span class="menu-item-text">День открытых дверей</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://bit.ly/29PvepI"><span class="additional-background"><span class="menu-item-text">Базовые школы</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://bit.ly/29PuIbp"><span class="additional-background"><span class="menu-item-text">Контакты</span></span></a></li>
+			</ul></li><li class="static dynamic-children"><a class="static dynamic-children menu-item" href="/to_students/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Студентам</span></span></a><ul class="dynamic">
+				<li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/TIMETABLE/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Расписание занятий</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="/university/departments/Pages/faculties.aspx"><span class="additional-background"><span class="menu-item-text">Факультеты</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/university/departments/Pages/dep.aspx"><span class="additional-background"><span class="menu-item-text">Учебно-научные департаменты</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/university/departments/Pages/chairs.aspx"><span class="additional-background"><span class="menu-item-text">Кафедры</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/dep/ceot/str/test/student/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Тестирование и самоподготовка</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/chair/inyaz3/news/Pages/index.aspx"><span class="additional-background"><span class="menu-item-text">Второй иностранный язык</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.library.fa.ru"><span class="additional-background"><span class="menu-item-text">Библиотека</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/to_students/Pages/own_lib.aspx"><span class="additional-background"><span class="menu-item-text">Личная библиотека</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/to_students/practic/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Практика</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/to_students/Pages/socialcard.aspx"><span class="additional-background"><span class="menu-item-text">Социальная карта студента</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="/to_students/Pages/grant.aspx"><span class="additional-background"><span class="menu-item-text">Стипендиальное обеспечение</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="/university/Pages/hostel.aspx"><span class="additional-background"><span class="menu-item-text">Общежития</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="/to_students/catering"><span class="additional-background"><span class="menu-item-text">Общественное питание</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="/to_students/Pages/med.aspx"><span class="additional-background"><span class="menu-item-text">Охрана здоровья</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/to_students/oplata/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Оплата обучения</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/sites/perehod/news"><span class="additional-background"><span class="menu-item-text">Переход с платного обучения на бесплатное</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/faculty/riu/student/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Иностранным обучающимся</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.career.fa.ru/o-nas"><span class="additional-background"><span class="menu-item-text">Трудоустройство студентов</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/dep/uvr/studsovet/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Студенческий совет</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/dep/uvr"><span class="additional-background"><span class="menu-item-text">Управление внеаудиторной работы</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/dep/sok/Pages/Default.aspx"><span class="additional-background"><span class="menu-item-text">Спортивная жизнь</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/projects/finterest/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Журнал Finterest</span></span></a></li>
+			</ul></li><li class="static dynamic-children"><a class="static dynamic-children menu-item" href="/science/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Наука и инновации</span></span></a><ul class="dynamic">
+				<li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/science/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Общая информация</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="/science/Pages/institutes_centers.aspx"><span class="additional-background"><span class="menu-item-text">НИИ и Центры</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/science/Pages/mfl.aspx"><span class="additional-background"><span class="menu-item-text">Bloomberg в Финуниверситете</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/dep/upanpk/graduate/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Аспирантура</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/dep/upanpk/doctoral/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Докторантура</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="/science/Pages/seminars.aspx"><span class="additional-background"><span class="menu-item-text">Семинары и конференции</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/projects/nids/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Научно-исследовательская деятельность студентов</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/projects/sciencescholls/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Научные школы Финуниверситета</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/dep/ods/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Диссертационные советы</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/dep/ods/autorefs/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Объявления о защите</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/projects/smu/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Совет молодых ученых</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/science/scientists_works"><span class="additional-background"><span class="menu-item-text">Труды ученых Финуниверситета</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/science/Pages/publications.aspx"><span class="additional-background"><span class="menu-item-text">Публикационная деятельность</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/projects/macro"><span class="additional-background"><span class="menu-item-text">Наши индексы</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/science/Pages/ourratings.aspx"><span class="additional-background"><span class="menu-item-text">Наши рейтинги</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/science/iscience/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Наука: просто о сложном</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/dep/science-board"><span class="additional-background"><span class="menu-item-text">Совет по научной деятельности</span></span></a></li>
+			</ul></li><li class="static dynamic-children"><a class="static dynamic-children menu-item" href="/business_education/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Дополнительное и бизнес-образование</span></span></a><ul class="dynamic">
+				<li class="dynamic"><a class="dynamic menu-item" href="/business_education/Pages/dba_programs.aspx"><span class="additional-background"><span class="menu-item-text">Программы DBA</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="/business_education/Pages/emba_programs.aspx"><span class="additional-background"><span class="menu-item-text">Программы EMBA</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="/business_education/Pages/mba_programs.aspx"><span class="additional-background"><span class="menu-item-text">Программы MBA</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="/business_education/Pages/mpa_programs.aspx"><span class="additional-background"><span class="menu-item-text">Программа MPA</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="/DEP/UMC/COURSE/STANDARTI/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Программы МСФО (DipIFR(АССА)), МФСО (DipIFRS(IFA))</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="/business_education/retraining_programs/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Программы профессиональной переподготовки</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="/business_education/training_programs/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Программы повышения квалификации</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/dep/umc/course/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Программы для  аудиторов, профессиональных  бухгалтеров, налоговых консультантов</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/dep/umc/course/Pages/CIMA.aspx"><span class="additional-background"><span class="menu-item-text">Программа международной сертификации по управленческому учету (CIMA)</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/business_education/Pages/distance-dpo.aspx"><span class="additional-background"><span class="menu-item-text">Дистанционное обучение по программам ДПО</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/business_education/Pages/diy.aspx"><span class="additional-background"><span class="menu-item-text">Иностранный язык</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="/business_education/Pages/corporate_educational_programs.aspx"><span class="additional-background"><span class="menu-item-text">Корпоративные образовательные программы</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="/business_education/Pages/seminars.aspx"><span class="additional-background"><span class="menu-item-text">Семинары и тренинги</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="/business_education/Pages/sertification_qualification.aspx"><span class="additional-background"><span class="menu-item-text">Сертификация и аттестация</span></span></a></li>
+			</ul></li><li class="static dynamic-children"><a class="static dynamic-children menu-item" href="/to_alumni/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Выпускнику, работодателю, партнёру</span></span></a><ul class="dynamic">
+				<li class="dynamic"><a class="dynamic menu-item" href="http://www.career.fa.ru/"><span class="additional-background"><span class="menu-item-text">Трудоустройство</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://endowment.fa.ru/"><span class="additional-background"><span class="menu-item-text">Эндаумент-фонд</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/dep/apgroup/about/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Выпускникам</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/to_alumni/Pages/alumni_league.aspx"><span class="additional-background"><span class="menu-item-text">Лига выпускников</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.areopagus.ru/"><span class="additional-background"><span class="menu-item-text">Клуб выпускников «Ареопаг»</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="/to_alumni/Pages/Partneri%20universiteta.aspx"><span class="additional-background"><span class="menu-item-text">Партнеры университета</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.old.fa.ru/dep/procurement/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Закупки</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="/to_alumni/Pages/services.aspx"><span class="additional-background"><span class="menu-item-text">Услуги</span></span></a></li>
+			</ul></li>
+		</ul>
+	</div>
+</div>
+
+	  
+
+								
+						
+					</div>
+					
+					<!--[if IE]>
+					<div id="corners">
+							<div class="cn tl"></div>
+							<div class="cn tr"></div>
+							<div class="cn bl"></div>
+							<div class="cn br"></div>
+					</div>
+					<![endif]-->
+
+				</div>
+			</div>
+	</div> <!-- eof s4-title-inner -->
+	
+				
+			
+			
+
+</div> <!-- eof s4-title -->
+</div> <!-- eof s4-titlerow-->
+
+ <!-- StartingNodeUrl="sid:1002"/> -->
+<div id="s4-mainarea" class="s4-pr s4-widecontentarea">
+
+   		<!--BREADCRUMBS-->
+		<div id="fa-breadcrumb">
+			<div class="clear"></div>
+            <div class="breadcrumbs">
+				<span id="ctl00_PlaceHolderBreadCrumb_ContentMap"><span><a title="Финансовый университет при Правительстве Российской Федерации: официальный веб-сайт" class="ms-sitemapdirectional" href="/Pages/home.aspx">Финансовый университет</a></span><span> &gt; </span><span><a class="ms-sitemapdirectional" href="/university/Pages/default.aspx">Наш университет</a></span><span> &gt; </span><span class="ms-sitemapdirectional">Руководство университета</span></span>
+			</div>					
+		
+	</div>
+		 <!--END BREADCRUMBS-->	
+<!--<div class="s4-pagedescription" tabindex="0" >
+
+</div>-->
+
+<!-- by Max-->						
+
+<!-- end by Max-->	
+
+
+				<div id="s4-leftpanel-regular" class="s4-notdlg">
+					<div id="s4-leftpanel-content-regular">				
+						
+						
+						
+							
+
+
+	<!--CONTENT-->
+    	
+		
+
+
+
+
+
+		
+
+						
+
+<div class="left-column">
+<div class="leftmenu">
+
+						
+				<div class="ms-quicklaunchouter">
+				
+<div id="site-collection-logo">
+	<a id="ctl00_PlaceHolderLeftColumn_PlaceHolderLeftNavBar_onetidProjectPropertyTitleGraphic2" href="/"><img id="ctl00_PlaceHolderLeftColumn_PlaceHolderLeftNavBar_onetidHeadbnnr2" name="onetidHeadbnnr0" src="/_layouts/images/titlegraphic.gif" alt="Руководство университета" border="0" /></a>
+</div>
+				
+				<div class="ms-quickLaunch">
+				
+						<h2 style="display:inline;" class="ms-hidden">Панель быстрого запуска</h2>
+					
+				
+				
+				
+				<div id="ctl00_PlaceHolderLeftColumn_PlaceHolderLeftNavBar_QuickLaunchNavigationManager" class="ms-quicklaunch-navmgr">
+	<div><div id="zz2_V4QuickLaunchMenu" class="s4-ql">
+		<div class="menu vertical menu-vertical">
+			<ul class="root static">
+				<li class="static"><a class="static menu-item" href="/university/common/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Общие сведения, факты и рейтинги</span></span></a></li><li class="static"><a class="static menu-item" href="/university/maindata/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Сведения об образовательной организации</span></span></a></li><li class="static"><a class="static menu-item" href="/university/regulations/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Единая правовая база Финуниверситета</span></span></a></li><li class="static"><a class="static menu-item" href="/university/Pages/Strategiya%20i%20programma%20razvitiya%20universiteta%20na%202010-2015%20gg.aspx"><span class="additional-background"><span class="menu-item-text">Стратегия и программа развития на 2013-2020 гг</span></span></a></li><li class="static"><a class="static menu-item" href="/university/rectorate/Pages/structure.aspx"><span class="additional-background"><span class="menu-item-text">Руководство университета</span></span></a></li><li class="static"><a class="static menu-item" href="/university/Pages/Gimn%20Finansovogo%20universiteta.aspx"><span class="additional-background"><span class="menu-item-text">Гимн Финансового университета</span></span></a></li><li class="static"><a class="static menu-item" href="/dep/sovet"><span class="additional-background"><span class="menu-item-text">Ученый совет</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.fa.ru/dep/umo"><span class="additional-background"><span class="menu-item-text">Учебно-методическое объединение</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.fa.ru/dep/ms"><span class="additional-background"><span class="menu-item-text">Учебно-методический совет</span></span></a></li><li class="static"><a class="static menu-item" href="http://maofeo.ru"><span class="additional-background"><span class="menu-item-text">Международная ассоциация (МАОФЭО)</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.fa.ru/dep/ic"><span class="additional-background"><span class="menu-item-text">Международное сотрудничество</span></span></a></li><li class="static selected"><a class="static selected menu-item new-window" href="/university/rectorate/Pages/structure.aspx" target="_blank"><span class="additional-background"><span class="menu-item-text">Факультеты, департаменты, подразделения</span><span class="ms-hidden">Выбранный в данный момент</span></span></a></li><li class="static"><a class="static menu-item" href="/university/Pages/filials.aspx"><span class="additional-background"><span class="menu-item-text">Филиалы и колледжи</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.fa.ru/projects/finansist"><span class="additional-background"><span class="menu-item-text">Журнал Финансист</span></span></a></li><li class="static"><a class="static menu-item" href="/university/departments/Pages/lecture-hall.aspx"><span class="additional-background"><span class="menu-item-text">Лекторий Финуниверситета</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.fa.ru/dep/scijournal/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Редакция научных журналов</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.fa.ru/dep/press/about-us/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Пресса о нас</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.fa.ru/dep/press/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Пресс-служба</span></span></a></li><li class="static"><a class="static menu-item" title="Календарь событий университета" href="/university/Pages/calendar.aspx"><span class="additional-background"><span class="menu-item-text">Календарь событий</span></span></a></li><li class="static"><a class="static menu-item" title="Противодействие коррупции" href="/university/anticorruption/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Противодействие коррупции</span></span></a></li><li class="static"><a class="static menu-item" href="/university/webcontacts/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Электронные обращения</span></span></a></li><li class="static"><a class="static menu-item new-window" href="/university/persons" target="_blank"><span class="additional-background"><span class="menu-item-text">Личные кабинеты</span></span></a></li><li class="static"><a class="static menu-item" href="/university/Pages/contacts.aspx"><span class="additional-background"><span class="menu-item-text">Контакты и банковские реквизиты</span></span></a></li><li class="static"><a class="static menu-item" href="/university/Pages/antiterror.aspx"><span class="additional-background"><span class="menu-item-text">Антитеррористическая и антиэкстремистская деятельность</span></span></a></li><li class="static"><a class="static menu-item" href="/university/Pages/ovz.aspx"><span class="additional-background"><span class="menu-item-text">Информация для лиц с ограниченными возможностями</span></span></a></li>
+			</ul>
+		</div>
+	</div>
+						</div>
+</div>
+			
+			
+					
+				
+				
+				
+				
+				
+				</div>
+				</div>
+
+
+						
+						
+</div></div>
+ <!-- end of PlaceHolderLeftColoumn //
+
+by Sveta - trash and all content
+
+<ContentTemplate>
+						<ul class="s4-specialNavLinkList">
+							<li>
+								
+							</li>
+							<li>
+								<a id="ctl00_idNavLinkViewAllV4" accesskey="3" href="/university/rectorate/_layouts/viewlsts.aspx"><span style="height:16px;width:16px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust s4-specialNavIcon"><img src="/_layouts/images/fgimg.png" border="0" style="position:absolute;left:-0px !important;top:-0px !important;border-width:0px;" /></span>&#160;<span class="ms-splinkbutton-text">Весь контент сайта</span></a>
+							</li>
+						</ul>
+</ContentTemplate>
+
+-->
+						
+					</div>
+				</div>
+				<div class="s4-ca s4-ca-dlgNoRibbon" id="MSO_ContentTable-regular">
+					<h2 id="PageTitleInTitleArea-regular">
+					
+	
+	
+			Ректор
+		
+
+					</h2>
+
+					<div class="s4-die">
+						
+						
+				
+
+
+						
+							<div id="onetidPageTitleAreaFrame" class='ms-pagetitleareaframe s4-pagetitle'></div>
+						
+						<span class="s4-die">
+							
+						</span>
+						
+							
+						
+						
+					</div>
+					
+						<div class='s4-ba'><div class='ms-bodyareacell'>
+							<div id="ctl00_MSO_ContentDiv">
+						<a name="mainContent"></a>
+						
+	
+	
+			
+					<div ID="PagesTopZone">
+						<menu class="ms-SrvMenuUI">
+	<ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute(&#39;helpLink&#39;), MenuWebPart.getAttribute(&#39;helpMode&#39;))" text="Справка" type="option" style="display:none">
+
+	</ie:menuitem>
+</menu>
+					</div>
+
+			
+			<div class="article article-left">
+							
+				<div class="article-content">
+					<div id="ctl00_PlaceHolderMain_ctl01_ctl01_label" style='display:none'>Содержимое страницы</div><div id="ctl00_PlaceHolderMain_ctl01_ctl01__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl01_ctl01_label"><div align="left" class="header2"><table class="ms-rteTable-0" style="height:206px;width:100%"><tbody><tr class="ms-rteTableEvenRow-0"><td class="ms-rteTableEvenCol-0" rowspan="1"><strong> <img alt="137х200.jpg" src="/university/rectorate/PublishingImages/137х200.jpg" style="margin:5px" /><br /><br /></strong><strong> </strong></td>
+<td class="ms-rteTableOddCol-0"><h2 class="ms-rteElement-H2" style="text-align:center"><strong> Эскиндаров Михаил Абдурахманович</strong></h2>
+<p class="ms-rteElement-H2" style="text-align:center">(Эскиндаров Мухадин Абдурахманович)</p>
+<div style="text-align:center"><div><span><strong>Ректор федерального государственного образовательного бюджетного учреждения высшего образования &quot;Финансовый университет при Правительстве Российской Федерации&quot;, доктор экономических наук, профессор, Заслуженный деятель науки Российской Федерации, академик Российской академии образования.</strong></span></div></div></td></tr></tbody></table></div>
+<div> </div>
+<div><div class="ms-rteElement-Callout2">Приемная: <span><span><span><span><span><span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space:nowrap">(499) 943-9580</span></span></span></span></span></span>, <span lang="EN-US"><a href="mailto:academy@fa.ru">academy@fa.ru</a></span></div></div>
+<h2 class="ms-rteElement-H2">Дата и место рождения: </h2>
+<p class="ms-rteElement-P">15 ноября 1951 года, аул Бесленей Карачаево-Черкесской Автономной Области Ставропольского Края  (Карачаево-Черкесская Республика). </p>
+<h2 class="ms-rteElement-H2">Семейное положение: </h2>
+<p class="ms-rteElement-P">Женат, двое взрослых детей</p>
+<h2 class="ms-rteElement-H2">Образование: </h2>
+<p class="ms-rteElement-P">1971-1976 - Московский финансовый институт (МФИ), ныне ФГОБУ ВО &quot;Финансовый университет при Правительстве Российской Федерации&quot; (Финансовый университет), Кредитно-экономический факультет </p>
+<ul><li><div class="ms-rteElement-P">Специальность: финансы и кредит </div></li>
+<li><p class="ms-rteElement-P">Квалификация: экономист </p></li></ul>
+<p class="ms-rteElement-P">1976 - 1982 - Аспирантура МФИ по кафедре &quot;Политическая экономия&quot; </p>
+<h2 class="ms-rteElement-H2">Ученые степени и звания </h2>
+<ul><li><div class="ms-rteElement-P">1982 - кандидат экономических наук </div></li>
+<li><div class="ms-rteElement-P">1988 - доцент </div></li>
+<li><div class="ms-rteElement-P">1998 - профессор </div></li>
+<li><div class="ms-rteElement-P">2000 - доктор экономических наук </div></li></ul>
+<h2 class="ms-rteElement-H2">Профессиональная деятельность </h2>
+<p class="ms-rteElement-P">Московский финансовый институт, с 1992 г. - Финансовая академия при Правительстве Российской Федерации, с 2010 г. - Финансовый университет при Правительстве Российской Федерации (ассистент - старший преподаватель - доцент - профессор).</p>
+<ul><li><div class="ms-rteElement-P">1981-1982 - заместитель декана Финансово-экономического факультета; </div></li>
+<li><div class="ms-rteElement-P">1982-1984 - начальник отдела кадров;</div></li>
+<li><div class="ms-rteElement-P">1984-1987 - декан Факультета международных экономических отношений;</div></li>
+<li><div class="ms-rteElement-P">1987-1991 - руководитель группы советских преподавателей Аденского университета (Народно - Демократическая Республика Йемен, в настоящее время Йеменская Арабская Республика);</div></li>
+<li><div class="ms-rteElement-P">1991-2002 - проректор по экономической работе, проректор по учебной работе, первый проректор по учебной работе; </div></li>
+<li><div class="ms-rteElement-P">2002-2006 - первый проректор;</div></li>
+<li><div class="ms-rteElement-P">с 2006 - ректор.</div></li></ul>
+<p>Как ректор и председатель Ученого совета Финансового университета - одного из ведущих экономических учебных и научных центров России - направляет деятельность профессорско-преподавательского состава, всего коллектива на путь инновационного развития, превращения вуза в исследовательский университет современного типа, его интеграции в европейское и мировое образовательное и научное пространство. Под руководством ректора успешно осуществлено присоединение к университету Всероссийского заочного финансово-экономического института (ВЗФЭИ), Государственного университета Министерства финансов Российской Федерации (ГУМФ), Всероссийской государственной налоговой академии Министерства финансов Российской Федерации (ВГНА) и Института повышения квалификации информационных работников (ИПКИР).</p>
+<h2 class="ms-rteElement-H2">Научно-исследовательская деятельность </h2>
+<p class="ms-rteElement-P">М.А.Эскиндаров - видный ученый-экономист. Диапазон его научных интересов расширялся с годами и ныне включает проблемы эффективности труда и производства, формирования и развития финансово-промышленных групп, корпоративного управления, экономические проблемы мирового развития, проблемы высшего образования в России и в мире. Председатель диссертационных советов по специальностям &quot;Мировая экономика&quot; и &quot;Экономика и управление народным хозяйством&quot;. Осуществляет научное руководство диссертационными работами аспирантов, научный консультант докторанта. Председатель редакционного совета международного теоретического и научно-практического журнала &quot;Вестник Финансового университета&quot;, член редакционной коллегии ряда научных журналов. Автор более 200 научных публикаций - монографий, учебников, статей, созданных за последние 30 лет как им лично, так и в соавторстве, - общим объемом свыше 310 п.л., в их числе: </p>
+<ul><li><div class="ms-rteElement-P">Мировая экономика на рубеже XX-XXI веков. Учебное пособие (1995); </div></li>
+<li><div class="ms-rteElement-P">Финансово-промышленные группы: зарубежный опыт и проблемы формирования в России (1995, 1996); </div></li>
+<li><div class="ms-rteElement-P">Как обеспечить рост капитала: воспроизводственные основы экономики фирмы. Учебное пособие (1996); </div></li>
+<li><div class="ms-rteElement-P">Экономические основы жизнедеятельности фирмы ( Можно ли избежать банкроства?) (1996); </div></li>
+<li><div class="ms-rteElement-P">Финансово-промышленные группы: зарубежный опыт и реалии России (1996); </div></li>
+<li><div class="ms-rteElement-P">Концептуальные основы многоуровневой системы высшего образования в России: анализ отечественного и зарубежного опыта (1997);</div></li>
+<li><div class="ms-rteElement-P">Капитал финансово-промышленных корпоративных структур: теория и практика (1998); </div></li>
+<li><div class="ms-rteElement-P">Финансово-промышленные группы (1998); </div></li>
+<li><div class="ms-rteElement-P">Российские ФПГ: проблемы взаимодействия капитала и власти (1998); </div></li>
+<li><div class="ms-rteElement-P">Российские ФПГ: проблемы и перспективы развития в кризисных условиях (1998); </div></li>
+<li><div class="ms-rteElement-P">Становление корпоративных структур в современной российской экономике (1999); </div></li>
+<li><div class="ms-rteElement-P">Современная внешнеэкономическая деятельность. Учебное пособие (2000); </div></li>
+<li><div class="ms-rteElement-P">Развитие корпоративных структур в современной экономике России (2000); </div></li>
+<li><div class="ms-rteElement-P">Глобализация мировой экономики и антикризисное управление. Части 1, 2, 3 (2002); </div></li>
+<li><div class="ms-rteElement-P">Интеллектуальный капитал - фактор экономического развития современной России (2002); </div></li>
+<li><div class="ms-rteElement-P">Оценка стоимости предприятия (бизнеса). Учебник (2003); </div></li>
+<li><div class="ms-rteElement-P">Экономическая система - основа рационального воспроизводства капитала (2003); </div></li>
+<li><div class="ms-rteElement-P">Международные экономические отношения. Учебное пособие для дистанционного обучения (2003); </div></li>
+<li><div class="ms-rteElement-P">Мировая экономика. Учебное пособие для дистанционного обучения (2003); </div></li>
+<li><div class="ms-rteElement-P">Финансово-промышленные группы в современной экономике. Учебное пособие (2004); </div></li>
+<li><div class="ms-rteElement-P">Современные корпоративные стратегии и технологии в России. Выпуски I и II (2005, 2006) </div></li>
+<li><div class="ms-rteElement-P">Государственное регулирование сферы высшего профессионального образования в условиях изменения организационно-правовых форм образовательных учреждений (2006); </div></li>
+<li><div class="ms-rteElement-P">Политология. Учебник. (2007); </div></li>
+<li><div class="ms-rteElement-P">Корпоративная социальная ответственность: управленческий аспект. Монография (2008); </div></li>
+<li><div class="ms-rteElement-P">Микроэкономика: практический подход (Managerial Economics). Учебник (2008); </div></li>
+<li><div class="ms-rteElement-P">&quot;Риски финансового кризиса в России: факторы, сценарии и политика противодействия&quot;. Национальный доклад (2008). </div></li>
+<li><div class="ms-rteElement-P">Теоретические и методические проблемы инновационной системы образования в Финансовой академии при Правительстве Российской Федерации. Монография (2008).</div></li>
+<li><div class="ms-rteElement-P"><span>Международные экономические отношения: Учебник (2008)         </span><span>     </span></div></li>
+<li><div class="ms-rteElement-P"><span>Проблемы бухгалтерского учета в России и Болгарии: Монография (2008)</span></div></li>
+<li><div class="ms-rteElement-P"><span>Современные корпоративные стратегии и технологии в России: Сборник научных статей. Вып.III (Ч.1-3) (2008)</span></div></li>
+<li><div class="ms-rteElement-P"><span>Экономическая теория: Экспресс-курс: Учебное   пособие (2008)                 </span></div></li>
+<li><div class="ms-rteElement-P"><span>Мировая экономика: Учебник (2009)</span></div></li>
+<li><div class="ms-rteElement-P"><span>Теория и практика корпоративного управления: Электронный (2009)</span></div></li>
+<li><div class="ms-rteElement-P"><span>Финансовая академия при Правительстве Российской Федерации: история и современность (2009)</span></div></li>
+<li><div class="ms-rteElement-P"><span>Финансовое право: Учебник (2009)                     </span></div></li>
+<li><div class="ms-rteElement-P"><span>Экономическая теория. Кейсы из российской практики. Бакалавриат: Учебное  пособие (2009)            </span></div></li>
+<li><div class="ms-rteElement-P"><span>Современные корпоративные стратегии и технологии в России.  Вып. IV, Ч.1-2 (2009)</span></div></li>
+<li><div class="ms-rteElement-P"><span>Бакалавр: Микроэкономика: Электронный обучающий курс (2010)</span></div></li>
+<li><div class="ms-rteElement-P"><span>Российская экономика в 2009-2011 годах: тенденции, анализ, прогноз: Аналитический доклад (2010)  </span></div></li>
+<li><div class="ms-rteElement-P"><span>Современные корпоративные стратегии и технологии в России.  Вып. V, Ч.1-3 (2010)</span></div></li>
+<li><div class="ms-rteElement-P"><span>Бюджетные и налоговые реформы в современном обществе: сравнительный анализ Франции и России: Монография (2011)          </span></div></li>
+<li><div class="ms-rteElement-P"><span>Внешнеэкономическая деятельность: Учебник (2011)  </span></div></li>
+<li><div class="ms-rteElement-P"><span>Макроэкономика. Теория и российская практика: Учебник.- 6 изд., стереотип. (2011)</span></div></li>
+<li><div class="ms-rteElement-P"><span>Мировая политическая мысль от античности до  современности: Словарь-справочник выдающихся мыслителей и политиков (2011)</span></div></li>
+<li><div class="ms-rteElement-P"><span>Оценка, контроль и управление интеллектуальным потенциалом исследовательского университета: Монография (2011)</span></div></li>
+<li><div class="ms-rteElement-P"><span>Преподаватель – основная фигура в реализации инновационной системы образования: Монография (2011)</span></div></li>
+<li><div class="ms-rteElement-P"><span>Современное государство: философские, социально-экономические и правовые основания в контексте глобализации: Монография (2011)</span></div></li>
+<li><div class="ms-rteElement-P"><span>Современные корпоративные стратегии и технологии в России. Вып.VI, (Ч.1-3) (2011) </span></div></li>
+<li><div class="ms-rteElement-P"><span>Финансовый университет: прошлое, настоящее, будущее: Учебное пособие (2011)</span></div></li>
+<li><div class="ms-rteElement-P"><span>Мировая экономика: учебник (2012)</span></div></li>
+<li><div class="ms-rteElement-P"><span>Российская экономика в 2010-2012 годах: тенденции, анализ, прогноз: Аналитический доклад (2012)</span></div></li>
+<li><div class="ms-rteElement-P"><span>Современные корпоративные стратегии и технологии в России.  Вып. VII, Ч.1-3 (2012)</span></div></li>
+<li><div class="ms-rteElement-P"><span>Мировая экономика: Учебник.-2-е изд., перераб. и доп. (2013)</span></div></li>
+<li><div class="ms-rteElement-P"><span>Точки сопряжения экономических стратегий развития  государств – членов АТЭС и ШОС – при переходе к многополярности: Монография (2013)</span></div></li>
+<li><div class="ms-rteElement-P"><span>Теория слияний и поглощений (в схемах и таблицах): Учебное пособие (2013)​</span></div></li>
+<li><div class="ms-rteElement-P"><div>Инновационное развитие России: проблемы и решения: Монография (2013)</div></div></li>
+<li><div class="ms-rteElement-P"><div>Российская экономика в 2011-2013 годах: тенденции, анализ, прогноз: Аналитический доклад(2013)</div></div></li>
+<li><div class="ms-rteElement-P"><div>Монеты и банкноты от античности до наших дней:  происхождение и эволюция  (2014)</div></div></li>
+<li><div class="ms-rteElement-P"><div>Правовые риски в системе публичного управления: Монография (2014)</div></div></li>
+<li><div class="ms-rteElement-P"><div>Теоретические и прикладные аспекты развития современного предпринимательства : Монография (2014)</div></div></li>
+<li><div class="ms-rteElement-P"><div>Конкурентоспособность национального хозяйства в условиях многополярности: Россия, Индия, Китай : Монография (2015)</div></div></li>
+<li><div class="ms-rteElement-P"><div>The competitiveness of the national economy under multipolarity: Russia, India, China  [Translated from Russian] (2015)</div></div></li>
+<li><div class="ms-rteElement-P"><span>Современное предпринимательство в инновационной экономике: теория и практика: монография (2015)</span></div></li>
+<li><div class="ms-rteElement-P"><span></span><span lang="EN-US">Modern Corporate Finance, Investments and Taxation: Monograpf <span> </span>(2015)</span></div></li>
+<li><div class="ms-rteElement-P"><span lang="EN-US"></span><span>Денежно-кредитная политика России: новые вызовы и перспективы: Монография<span>  </span>(2016)</span></div></li>
+<li><div class="ms-rteElement-P"><span>Инновации в высокотехнологичных отраслях промышленности: методическая и организационно-институциональная поддержка: Монография (2016)</span></div></li>
+<li><div class="ms-rteElement-P"><span>Корпоративная социальная ответственность: учебник (2016)</span></div></li>
+<li><div class="ms-rteElement-P"><span>Корпоративные финансы: учебник (2016)</span></div></li>
+<li><div class="ms-rteElement-P"><span>Мировые финансы: в 2 т.: учебник и практикум для бакалавриата и магистратуры (2016)</span></div></li>
+<li><div class="ms-rteElement-P"><span>Не смолкнет слава Великой Победы: монография (2016)</span></div></li>
+<li><div class="ms-rteElement-P"><span>Предпринимательство и бизнес: финансово-экономические, управленческие и правовые аспекты устойчивого развития: Монография (2016) </span></div></li>
+<li><div class="ms-rteElement-P"><span>Ракетно-космическая промышленность России: институциональное и экономическое развитие: монография (2016)</span></div></li>
+<li><div class="ms-rteElement-P"><span>Экономика: учебное пособие (2016)</span></div></li>
+<li><div><div><span>Интеграция в условиях многополярности. Эволюция теории и практики реализации: Монография (2016)</span></div></div></li>
+<li><div><div><span></span><span>Международный финансовый рынок: учебник и практикум для бакалавриата и магистратуры  (2017)</span></div></div></li>
+<li><div><div><span></span><span>Мировые финансы: учебник (2017) </span></div></div></li>
+<li><div><div><span></span><span>Словарь финансово-экономических терминов.— 2-е изд. (2017)</span></div></div></li></ul>
+<h2 class="ms-rteElement-H2">Членство в государственных и общественных организациях</h2>
+<ul><li><span>Член Комиссии при Президенте Российской Федерации по вопросам государственной службы и резерва управленческих кадров</span></li>
+<li><span>Член коллегии Министерства финансов Российской Федерации</span></li>
+<li><span>Член Научного Совета при Совете Безопасности Российской Федерации</span></li>
+<li><span>Член Общественного совета при Министерстве финансов Российской Федерации</span></li>
+<li><span>Член Общественного совета при Федеральной налоговой службе</span></li>
+<li><span>Член Президиума научно-консультационного совета Счетной палаты Российской Федерации</span></li>
+<li><span>Член Правления Российского Союза ректоров</span></li>
+<li><span>Член Президиума Московского Совета ректоров</span></li>
+<li><span>Член Правления Российского союза промышленников и предпринимателей (РСПП)</span></li>
+<li><span>Независимый член Совета Директоров ряда компаний и банков</span></li>
+<li><span>Действительный член Российской академии естественных наук (РАЕН) </span></li>
+<li><span>Академик </span><span>ФГБУ «Российская академия образования»</span></li>
+<li><div style="margin:0cm 0cm 0pt"><span style="font-size:14pt;font-family:&quot;times new roman&quot;, serif"></span>Вице-президент Вольного экономического общества России</div></li>
+<li><div><div><span>Член Межрегионального банковского совета</span> <span>при Совете Федерации Федерального Собрания Российской Федерации</span></div></div></li></ul>
+<h2 class="ms-rteElement-H2">Награды и почетные титулы<span> </span></h2>
+<p class="ms-rteElement-P">Имеет ряд наград и почетных титулов. Среди них: </p>
+<ul type="disc"><li><span>1996 - Орден Дружбы; </span></li>
+<li><span>1997 - Нагрудный знак &quot;Почетный работник высшего образования России&quot;;</span></li>
+<li><span>1997 - Медаль «В память 850-летия Москвы»; </span></li>
+<li><span>2001 - Лауреат премии Президента Российской Федерации в области образования; </span></li>
+<li><span>2001 - Лауреат премии «Лучший менеджер 2001 года» в области образования;</span></li>
+<li><span>2001 – Почетное звание «Заслуженный деятель науки и образования Республики Калмыкия»; </span></li>
+<li><span>2002-2007 - Почетные звания: «Заслуженный деятель науки Республики Ингушетия», «Заслуженный деятель науки КЧР», «Заслуженный деятель науки КБР», «Заслуженный деятель науки Республики Бурятия»; </span></li>
+<li><span>2003 – Почетная грамота Федеральной службы налоговой полиции Российской Федерации;</span></li>
+<li><span>2008 - Знак отличия «За заслуги в укреплении содружества со Счётной палатой Российской Федерации»;</span></li>
+<li><span>2009 - Почетное звание «Заслуженный деятель науки Российской Федерации»; </span></li>
+<li><span>2009 – Почетное звание «Почетный работник образования Республики Казахстан»; </span></li>
+<li><span>2009 - Почетный доктор Казахского экономического университета им. Т.Рыскулова; </span></li>
+<li><span>2010 - Лауреат премии Правительства Российской Федерации в области образования; </span></li>
+<li><span>2010 - медаль «Патриот России»;</span></li>
+<li><span>2011 - орден Дружбы Социалистической Республики Вьетнам;</span></li>
+<li><span>2011 – Почетная грамота Совета Федерации Федерального Собрания Российской Федерации; </span></li>
+<li><span>2012 - Почетное звание «Заслуженный деятель науки Республики Адыгея»​​​;</span></li>
+<li><span>2013 - Памятный знак «За заслуги» ФСКН России; </span></li>
+<li><span>2014 - Орден «За заслуги перед Отечеством» IV степени;</span></li>
+<li><span>2014 - Почетная грамота ФНС России;</span></li>
+<li><span>2014 - Почетная грамота Федерального казначейства;</span></li>
+<li><span>2014 – Благодарность Министра финансов Российской Федерации;</span></li>
+<li><span>2015 - Почетная грамота Федеральной антимонопольной службы;</span></li>
+<li><span>2016 - медаль Столыпина П.А. II степени;</span></li>
+<li><span>2016 - Почетная грамота Государственной Думы Федерального Собрания Российской Федерации.</span></li></ul>
+<h2 class="ms-rteElement-H2"><span>Координация работы:</span></h2>
+<ul><li><div class="ms-rteElement-P"><span><a href="/university/rectorate/Pages/structure.aspx" target="_blank">ректората</a>;</span></div></li>
+<li><div class="ms-rteElement-P"><span><a href="/university/departments/Pages/by_deps.aspx" target="_blank">департаментов</a>;</span></div></li>
+<li><div class="ms-rteElement-P"><span><a href="/dep/pravovoe/Pages/default.aspx" target="_blank">Юридической службы</a>;</span></div></li>
+<li><div class="ms-rteElement-P"><span><a href="/dep/ubuo/Pages/default.aspx" target="_blank">Управления бухгалтерского учета и отчетности</a>;</span></div></li>
+<li><div class="ms-rteElement-P"><span><a href="/priemka/pk/Pages/priem.aspx" target="_blank">Управления профильной подготовки и работы с абитуриентами</a>;</span></div></li>
+<li><div class="ms-rteElement-P"><a href="/dep/sovet/Pages/contacts.aspx" target="_blank">Отдела Ученых советов</a>;</div></li>
+<li><div class="ms-rteElement-P"><span>Первого отдела;</span></div></li>
+<li><div class="ms-rteElement-P"><span><a href="/dep/2otdel/information/Pages/default.aspx" target="_blank">Второго отдела</a> (по вопросам мобилизационной работы).</span></div></li></ul>
+​​​​​</div>
+				</div>
+			</div>
+					<div ID="PagesBottomZone">
+						
+					</div>
+
+		
+
+							</div>
+						</div></div>
+					<div class="s4-die">
+						
+						
+					</div>
+				</div>
+			</div> <!-- eof fa-mainarea -->
+			
+
+
+  
+		
+  
+   <input type="text" name="__spText1" title="text" style="display:none;" />
+   <input type="text" name="__spText2" title="text" style="display:none;" />
+
+<!--FOOTER-->
+	
+	<div id="fa-portal-footer">
+        
+
+        <div class="copyright"><table width="100%" border="0" cellspacing="5" cellpadding="0" style="height:87px;width:100%"><tbody><tr><td width="70%" height="66" valign="middle"><div><a href="mailto:web@fa.ru">Финансовый университет</a> © ® 1998-2017, <a href="/dep/skp/Pages/default.aspx" target="_blank">Служба корпоративного портала</a><br />125993, Москва, Ленинградский проспект, 49<br /><em>При использовании материалов сайта ссылка на </em><a href="/"><em>http://www.fa.ru</em></a><em> обязательна / <font color="#000000"><a href="http://international.fa.ru/Pages/Home.aspx">English Version​</a> / <a href="/Pages/zoom-ver.aspx" target="_blank">Версия для слабовидящих</a> / <a href="https://152фз.рф/get_terms/bc9867b7d214edc84637d3416a05a612">Пользовательское соглашение</a> / <a href="https://152фз.рф/get_prv/bc9867b7d214edc84637d3416a05a612">Политика конфидециальности</a></font></em></div></td>
+<td width="30%" height="66" align="right" style="text-align:left"></td></tr></tbody></table></div>
+
+	</div> 
+	
+	
+<!--END FOOTER-->
+
+</div>
+<div id="ctl00_panelZone">
+	<div style='display:none' id='hidZone'></div>
+</div><input type='hidden' id='_wpcmWpid' name='_wpcmWpid' value='' /><input type='hidden' id='wpcmVal' name='wpcmVal' value=''/>
+
+<script type="text/javascript">
+//<![CDATA[
+var _spFormDigestRefreshInterval = 1440000;window.g_updateFormDigestPageLoaded = new Date(); window.g_updateFormDigestPageLoaded.setDate(window.g_updateFormDigestPageLoaded.getDate() -5);function loadMDN2() { EnsureScript('MDN.js', typeof(loadFilterFn), null); }
+function loadMDN1() { ExecuteOrDelayUntilScriptLoaded(loadMDN2, 'sp.ribbon.js'); }
+_spBodyOnLoadFunctionNames.push('loadMDN1');
+function _spNavigateHierarchyEx(nodeDiv, dataSourceId, dataPath, url, listInContext, type, additionalQString) {
+    SetAdditionalNavigateHierarchyQString(additionalQString);
+    g_originalSPNavigateFunc(nodeDiv, dataSourceId, dataPath, url, listInContext, type);
+}
+
+g_originalSPNavigateFunc = _spNavigateHierarchy;
+_spNavigateHierarchy = _spNavigateHierarchyEx;
+
+function EnsureScripts(scriptInfoList, finalFunction)
+{
+if (scriptInfoList.length == 0)
+{
+finalFunction();
+}
+else
+{
+var scriptInfo = scriptInfoList.shift();
+var rest = function () { EnsureScripts(scriptInfoList, finalFunction); };
+var defd;
+try
+{
+eval('defd = typeof(' + scriptInfo[1] + ');');
+}
+catch (e)
+{
+defd = 'undefined';
+}
+if (scriptInfo[2])
+{
+EnsureScript(scriptInfo[0], defd, null);
+ExecuteOrDelayUntilScriptLoaded(rest, scriptInfo[0]);
+}
+else
+{
+EnsureScript(scriptInfo[0], defd, rest);
+}
+}
+}
+function PublishingRibbonUpdateRibbon()
+{
+var pageManager = SP.Ribbon.PageManager.get_instance();
+if (pageManager)
+{
+pageManager.get_commandDispatcher().executeCommand('appstatechanged', null);
+}
+}var _fV4UI = true;
+function _RegisterWebPartPageCUI()
+{
+    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{2aeff2be-7c44-41ad-994c-4face9b83415}",itemId: 2,recycleBinEnabled: true,enableMinorVersioning: false,enableModeration: false,forceCheckout: false,rootFolderUrl: "\u002funiversity\u002frectorate\u002fPages",itemPermissions:{High:16,Low:200769}};
+    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);
+    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();
+    var hid;
+    hid = document.getElementById("_wpSelected");
+    if (hid != null)
+    {
+        var wpid = hid.value;
+        if (wpid.length > 0)
+        {
+            var zc = document.getElementById(wpid);
+            if (zc != null)
+                wpcomp.selectWebPart(zc, false);
+        }
+    }
+    hid = document.getElementById("_wzSelected");
+    if (hid != null)
+    {
+        var wzid = hid.value;
+        if (wzid.length > 0)
+        {
+            wpcomp.selectWebPartZone(null, wzid);
+        }
+    }
+}
+ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js"); var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';//]]>
+</script>
+<script type="text/javascript" language="JavaScript" defer="defer">
+<!--
+function SearchEnsureSOD() { EnsureScript('search.js',typeof(GoSearch)); } _spBodyOnLoadFunctionNames.push('SearchEnsureSOD');function S501D001A_Submit() {SearchEnsureSOD();GoSearch(null,'ctl00_PlaceHolderSearchArea_ctl01_g_c6cf5ad7_dee9_4ad5_a7c7_b79bf828147a_S501D001A_InputKeywords',null,true,false,null,null,null,null,null,'\u002fsearch\u002fResults.aspx', '\u042D\u0442\u043E\u0442 \u0441\u0430\u0439\u0442','\u042D\u0442\u043E\u0442 \u0441\u043F\u0438\u0441\u043E\u043A', '\u042D\u0442\u0430 \u043F\u0430\u043F\u043A\u0430', '\u0421\u0432\u044F\u0437\u0430\u043D\u043D\u044B\u0435 \u0441\u0430\u0439\u0442\u044B', '\u002funiversity\u002frectorate\u002f_layouts\u002fOSSSearchResults.aspx', '', '\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043E\u0434\u043D\u043E \u0438\u043B\u0438 \u043D\u0435\u0441\u043A\u043E\u043B\u044C\u043A\u043E \u0441\u043B\u043E\u0432 \u0434\u043B\u044F \u043F\u043E\u0438\u0441\u043A\u0430.');}
+// -->
+</script><script type="text/javascript" language="JavaScript" >
+// append an onload event handler
+$addHandler(window, 'load', function() {
+  document.getElementById('ctl00_PlaceHolderSearchArea_ctl01_g_c6cf5ad7_dee9_4ad5_a7c7_b79bf828147a_S501D001A_InputKeywords').name = 'InputKeywords';
+});
+function S501D001A_OSBEK(event1) { 
+if((event1.which == 10) || (event1.which == 13))
+{   
+S501D001A_Submit();return false;
+}
+}
+// -->
+</script><script type="text/javascript">
+// <![CDATA[
+// ]]>
+</script>
+<script type="text/javascript">RegisterSod("sp.core.js", "\u002f_layouts\u002fsp.core.js?rev=7ByNlH\u00252BvcgRJg\u00252BRCctdC0w\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.res.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=ru\u00252Dru\u0026name=SP\u00252ERes\u0026rev=U9obUiDbLQBX0m4aiokq7w\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002fsp.ui.dialog.js?rev=IuXtJ2CrScK6oX4zOTTy\u00252BA\u00253D\u00253D");RegisterSodDep("sp.ui.dialog.js", "sp.core.js");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("core.js", "\u002f_layouts\u002f1049\u002fcore.js?rev=8TQ\u00252B2RhqAy\u00252BoG5ugdChQow\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.runtime.js", "\u002f_layouts\u002fsp.runtime.js?rev=9sKdsC9N6p2BiRk3313M7Q\u00253D\u00253D");RegisterSodDep("sp.runtime.js", "sp.core.js");RegisterSodDep("sp.runtime.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("sp.js", "\u002f_layouts\u002fsp.js?rev=SpGB4\u00252FzYmCWpwoPWNG2dsg\u00253D\u00253D");RegisterSodDep("sp.js", "sp.core.js");RegisterSodDep("sp.js", "sp.runtime.js");RegisterSodDep("sp.js", "sp.ui.dialog.js");RegisterSodDep("sp.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("cui.js", "\u002f_layouts\u002fcui.js?rev=k\u00252B4HtUzT9\u00252B3mSycgD7gPaQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002finplview.js?rev=ZfVDYd30Z2D01DIRRl8ETA\u00253D\u00253D");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
+<script type="text/javascript">RegisterSod("ribbon", "\u002f_layouts\u002fsp.ribbon.js?rev=F\u00252BUEJ66rbXzSvpf7nN69wQ\u00253D\u00253D");RegisterSodDep("ribbon", "core.js");RegisterSodDep("ribbon", "sp.core.js");RegisterSodDep("ribbon", "sp.js");RegisterSodDep("ribbon", "cui.js");RegisterSodDep("ribbon", "sp.res.resx");RegisterSodDep("ribbon", "sp.runtime.js");RegisterSodDep("ribbon", "inplview");</script>
+<script type="text/javascript">RegisterSod("sp.ui.policy.resources.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=ru\u00252Dru\u0026name=SP\u00252EUI\u00252EPolicy\u00252EResources\u0026rev=JNLRJeY\u00252BcsHD50C56WgEQA\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("mdn.js", "\u002f_layouts\u002fmdn.js?rev=gwmFFJ2\u00252FfFacqXWAqG\u00252FqKg\u00253D\u00253D");RegisterSodDep("mdn.js", "sp.core.js");RegisterSodDep("mdn.js", "sp.runtime.js");RegisterSodDep("mdn.js", "sp.js");RegisterSodDep("mdn.js", "cui.js");RegisterSodDep("mdn.js", "ribbon");RegisterSodDep("mdn.js", "sp.ui.policy.resources.resx");</script>
+<script type="text/javascript">RegisterSod("sp.publishing.resources.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=ru\u00252Dru\u0026name=SP\u00252EPublishing\u00252EResources\u0026rev=9Dl2KyNtfMhBKXATMOME\u00252BQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.ui.pub.ribbon.js", "\u002f_layouts\u002fsp.ui.pub.ribbon.js?rev=RGQSBI9Dm0E345iq\u00252FxUpHg\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("msstring.js", "\u002f_layouts\u002f1049\u002fmsstring.js?rev=UTuJvjXlFdfr2atYfA4F7g\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f1049\u002fnon_ie.js?rev=EVTj1bu32\u00252FMla6SDN\u00252FsNTA\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("WPAdderClass", "\u002f_layouts\u002fwpadder.js?rev=hnGJJEMcU5XH\u00252BCq7PlSxJw\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("search.js", "\u002f_layouts\u002fsearch.js?rev=BjP0\u00252BmPXUFhF7kDZmHIaVg\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSodDep("browserScript", "msstring.js");</script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+function init_zz1_TopNavigationMenuV4() {$create(SP.UI.AspMenu, null, null, null, $get('zz1_TopNavigationMenuV4'));}ExecuteOrDelayUntilScriptLoaded(init_zz1_TopNavigationMenuV4, 'sp.js');
+function init_zz2_V4QuickLaunchMenu() {$create(SP.UI.AspMenu, null, null, null, $get('zz2_V4QuickLaunchMenu'));}ExecuteOrDelayUntilScriptLoaded(init_zz2_V4QuickLaunchMenu, 'sp.js');
+//]]>
+</script>
+</form>
+
+
+
+<!--HIDE UNUSED PLACEHOLDERS-->
+
+		</asp:ContentPlaceHolder>
+<!-- Yandex.Metrika counter --><script type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter14916592 = new Ya.Metrika({id:14916592, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="/watch/14916592" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22650764-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</body>
+</html>

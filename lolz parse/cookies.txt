@@ -1,0 +1,71 @@
+[
+{
+    "domain": "lolzteam.org",
+    "expirationDate": 1579100237.740422,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "xf_id",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "b41b6b8b9ae7c5daf125515bbb140bab",
+    "id": 1
+},
+{
+    "domain": "lolzteam.org",
+    "expirationDate": 1590603405.162936,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "xf_last_read_article_date",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "1573853580",
+    "id": 2
+},
+{
+    "domain": "lolzteam.org",
+    "expirationDate": 1581087438.154248,
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "xf_logged_in",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "1",
+    "id": 3
+},
+{
+    "domain": "lolzteam.org",
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "xf_session",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": true,
+    "storeId": "0",
+    "value": "70adc7c7f464c0d1dbfb654e71b5f697",
+    "id": 4
+},
+{
+    "domain": "lolzteam.org",
+    "expirationDate": 1581087438.154192,
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "xf_user",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "24678%2Cc31149bd53542a6253b9b22c0c0b677b8a19739c",
+    "id": 5
+}
+]
